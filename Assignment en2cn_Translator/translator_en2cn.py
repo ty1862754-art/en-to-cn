@@ -10,6 +10,9 @@ import torch
 import torch.nn as nn
 import numpy as np
 from tqdm import tqdm
+import os
+import jieba
+import evaluate
 
 import warnings
 warnings.filterwarnings('ignore') # Filtering warnings
@@ -140,12 +143,20 @@ def run_validation(model, data, tokenizer_tgt, max_len, device, print_msg, num_e
     model.eval() # Setting model to evaluation mode
     count = 0 # Initializing counter to keep track of how many examples have been processed
     
-    console_width = 80 # Fixed witdh for printed messages
+    console_width = 80 # Fixed width for printed messages
+    
+    try:
+        bleu = evaluate.load("bleu")
+    except Exception as e:
+        bleu = None
+        print_msg(f"Warning: Failed to load evaluate.bleu: {e}")
+
+    predictions = []
+    references = []
     
     # Creating evaluation loop
     with torch.no_grad(): # Ensuring that no gradients are computed during this process
         for i, batch in enumerate(data.dev_data):
-            count += 1
             encoder_input = batch.src.to(device)
             encoder_mask = batch.src_mask.to(device)
             
@@ -155,30 +166,45 @@ def run_validation(model, data, tokenizer_tgt, max_len, device, print_msg, num_e
             # Applying the 'greedy_decode' function to get the model's output for the source text of the input batch
             model_out = greedy_decode(model, encoder_input, encoder_mask, tokenizer_tgt, max_len, device)
 
-            # Retrieving source and target texts from the batch
-            source_text = " ".join([data.en_index_dict[w] for w in data.dev_en[i]])
-            target_text = " ".join([data.cn_index_dict[w] for w in data.dev_cn[i]])
-
-            # save all in the translation list
+            # Reconstruct prediction string and text list
             model_out_text = []
-            # convert id to Chinese, skip 'BOS' 0.
-            print(model_out)
             for j in range(1, model_out.size(0)):
                 sym = data.cn_index_dict[model_out[j].item()]
                 if sym != 'EOS':
                     model_out_text.append(sym)
                 else:
                     break
-
-            # Printing results
-            print_msg('-'*console_width)
-            print_msg(f'SOURCE: {source_text}')
-            print_msg(f'TARGET: {target_text}')
-            print_msg(f'PREDICTED: {model_out_text}')
+            pred_sent = "".join(model_out_text)
             
-            # After two examples, we break the loop
-            if count == num_examples:
-                break
+            # Reconstruct reference string
+            ref_words = [data.cn_index_dict[w] for w in data.dev_cn[i]]
+            # Remove BOS and EOS
+            ref_words = [w for w in ref_words if w not in ['BOS', 'EOS']]
+            ref_sent = "".join(ref_words)
+            
+            # Tokenize with jieba
+            pred_segmented = " ".join(list(jieba.cut(pred_sent, cut_all=False)))
+            ref_segmented = " ".join(list(jieba.cut(ref_sent, cut_all=False)))
+            
+            predictions.append(pred_segmented)
+            references.append([ref_segmented])
+
+            # Printing first few examples
+            if count < num_examples:
+                source_text = " ".join([data.en_index_dict[w] for w in data.dev_en[i]])
+                target_text = " ".join([data.cn_index_dict[w] for w in data.dev_cn[i]])
+                print_msg('-'*console_width)
+                print_msg(f'SOURCE: {source_text}')
+                print_msg(f'TARGET: {target_text}')
+                print_msg(f'PREDICTED: {model_out_text}')
+            
+            count += 1
+            
+    if bleu is not None and len(predictions) > 0:
+        results = bleu.compute(predictions=predictions, references=references)
+        print_msg('-'*console_width)
+        print_msg(f"Validation BLEU Score: {results['bleu'] * 100:.2f} (precision: {[round(p*100, 2) for p in results['precisions']]})")
+        print_msg('-'*console_width)
 
 
 # Training model
@@ -235,8 +261,18 @@ for epoch in range(initial_epoch, config['num_epochs']):
     # to evaluate model performance
     if epoch % 5 == 0:
         run_validation(model, data, data.cn_word_dict, config['seq_len'], device, lambda msg: batch_iterator.write(msg))
+        os.makedirs(os.path.dirname(config['save_file']), exist_ok=True)
+        torch.save(model.state_dict(), config['save_file'])
+        batch_iterator.write(f"Model saved to {config['save_file']}")
 
 print(f"<<<<<<< finished train, cost {time.time()-train_start:.4f} seconds")
+
+# Final validation and saving the final model
+print(">>>>>>> Running final validation and saving final model...")
+run_validation(model, data, data.cn_word_dict, config['seq_len'], device, print)
+os.makedirs(os.path.dirname(config['save_file']), exist_ok=True)
+torch.save(model.state_dict(), config['save_file'])
+print(f"Final model saved to {config['save_file']}")
 
 
 
