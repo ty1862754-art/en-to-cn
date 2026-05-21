@@ -1,0 +1,49 @@
+{
+  "name": "cosine_default_6_layer_peak1e-4",
+  "warmup_epochs": 5,
+  "peak_lr": 0.0001,
+  "min_lr": 1e-06,
+  "best_epoch": 20,
+  "best_dev_bleu": 0.10144316859954797,
+  "test_bleu": 0.09471578816407189,
+  "final_train_loss": 2.3192752931790643,
+  "training_seconds": 3157.4932668209076,
+  "num_test_examples": 1817,
+  "sample_translations": [
+    {
+      "source": "UNK !",
+      "reference": "干杯!",
+      "prediction": "开！",
+      "reference_tokens": "干 杯 !",
+      "prediction_tokens": "开 ！"
+    },
+    {
+      "source": "listen .",
+      "reference": "听着。",
+      "prediction": "听。",
+      "reference_tokens": "听 着 。",
+      "prediction_tokens": "听 。"
+    },
+    {
+      "source": "try it .",
+      "reference": "试试吧。",
+      "prediction": "试试试。",
+      "reference_tokens": "试 试 吧 。",
+      "prediction_tokens": "试 试 试 。"
+    },
+    {
+      "source": "no way !",
+      "reference": "不可能！",
+      "prediction": "不要！",
+      "reference_tokens": "不 可 能 ！",
+      "prediction_tokens": "不 要 ！"
+    },
+    {
+      "source": "drive safely .",
+      "reference": "安全地驾驶。",
+      "prediction": "开始下雪。",
+      "reference_tokens": "安 全 地 驾 驶 。",
+      "prediction_tokens": "开 始 下 雪 。"
+    }
+  ]
+}

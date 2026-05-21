@@ -1,0 +1,21 @@
+{
+  "best_epoch": 8,
+  "best_valid_accuracy": 0.8286,
+  "test_loss": 0.5231779531478882,
+  "test_accuracy": 0.8212,
+  "class_accuracy": {
+    "airplane": 0.791,
+    "automobile": 0.88,
+    "bird": 0.757,
+    "cat": 0.657,
+    "deer": 0.763,
+    "dog": 0.824,
+    "frog": 0.906,
+    "horse": 0.856,
+    "ship": 0.894,
+    "truck": 0.884
+  },
+  "parameter_count": 20490,
+  "training_seconds": 1560.0221617221832,
+  "num_test_examples": 10000
+}

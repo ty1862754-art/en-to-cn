@@ -1,0 +1,1818 @@
+source	reference	prediction	reference_tokens	prediction_tokens
+look around .	四处看看。	看上去。	四 处 看 看 。	看 上 去 。
+hurry up .	赶快!	快点。	赶 快 !	快 点 。
+keep trying .	继续努力。	继续尝试。	继 续 努 力 。	继 续 尝 试 。
+take it .	拿走吧。	拿着它。	拿 走 吧 。	拿 着 它 。
+birds fly .	鸟类飞行。	鸟下。	鸟 类 飞 行 。	鸟 下 。
+hurry up .	快点！	快点。	快 点 ！	快 点 。
+look there .	看那里。	看那边。	看 那 里 。	看 那 边 。
+how annoying !	真烦人。	如果打开！	真 烦 人 。	如 果 打 开 ！
+get serious .	认真点。	严重的。	认 真 点 。	严 重 的 。
+once again .	再一次。	再见。	再 一 次 。	再 见 。
+stay sharp .	保持警惕。	别很聪明。	保 持 警 惕 。	别 很 聪 明 。
+i won !	我赢了。	赢了！	我 赢 了 。	赢 了 ！
+get away !	滚！	走开！	滚 ！	走 开 ！
+i resign .	我放弃。	我辞职了。	我 放 弃 。	我 辞 职 了 。
+how strange !	真奇怪。	多怪啊！	真 奇 怪 。	多 怪 啊 ！
+tom UNK .	汤姆脸红了。	汤姆预定。	汤 姆 脸 红 了 。	汤 姆 预 定 。
+who cares ?	爱谁谁。	谁在意？	爱 谁 谁 。	谁 在 意 ？
+sweet dreams !	祝你好梦。	美梦！	祝 你 好 梦 。	美 梦 ！
+step inside .	进来。	让手里。	进 来 。	让 手 里 。
+go away !	滚！	走开！	滚 ！	走 开 ！
+anything else ?	还有别的吗？	什么东西？	还 有 别 的 吗 ？	什 么 东 西 ？
+i 'm sleepy .	我困了。	我很困。	我 困 了 。	我 很 困 。
+i ate UNK .	我吃了鱼子酱。	我吃了惊的地震。	我 吃 了 鱼 子 酱 。	我 吃 了 惊 的 地 震 。
+i like sports .	我喜欢运动。	我喜欢运动。	我 喜 欢 运 动 。	我 喜 欢 运 动 。
+she may come .	她可以来。	她可能来。	她 可 以 来 。	她 可 能 来 。
+everybody will die .	人固有一死。	每个人都会死。	人 固 有 一 死 。	每 个 人 都 会 死 。
+answer the question .	回答问题。	回答这个问题。	回 答 问 题 。	回 答 这 个 问 题 。
+is that better ?	那更好吗？	那是好的吗？	那 更 好 吗 ？	那 是 好 的 吗 ？
+i like you .	我喜欢你。	我喜欢你。	我 喜 欢 你 。	我 喜 欢 你 。
+let him in .	让他进来。	让他进去。	让 他 进 来 。	让 他 进 去 。
+tom is laughing .	汤姆在笑。	汤姆在笑。	汤 姆 在 笑 。	汤 姆 在 笑 。
+tom began talking .	汤姆开始说话。	汤姆开始说话了。	汤 姆 开 始 说 话 。	汤 姆 开 始 说 话 了 。
+draw a circle .	画一个圈。	本画了个周围。	画 一 个 圈 。	本 画 了 个 周 围 。
+this is mine .	这是我的。	这是我的。	这 是 我 的 。	这 是 我 的 。
+she might come .	她也许会来。	她可能会来。	她 也 许 会 来 。	她 可 能 会 来 。
+i hate you .	我恨你。	我讨厌你。	我 恨 你 。	我 讨 厌 你 。
+are you lost ?	您迷路了吗？	你迷路了吗？	您 迷 路 了 吗 ？	你 迷 路 了 吗 ？
+i miss you .	我想念你。	我想你。	我 想 念 你 。	我 想 你 。
+they 're children .	她们是孩子。	他们是孩子。	她 们 是 孩 子 。	他 们 是 孩 子 。
+i played tennis .	我打网球了。	我打了网球。	我 打 网 球 了 。	我 打 了 网 球 。
+he gave in .	他让步了.	他在了。	他 让 步 了 .	他 在 了 。
+shame on you !	你真丢脸！	你真丢！	你 真 丢 脸 ！	你 真 丢 ！
+read this book .	看这本书。	念这本书。	看 这 本 书 。	念 这 本 书 。
+he is american .	他是美国人。	他是美国人。	他 是 美 国 人 。	他 是 美 国 人 。
+is breakfast UNK ?	包括早饭吗？	早餐够吗？	包 括 早 饭 吗 ？	早 餐 够 吗 ？
+my shoulder hurts .	我肩膀痛。	我的肩膀很痛。	我 肩 膀 痛 。	我 的 肩 膀 很 痛 。
+everybody thinks so .	大家都是这样想的。	所有人都认为。	大 家 都 是 这 样 想 的 。	所 有 人 都 认 为 。
+the bell rang .	铃响了。	铃响了。	铃 响 了 。	铃 响 了 。
+it 's true .	这是真的。	这是真的。	这 是 真 的 。	这 是 真 的 。
+she fooled him .	她愚弄了他。	她不会上他。	她 愚 弄 了 他 。	她 不 会 上 他 。
+count me in .	算我一个.	我数到处。	算 我 一 个 .	我 数 到 处 。
+she kept working .	她不停地工作。	她继续工作。	她 不 停 地 工 作 。	她 继 续 工 作 。
+please forgive me .	请原谅我。	请原谅我。	请 原 谅 我 。	请 原 谅 我 。
+tom likes swimming .	汤姆喜欢游泳。	汤姆喜欢游泳。	汤 姆 喜 欢 游 泳 。	汤 姆 喜 欢 游 泳 。
+i am sick .	我生病了。	我病了。	我 生 病 了 。	我 病 了 。
+here goes nothing .	毫无希望，白费心思。	这里没什么。	毫 无 希 望 ， 白 费 心 思 。	这 里 没 什 么 。
+hello , tom .	你好，汤姆。	你好。	你 好 ， 汤 姆 。	你 好 。
+who drew it ?	谁画的？	谁用了这画？	谁 画 的 ？	谁 用 了 这 画 ？
+i like running .	我喜欢跑步。	我喜欢跑步。	我 喜 欢 跑 步 。	我 喜 欢 跑 步 。
+i 'm married .	我结婚了。	我结婚了。	我 结 婚 了 。	我 结 婚 了 。
+someone is watching .	有人在监视。	有人在看着。	有 人 在 监 视 。	有 人 在 看 着 。
+he looks young .	他看起来很年轻。	他看起来很年轻。	他 看 起 来 很 年 轻 。	他 看 起 来 很 年 轻 。
+it 's night .	是晚上了。	夜晚。	是 晚 上 了 。	夜 晚 。
+we are boys .	我们是男孩。	我们是男孩子。	我 们 是 男 孩 。	我 们 是 男 孩 子 。
+life is beautiful .	生活是美丽的。	人生是很漂亮的。	生 活 是 美 丽 的 。	人 生 是 很 漂 亮 的 。
+they trust tom .	他们信任汤姆。	他们相信汤姆。	他 们 信 任 汤 姆 。	他 们 相 信 汤 姆 。
+who is that ?	那是谁？	那是谁？	那 是 谁 ？	那 是 谁 ？
+i almost drowned .	我差点被淹死。	我几乎淹死了。	我 差 点 被 淹 死 。	我 几 乎 淹 死 了 。
+i was wrong .	我搞错了。	我错了。	我 搞 错 了 。	我 错 了 。
+i love you .	我爱您。	我爱你。	我 爱 您 。	我 爱 你 。
+please sit down .	请坐下。	请坐下。	请 坐 下 。	请 坐 下 。
+these are pens .	这些是笔。	这些都是笔。	这 些 是 笔 。	这 些 都 是 笔 。
+are you mad ?	您生气了吗？	你生气了吗？	您 生 气 了 吗 ？	你 生 气 了 吗 ？
+she UNK loudly .	她大声UNKUNK。	她心声大声。	她 大 声 UNK UNK 。	她 心 声 大 声 。
+are you ready ?	你准备好了吗？	你们准备好了吗？	你 准 备 好 了 吗 ？	你 们 准 备 好 了 吗 ？
+he won everything .	他赢得一切了。	他赢得一切了。	他 赢 得 一 切 了 。	他 赢 得 一 切 了 。
+you look UNK .	你看起来很紧张。	你看起来很米。	你 看 起 来 很 紧 张 。	你 看 起 来 很 米 。
+why blame tom ?	为什么责备汤姆？	为什么汤姆？	为 什 么 责 备 汤 姆 ？	为 什 么 汤 姆 ？
+please speak slowly .	请说慢一点。	请讲慢一点。	请 说 慢 一 点 。	请 讲 慢 一 点 。
+they love that .	他们喜欢那个	他们爱那是。	他 们 喜 欢 那 个	他 们 爱 那 是 。
+it 's snowing .	正在下雪。	雪下雪了。	正 在 下 雪 。	雪 下 雪 了 。
+i borrow money .	我借钱。	我借钱。	我 借 钱 。	我 借 钱 。
+watch your step .	小心脚下。	走路小心。	小 心 脚 下 。	走 路 小 心 。
+please speak slowly .	请说慢一些。	请讲慢一点。	请 说 慢 一 些 。	请 讲 慢 一 点 。
+what a pity !	太可惜了！	多遗憾啊！	太 可 惜 了 ！	多 遗 憾 啊 ！
+tom sat down .	汤姆坐下了。	汤姆坐下来。	汤 姆 坐 下 了 。	汤 姆 坐 下 来 。
+words express thoughts .	语词表达思想。	没用言语言。	语 词 表 达 思 想 。	没 用 言 语 言 。
+mail this letter .	把这封信寄了。	把信寄这封信。	把 这 封 信 寄 了 。	把 信 寄 这 封 信 。
+you will fail .	你会失败。	你会失败。	你 会 失 败 。	你 会 失 败 。
+please contact us .	请联系我们。	请帮我们联系。	请 联 系 我 们 。	请 帮 我 们 联 系 。
+UNK are sour .	UNKUNK是酸的。	木材料来酸酸。	UNK UNK 是 酸 的 。	木 材 料 来 酸 酸 。
+please keep this secret .	请保守这个秘密。	请保密。	请 保 守 这 个 秘 密 。	请 保 密 。
+do you like music ?	你爱音乐吗？	你喜欢音乐吗？	你 爱 音 乐 吗 ？	你 喜 欢 音 乐 吗 ？
+are you all ready ?	你们都准备好了吗?	你们好准备好了吗？	你 们 都 准 备 好 了 吗 ?	你 们 好 准 备 好 了 吗 ？
+you 're really beautiful .	你真的很漂亮。	你真的很漂亮。	你 真 的 很 漂 亮 。	你 真 的 很 漂 亮 。
+i have a computer .	我有一台电脑。	我有电脑。	我 有 一 台 电 脑 。	我 有 电 脑 。
+that is your book .	那是你的书。	那是你的书。	那 是 你 的 书 。	那 是 你 的 书 。
+any UNK are welcome .	欢迎作任何评论。	任何地方都是欢的。	欢 迎 作 任 何 评 论 。	任 何 地 方 都 是 欢 的 。
+we 're very different .	我们很不一样。	我们很同意。	我 们 很 不 一 样 。	我 们 很 同 意 。
+i 'm so excited .	我很激动。	我兴奋得很兴。	我 很 激 动 。	我 兴 奋 得 很 兴 。
+you have nice skin .	你的皮肤真好。	你有点表现的东西。	你 的 皮 肤 真 好 。	你 有 点 表 现 的 东 西 。
+you 're UNK correct .	你部分正确。	你被害怕了。	你 部 分 正 确 。	你 被 害 怕 了 。
+everyone admired his courage .	每个人都佩服他的勇气。	每个人都意鼓勇气。	每 个 人 都 佩 服 他 的 勇 气 。	每 个 人 都 意 鼓 勇 气 。
+what time is it ?	几点了？	几点钟？	几 点 了 ？	几 点 钟 ？
+i 'm free tonight .	我今晚有空。	我今晚有空。	我 今 晚 有 空 。	我 今 晚 有 空 。
+here is your book .	这是你的书。	这里有你的书。	这 是 你 的 书 。	这 里 有 你 的 书 。
+they are at lunch .	他们在吃午饭。	他们在午餐。	他 们 在 吃 午 饭 。	他 们 在 午 餐 。
+this chair is UNK .	这把椅子很丑。	这把椅子挤满了。	这 把 椅 子 很 丑 。	这 把 椅 子 挤 满 了 。
+it 's pretty heavy .	它真重。	它很大。	它 真 重 。	它 很 大 。
+many attended his funeral .	很多人都参加了他的葬礼。	许多葬礼拜访了他的。	很 多 人 都 参 加 了 他 的 葬 礼 。	许 多 葬 礼 拜 访 了 他 的 。
+training will be provided .	会有训练。	管训练提供了。	会 有 训 练 。	管 训 练 提 供 了 。
+someone is watching you .	有人在看著你。	有人在看你。	有 人 在 看 著 你 。	有 人 在 看 你 。
+i slapped his face .	我掴了他的脸。	我掴了他的脸。	我 掴 了 他 的 脸 。	我 掴 了 他 的 脸 。
+i like UNK music .	我喜欢流行音乐。	我喜欢音乐。	我 喜 欢 流 行 音 乐 。	我 喜 欢 音 乐 。
+tom had no children .	Tom没有孩子。	汤姆没有孩子。	T o m 没 有 孩 子 。	汤 姆 没 有 孩 子 。
+please lock the door .	请把门锁上。	请锁门。	请 把 门 锁 上 。	请 锁 门 。
+tom has calmed down .	汤姆冷静下来了。	汤姆停了。	汤 姆 冷 静 下 来 了 。	汤 姆 停 了 。
+please speak more loudly .	请说大声一点儿。	请讲慢一点。	请 说 大 声 一 点 儿 。	请 讲 慢 一 点 。
+keep next sunday free .	把下周日空出来。	下周日保存空。	把 下 周 日 空 出 来 。	下 周 日 保 存 空 。
+i made a mistake .	我犯了一个错。	我犯了个错误。	我 犯 了 一 个 错 。	我 犯 了 个 错 误 。
+i like your room .	我喜欢你的房间。	我喜欢你的房间。	我 喜 欢 你 的 房 间 。	我 喜 欢 你 的 房 间 。
+he admitted his guilt .	他承认他有罪。	他承认了他的地方。	他 承 认 他 有 罪 。	他 承 认 了 他 的 地 方 。
+prices have dropped recently .	最近物价已经下降。	价格将飞到了。	最 近 物 价 已 经 下 降 。	价 格 将 飞 到 了 。
+i want a dog .	我想要一只狗。	我要一只狗。	我 想 要 一 只 狗 。	我 要 一 只 狗 。
+i 'll do it .	我会做的。	我会去做。	我 会 做 的 。	我 会 去 做 。
+have a good christmas .	祝您有一个愉快的圣诞节。	圣诞节有一个好圣诞节。	祝 您 有 一 个 愉 快 的 圣 诞 节 。	圣 诞 节 有 一 个 好 圣 诞 节 。
+he speaks too fast .	他说话太快了。	他说得不快。	他 说 话 太 快 了 。	他 说 得 不 快 。
+i was so homesick .	我很想家。	我是想家。	我 很 想 家 。	我 是 想 家 。
+i have many UNK .	我有许多唱片。	我有很多注意。	我 有 许 多 唱 片 。	我 有 很 多 注 意 。
+you 're still green .	你还年轻。	你依然依然。	你 还 年 轻 。	你 依 然 依 然 。
+they moved ahead slowly .	他们慢慢地向前进。	他们搬到了慢慢。	他 们 慢 慢 地 向 前 进 。	他 们 搬 到 了 慢 慢 。
+i retired last year .	我去年退休了。	上个月我退休了。	我 去 年 退 休 了 。	上 个 月 我 退 休 了 。
+i need your cooperation .	我需要你们的合作。	我需要您的合作。	我 需 要 你 们 的 合 作 。	我 需 要 您 的 合 作 。
+that was n't funny .	那不好笑。	那不好笑。	那 不 好 笑 。	那 不 好 笑 。
+wait just a moment .	就等一会儿。	请稍等。	就 等 一 会 儿 。	请 稍 等 。
+he was made captain .	他被选为队长。	他当了队长。	他 被 选 为 队 长 。	他 当 了 队 长 。
+may i leave now ?	我现在能走了吗？	我现在可以离开吗？	我 现 在 能 走 了 吗 ？	我 现 在 可 以 离 开 吗 ？
+i can swim well .	我游泳可以游得很好。	我会游得很好。	我 游 泳 可 以 游 得 很 好 。	我 会 游 得 很 好 。
+i go to school .	我去学校。	我上学去学校。	我 去 学 校 。	我 上 学 去 学 校 。
+we 're all hungry .	我们都饿了。	我们都饿了。	我 们 都 饿 了 。	我 们 都 饿 了 。
+i like to run .	我喜欢跑步。	我喜欢跑。	我 喜 欢 跑 步 。	我 喜 欢 跑 。
+i must go now .	我现在必须走了。	我现在必须去。	我 现 在 必 须 走 了 。	我 现 在 必 须 去 。
+the tire leaks air .	轮胎漏气了。	这个轮胎免腐蚀了。	轮 胎 漏 气 了 。	这 个 轮 胎 免 腐 蚀 了 。
+where are you now ?	你现在在哪里呢？	你现在在哪里？	你 现 在 在 哪 里 呢 ？	你 现 在 在 哪 里 ？
+life is very hard .	人生良苦。	人生非常辛苦。	人 生 良 苦 。	人 生 非 常 辛 苦 。
+i shave every morning .	我每天早上刮胡子。	我每天早上刮胡子。	我 每 天 早 上 刮 胡 子 。	我 每 天 早 上 刮 胡 子 。
+he never drinks alcohol .	他从不喝酒。	他从来没喝酒。	他 从 不 喝 酒 。	他 从 来 没 喝 酒 。
+this is my property .	这是我的财产。	这是我的财产。	这 是 我 的 财 产 。	这 是 我 的 财 产 。
+he heard a shout .	他听到了叫声。	他听到了一声喊叫。	他 听 到 了 叫 声 。	他 听 到 了 一 声 喊 叫 。
+you may go anywhere .	你可以随便去哪儿。	你可以随便去哪儿。	你 可 以 随 便 去 哪 儿 。	你 可 以 随 便 去 哪 儿 。
+do n't bother me .	别来烦我。	别麻烦了我。	别 来 烦 我 。	别 麻 烦 了 我 。
+here 's your tea .	这是你的茶。	你的来歌是茶。	这 是 你 的 茶 。	你 的 来 歌 是 茶 。
+i 'm absolutely UNK .	我真是欣喜若狂。	我完全地筋疲力。	我 真 是 欣 喜 若 狂 。	我 完 全 地 筋 疲 力 。
+tom could be canadian .	汤姆可能是加拿大人。	Tom能是加拿大人。	汤 姆 可 能 是 加 拿 大 人 。	T o m 能 是 加 拿 大 人 。
+what happened that night ?	这个晚上发生了什么？	那发生了什么事？	这 个 晚 上 发 生 了 什 么 ？	那 发 生 了 什 么 事 ？
+prices are going up .	物价上涨了。	价格下去。	物 价 上 涨 了 。	价 格 下 去 。
+i took a shower .	我洗了澡。	我洗了个澡。	我 洗 了 澡 。	我 洗 了 个 澡 。
+how is your wife ?	你太太怎么样？	你的妻子怎么样？	你 太 太 怎 么 样 ？	你 的 妻 子 怎 么 样 ？
+please spell your name .	请拼一下您的名字。	请拼一下您的名字。	请 拼 一 下 您 的 名 字 。	请 拼 一 下 您 的 名 字 。
+have you eaten lunch ?	你吃过午饭了吗？	你吃过午饭吗？	你 吃 过 午 饭 了 吗 ？	你 吃 过 午 饭 吗 ？
+it 's our pleasure .	这是我们的荣幸。	是我们的很快乐。	这 是 我 们 的 荣 幸 。	是 我 们 的 很 快 乐 。
+i ca n't remember .	我想不起来。	我记不得了。	我 想 不 起 来 。	我 记 不 得 了 。
+he traveled on business .	他旅行洽商。	他周游全地去世。	他 旅 行 洽 商 。	他 周 游 全 地 去 世 。
+is his UNK regular ?	他的UNK搏正常吗？	他的损害了吗？	他 的 UNK 搏 正 常 吗 ？	他 的 损 害 了 吗 ？
+he 's very UNK .	他说话很直接。	他非常害怕。	他 说 话 很 直 接 。	他 非 常 害 怕 。
+my gums are UNK .	我的牙龈流血。	我的牙龈流满了。	我 的 牙 龈 流 血 。	我 的 牙 龈 流 满 了 。
+she works very hard .	她很努力工作。	她很努力工作。	她 很 努 力 工 作 。	她 很 努 力 工 作 。
+i have to win .	我必须赢。	我得赢。	我 必 须 赢 。	我 得 赢 。
+this turkey tastes good .	这只火鸡味道很好。	这土壤恨规则好。	这 只 火 鸡 味 道 很 好 。	这 土 壤 恨 规 则 好 。
+my parents are divorced .	我父母离婚了。	我父母离婚了。	我 父 母 离 婚 了 。	我 父 母 离 婚 了 。
+everything will be ok .	一切都会好的。	一切都会没关系。	一 切 都 会 好 的 。	一 切 都 会 没 关 系 。
+three UNK is UNK .	三的立方是二十七。	三个面包被害。	三 的 立 方 是 二 十 七 。	三 个 面 包 被 害 。
+i do n't care .	我无所谓。	我不在乎。	我 无 所 谓 。	我 不 在 乎 。
+turn back , please .	请回来。	请回来。	请 回 来 。	请 回 来 。
+do you like china ?	你喜欢中国吗？	你喜欢中国吗？	你 喜 欢 中 国 吗 ？	你 喜 欢 中 国 吗 ？
+he was very old .	他很老。	他很老。	他 很 老 。	他 很 老 。
+those are my pants .	那些是我的裤子。	那些都有裤子。	那 些 是 我 的 裤 子 。	那 些 都 有 裤 子 。
+earth is a planet .	地球是一个行星。	地球是个星球星球的星。	地 球 是 一 个 行 星 。	地 球 是 个 星 球 星 球 的 星 。
+leave my car alone .	离我的车远一点。	别碰我的车。	离 我 的 车 远 一 点 。	别 碰 我 的 车 。
+let 's eat sushi .	让我们吃寿司吧。	让我们吃寿司。	让 我 们 吃 寿 司 吧 。	让 我 们 吃 寿 司 。
+you 're so bad .	你真坏。	你太糟糕了。	你 真 坏 。	你 太 糟 糕 了 。
+give me the book .	给我这本书。	把这本书给我。	给 我 这 本 书 。	把 这 本 书 给 我 。
+i love my life .	我爱我的生活。	我爱我的生命。	我 爱 我 的 生 活 。	我 爱 我 的 生 命 。
+we 're still UNK .	我们还是UNK弱不UNK。	我们还剩下。	我 们 还 是 UNK 弱 不 UNK 。	我 们 还 剩 下 。
+tom can run fast .	Tom可以跑得很快。	汤姆可以跑得快。	T o m 可 以 跑 得 很 快 。	汤 姆 可 以 跑 得 快 。
+you look happy today .	你今天看起来很高兴。	今天你看起来很快乐。	你 今 天 看 起 来 很 高 兴 。	今 天 你 看 起 来 很 快 乐 。
+you look very good .	你看上去很好。	你看上去很好。	你 看 上 去 很 好 。	你 看 上 去 很 好 。
+i said shut up !	我说过了，闭嘴！	我关心头不要！	我 说 过 了 ， 闭 嘴 ！	我 关 心 头 不 要 ！
+this is a book .	这是一本书。	这是一本书。	这 是 一 本 书 。	这 是 一 本 书 。
+i feel like crying .	我想哭。	我想哭。	我 想 哭 。	我 想 哭 。
+the man finally confessed .	那个男人最终供认了他的罪行。	这个男人终承认了。	那 个 男 人 最 终 供 认 了 他 的 罪 行 。	这 个 男 人 终 承 认 了 。
+we are having dinner .	我们在吃晚餐。	我们在吃晚餐。	我 们 在 吃 晚 餐 。	我 们 在 吃 晚 餐 。
+do n't be UNK .	别被吓坏了。	不要害怕。	别 被 吓 坏 了 。	不 要 害 怕 。
+who is your teacher ?	谁是你老师？	你的老师是谁？	谁 是 你 老 师 ？	你 的 老 师 是 谁 ？
+whose fault is it ?	是谁的错呢？	这是谁的？	是 谁 的 错 呢 ？	这 是 谁 的 ？
+be careful with it .	当心它。	小心提高。	当 心 它 。	小 心 提 高 。
+i ca n't say .	我不能说。	我不会说。	我 不 能 说 。	我 不 会 说 。
+is it really possible ?	真的是可能的吗？	可能会尽可能的吗？	真 的 是 可 能 的 吗 ？	可 能 会 尽 可 能 的 吗 ？
+whose shirt is this ?	这是谁的衬衫。	这衬衣的是谁的？	这 是 谁 的 衬 衫 。	这 衬 衣 的 是 谁 的 ？
+mastering english is difficult .	精通英语是困难的。	精通英语很难。	精 通 英 语 是 困 难 的 。	精 通 英 语 很 难 。
+i should 've UNK .	我本应UNK拒。	我应该要害怕。	我 本 应 UNK 拒 。	我 应 该 要 害 怕 。
+give me your location .	给我你的位置。	给我你的过去的巴掌。	给 我 你 的 位 置 。	给 我 你 的 过 去 的 巴 掌 。
+we started at six .	我们六点开始。	我们六点起床。	我 们 六 点 开 始 。	我 们 六 点 起 床 。
+which is your book ?	哪本书是你们的？	哪本是您的书？	哪 本 书 是 你 们 的 ？	哪 本 是 您 的 书 ？
+where are your things ?	你们的东西在哪里？	你的东西在哪里？	你 们 的 东 西 在 哪 里 ？	你 的 东 西 在 哪 里 ？
+have you eaten dinner ?	你吃晚饭了吗？	你吃过晚饭了吗？	你 吃 晚 饭 了 吗 ？	你 吃 过 晚 饭 了 吗 ？
+i sort of understand .	我大概懂了。	我相信明白。	我 大 概 懂 了 。	我 相 信 明 白 。
+tom is working hard .	汤姆在努力工作。	汤姆工作很辛苦。	汤 姆 在 努 力 工 作 。	汤 姆 工 作 很 辛 苦 。
+you might meet him .	你可能会见到他。	你可以跟他见面。	你 可 能 会 见 到 他 。	你 可 以 跟 他 见 面 。
+i should stop UNK .	我做事该果断。	我应该要害怕。	我 做 事 该 果 断 。	我 应 该 要 害 怕 。
+he went by bicycle .	他骑自行车去的。	他骑脚踏车去。	他 骑 自 行 车 去 的 。	他 骑 脚 踏 车 去 。
+where is the bank ?	银行在哪里？	银行在哪里？	银 行 在 哪 里 ？	银 行 在 哪 里 ？
+what a beautiful flower !	多漂亮的花啊!	花了多美丽的花。	多 漂 亮 的 花 啊 !	花 了 多 美 丽 的 花 。
+i 've gained weight .	我增加了体重。	我变胖了。	我 增 加 了 体 重 。	我 变 胖 了 。
+the contract was signed .	UNK约签订了。	签字典。	UNK 约 签 订 了 。	签 字 典 。
+i 'm very happy .	我很快乐。	我很快乐。	我 很 快 乐 。	我 很 快 乐 。
+just take it slowly .	慢慢来。	只要慢点。	慢 慢 来 。	只 要 慢 点 。
+put the book there .	把书放在那里。	把书放在那里。	把 书 放 在 那 里 。	把 书 放 在 那 里 。
+he should thank you .	他应该感谢您。	他应该感谢你。	他 应 该 感 谢 您 。	他 应 该 感 谢 你 。
+everybody wanted to eat .	每个人都想吃。	每个人都想吃饭。	每 个 人 都 想 吃 。	每 个 人 都 想 吃 饭 。
+my throat feels dry .	我喉咙很干。	我感觉良考虑出。	我 喉 咙 很 干 。	我 感 觉 良 考 虑 出 。
+i agree with him .	我同意他。	我同意他。	我 同 意 他 。	我 同 意 他 。
+this shirt needs UNK .	这衬衫需要熨。	这衬衫要害。	这 衬 衫 需 要 熨 。	这 衬 衫 要 害 。
+i 've got time .	我有时间。	我已经到了。	我 有 时 间 。	我 已 经 到 了 。
+could you sign here ?	你能在这里签名吗?	你能在这里签名好吗？	你 能 在 这 里 签 名 吗 ?	你 能 在 这 里 签 名 好 吗 ？
+i 'm so fat .	我好胖哦。	我太胖了。	我 好 胖 哦 。	我 太 胖 了 。
+tom is very talented .	汤姆多才多艺。	汤姆很有才。	汤 姆 多 才 多 艺 。	汤 姆 很 有 才 。
+i miss my children .	我想念我的孩子。	我想我的孩子们。	我 想 念 我 的 孩 子 。	我 想 我 的 孩 子 们 。
+do you know me ?	你认识我吗？	你认识我吗？	你 认 识 我 吗 ？	你 认 识 我 吗 ？
+it is too late .	太晚了。	它太晚了。	太 晚 了 。	它 太 晚 了 。
+do you study english ?	你学英语吗？	你学习英语吗？	你 学 英 语 吗 ？	你 学 习 英 语 吗 ？
+he comes from england .	他来自英格兰。	他来自英国。	他 来 自 英 格 兰 。	他 来 自 英 国 。
+he studied very hard .	他学习非常努力。	他很难读书。	他 学 习 非 常 努 力 。	他 很 难 读 书 。
+it 's very UNK .	它真是不舒服。	这是挤满了。	它 真 是 不 舒 服 。	这 是 挤 满 了 。
+which book is yours ?	哪本是你们的书？	哪本是您的书？	哪 本 是 你 们 的 书 ？	哪 本 是 您 的 书 ？
+which book is yours ?	哪本书是你们的？	哪本是您的书？	哪 本 书 是 你 们 的 ？	哪 本 是 您 的 书 ？
+UNK the bell twice .	按两下铃。	肉价值得两次。	按 两 下 铃 。	肉 价 值 得 两 次 。
+marriage UNK some people .	有些人害怕婚姻。	AI是一些人。	有 些 人 害 怕 婚 姻 。	A I 是 一 些 人 。
+this is my dictionary .	这是我的字典。	这是我的字典。	这 是 我 的 字 典 。	这 是 我 的 字 典 。
+i know my UNK .	我知道我的限度。	我知道我的木损失。	我 知 道 我 的 限 度 。	我 知 道 我 的 木 损 失 。
+she 's my daughter .	她是我女儿。	她是我的女儿。	她 是 我 女 儿 。	她 是 我 的 女 儿 。
+did you bring them ?	你把它们带来了么？	你带给他们了吗？	你 把 它 们 带 来 了 么 ？	你 带 给 他 们 了 吗 ？
+most americans like hamburgers .	大多数的美国人喜欢汉堡。	大利的美国人喜欢吃惊。	大 多 数 的 美 国 人 喜 欢 汉 堡 。	大 利 的 美 国 人 喜 欢 吃 惊 。
+we 'd better talk .	我们谈谈比较好。	我们最好跟交谈。	我 们 谈 谈 比 较 好 。	我 们 最 好 跟 交 谈 。
+i like UNK music .	我喜欢器乐。	我喜欢音乐。	我 喜 欢 器 乐 。	我 喜 欢 音 乐 。
+the lake was frozen .	湖冻冰了。	湖里的真的很冰。	湖 冻 冰 了 。	湖 里 的 真 的 很 冰 。
+she especially likes music .	她特别喜爱音乐。	她特别喜欢音乐。	她 特 别 喜 爱 音 乐 。	她 特 别 喜 欢 音 乐 。
+the car broke down .	汽车发生故障了。	汽车抛锚了。	汽 车 发 生 故 障 了 。	汽 车 抛 锚 了 。
+health is above wealth .	健康比财富重要。	健康是空调。	健 康 比 财 富 重 要 。	健 康 是 空 调 。
+my album is here .	我的相簿在这里。	我的相簿。	我 的 相 簿 在 这 里 。	我 的 相 簿 。
+christmas is december UNK .	圣诞节是12月25日。	圣诞节被到了。	圣 诞 节 是 1 2 月 2 5 日 。	圣 诞 节 被 到 了 。
+how should i know ?	我怎么知道？	我怎么知道？	我 怎 么 知 道 ？	我 怎 么 知 道 ？
+do n't quit english .	不要放弃英语。	别放弃英语。	不 要 放 弃 英 语 。	别 放 弃 英 语 。
+we did it ourselves .	我们自己做的。	我们自己玩了。	我 们 自 己 做 的 。	我 们 自 己 玩 了 。
+tom started the engine .	汤姆发动了引擎。	汤姆开了这台引擎。	汤 姆 发 动 了 引 擎 。	汤 姆 开 了 这 台 引 擎 。
+i like short hair .	我喜欢短发。	我喜欢头发。	我 喜 欢 短 发 。	我 喜 欢 头 发 。
+be nice to others .	对他人要友善。	和别人看别人。	对 他 人 要 友 善 。	和 别 人 看 别 人 。
+i bought that car .	我买了那辆车。	我买了那辆车。	我 买 了 那 辆 车 。	我 买 了 那 辆 车 。
+that 's quite UNK .	这毫无意义。	那真是胡子。	这 毫 无 意 义 。	那 真 是 胡 子 。
+i am in trouble .	我有麻烦了。	我遇到困难了。	我 有 麻 烦 了 。	我 遇 到 困 难 了 。
+i won the lottery .	我中奖了。	我中了解释。	我 中 奖 了 。	我 中 了 解 释 。
+there 's no sugar .	没有糖。	没有放弃瓶子。	没 有 糖 。	没 有 放 弃 瓶 子 。
+i believe in you .	我相信你。	我相信你。	我 相 信 你 。	我 相 信 你 。
+have you finished it ?	你做完了吗?	你完成了吗？	你 做 完 了 吗 ?	你 完 成 了 吗 ？
+tom joined the discussion .	汤姆参加了讨论。	汤姆三个小主题。	汤 姆 参 加 了 讨 论 。	汤 姆 三 个 小 主 题 。
+your cake is delicious .	你的蛋糕很美味。	你的蛋糕很美味。	你 的 蛋 糕 很 美 味 。	你 的 蛋 糕 很 美 味 。
+your english is improving .	你的英语正在进步。	你的英语一地渐渐地渐渐地上地渐。	你 的 英 语 正 在 进 步 。	你 的 英 语 一 地 渐 渐 地 渐 渐 地 上 地 渐 。
+she is very clever .	她很聪明。	她是聪明的聪明。	她 很 聪 明 。	她 是 聪 明 的 聪 明 。
+she answered in tears .	她很伤心地回答。	她回家了。	她 很 伤 心 地 回 答 。	她 回 家 了 。
+please do n't ask .	请不要问。	请不要问。	请 不 要 问 。	请 不 要 问 。
+turn on the tv .	开电视。	把电视声音调大点儿。	开 电 视 。	把 电 视 声 音 调 大 点 儿 。
+he is very angry .	他非常生气。	他非常生气。	他 非 常 生 气 。	他 非 常 生 气 。
+which one is easier ?	哪一个最简单？	哪一个是简单的？	哪 一 个 最 简 单 ？	哪 一 个 是 简 单 的 ？
+i do n't remember .	我不记得了。	我不记得了。	我 不 记 得 了 。	我 不 记 得 了 。
+he is very handsome .	他很英俊。	他很英俊。	他 很 英 俊 。	他 很 英 俊 。
+why do you ask ?	你问这个干什么?	你为什么问候？	你 问 这 个 干 什 么 ?	你 为 什 么 问 候 ？
+i know her address .	我知道她的地址。	我知道她的地址。	我 知 道 她 的 地 址 。	我 知 道 她 的 地 址 。
+english is third period .	英语是第三节。	英语已经上了。	英 语 是 第 三 节 。	英 语 已 经 上 了 。
+is n't he italian ?	他不是意大利人吗？	他不是意大利人吗？	他 不 是 意 大 利 人 吗 ？	他 不 是 意 大 利 人 吗 ？
+how do you feel ?	你感觉如何？	你感觉如何?	你 感 觉 如 何 ？	你 感 觉 如 何 ?
+i have two cats .	我有两只猫。	我有两只猫。	我 有 两 只 猫 。	我 有 两 只 猫 。
+your suggestion seems reasonable .	你的建议似乎是合理的。	你的问题似乎通过于交通。	你 的 建 议 似 乎 是 合 理 的 。	你 的 问 题 似 乎 通 过 于 交 通 。
+we know our UNK .	我们知道我们的权利。	我们知道我们的木损害。	我 们 知 道 我 们 的 权 利 。	我 们 知 道 我 们 的 木 损 害 。
+do you like it ?	你喜欢吗?	你喜欢吗？	你 喜 欢 吗 ?	你 喜 欢 吗 ？
+how could things get worse ?	事情怎么变糟的？	多少钱？	事 情 怎 么 变 糟 的 ？	多 少 钱 ？
+tom UNK kept to himself .	汤姆大多一个人独处。	汤姆企图自己。	汤 姆 大 多 一 个 人 独 处 。	汤 姆 企 图 自 己 。
+when does the game begin ?	游戏几点开始？	什么时候开始学生？	游 戏 几 点 开 始 ？	什 么 时 候 开 始 学 生 ？
+i do n't understand german .	我不懂德语。	我不懂德语。	我 不 懂 德 语 。	我 不 懂 德 语 。
+he UNK for his father .	子承父业。	他木材料上了他的父亲。	子 承 父 业 。	他 木 材 料 上 了 他 的 父 亲 。
+she hit the ball hard .	她用力地拍了球。	她打了这么难打。	她 用 力 地 拍 了 球 。	她 打 了 这 么 难 打 。
+all my homework is done .	我做完了所有的回家作业。	我所做的功课都做完了。	我 做 完 了 所 有 的 回 家 作 业 。	我 所 做 的 功 课 都 做 完 了 。
+my uncle never writes letters .	我的叔叔从来不写信。	我叔叔从来都没写信。	我 的 叔 叔 从 来 不 写 信 。	我 叔 叔 从 来 都 没 写 信 。
+i gave you a book .	我给了你一本书。	我给了你一本书。	我 给 了 你 一 本 书 。	我 给 了 你 一 本 书 。
+i only spent three dollars .	我只花了三美元。	我只花了三美元。	我 只 花 了 三 美 元 。	我 只 花 了 三 美 元 。
+that 's what tom requested .	那就是汤姆想要的。	那有人问汤姆。	那 就 是 汤 姆 想 要 的 。	那 有 人 问 汤 姆 。
+it makes me feel sad .	这让我感到沮丧。	这让我难过。	这 让 我 感 到 沮 丧 。	这 让 我 难 过 。
+this car handles very easily .	这车容易开。	这辆车很容易。	这 车 容 易 开 。	这 辆 车 很 容 易 。
+i 've never UNK tom .	我从没低估汤姆。	我从来没有控制汤姆。	我 从 没 低 估 汤 姆 。	我 从 来 没 有 控 制 汤 姆 。
+i threw away my shoes .	我把自己的鞋子扔掉了。	我扔了鞋子。	我 把 自 己 的 鞋 子 扔 掉 了 。	我 扔 了 鞋 子 。
+i did n't see him .	我没见到他。	我没看见他。	我 没 见 到 他 。	我 没 看 见 他 。
+what are you staring at ?	你在看什么？	你在盯着什么？	你 在 看 什 么 ？	你 在 盯 着 什 么 ？
+the meat has gone bad .	这肉已经坏了。	肉已经失去坏了。	这 肉 已 经 坏 了 。	肉 已 经 失 去 坏 了 。
+he passed the entrance examination .	他通过了入学考试。	他通过了学考试。	他 通 过 了 入 学 考 试 。	他 通 过 了 学 考 试 。
+i must help my mother .	我必须帮忙我母亲。	我必须帮忙我母亲。	我 必 须 帮 忙 我 母 亲 。	我 必 须 帮 忙 我 母 亲 。
+what 's your home address ?	你家的地址是什么？	你家在地址什么？	你 家 的 地 址 是 什 么 ？	你 家 在 地 址 什 么 ？
+they UNK ten enemy ships .	他们使10艘敌船沉了	他们面包挂著大阪。	他 们 使 1 0 艘 敌 船 沉 了	他 们 面 包 挂 著 大 阪 。
+everything went according to plan .	一切按计划进行。	所有的计划都到了这个计划。	一 切 按 计 划 进 行 。	所 有 的 计 划 都 到 了 这 个 计 划 。
+is one thousand yen enough ?	1000日元够不够？	一万日元够吗？	1 0 0 0 日 元 够 不 够 ？	一 万 日 元 够 吗 ？
+he barely passed the examination .	他勉强地通过了考试。	他仅有了考试。	他 勉 强 地 通 过 了 考 试 。	他 仅 有 了 考 试 。
+do n't waste your time .	别浪费时间。	不要浪费你的时间。	别 浪 费 时 间 。	不 要 浪 费 你 的 时 间 。
+the united states borders canada .	美国与加拿大相邻。	美国国国界。	美 国 与 加 拿 大 相 邻 。	美 国 国 国 界 。
+i would like fruit juice .	我想要果汁。	我想要果汁。	我 想 要 果 汁 。	我 想 要 果 汁 。
+he 's accustomed to traveling .	他习惯了旅行。	他习惯旅行。	他 习 惯 了 旅 行 。	他 习 惯 旅 行 。
+i started thinking about tom .	我开始想起汤姆。	我开始哭汤姆了。	我 开 始 想 起 汤 姆 。	我 开 始 哭 汤 姆 了 。
+please be quiet , everybody .	请大家都保持安静。	请安静，每个人都安静。	请 大 家 都 保 持 安 静 。	请 安 静 ， 每 个 人 都 安 静 。
+let 's go by bus .	让我们坐公共汽车去。	去公车吧。	让 我 们 坐 公 共 汽 车 去 。	去 公 车 吧 。
+what 's that bird called ?	那只鸟叫什么名字？	那只鸟叫什么？	那 只 鸟 叫 什 么 名 字 ？	那 只 鸟 叫 什 么 ？
+would you like to come ?	你愿意来吗？	你想来吗？	你 愿 意 来 吗 ？	你 想 来 吗 ？
+we want to hear it .	我们想听听。	我们想听到它的。	我 们 想 听 听 。	我 们 想 听 到 它 的 。
+tears UNK down my UNK .	泪水沿着我的面UNK流了下来。	米饭箭发染成我的损害。	泪 水 沿 着 我 的 面 UNK 流 了 下 来 。	米 饭 箭 发 染 成 我 的 损 害 。
+he suddenly became very happy .	他突然变得非常开心。	他突然非常快乐。	他 突 然 变 得 非 常 开 心 。	他 突 然 非 常 快 乐 。
+i am sixteen years old .	我16岁了。	我十年十年纪。	我 1 6 岁 了 。	我 十 年 十 年 纪 。
+spring is my favorite season .	春天是我最喜爱的季节。	春天是我最喜欢的季节。	春 天 是 我 最 喜 爱 的 季 节 。	春 天 是 我 最 喜 欢 的 季 节 。
+i 'm looking for you .	我在找你。	我在找你。	我 在 找 你 。	我 在 找 你 。
+can i rest a bit ?	我能休息一会儿吗？	我可以休息一下吗？	我 能 休 息 一 会 儿 吗 ？	我 可 以 休 息 一 下 吗 ？
+may i eat this orange ?	我可以吃这个柳橙吗？	我可以吃这只橙子吗？	我 可 以 吃 这 个 柳 橙 吗 ？	我 可 以 吃 这 只 橙 子 吗 ？
+i 'm able to speak .	我能说。	我会说讲话。	我 能 说 。	我 会 说 讲 话 。
+our school begins at eight-thirty .	我们学校在八点半开始上课。	我们学校8点半开始上课。	我 们 学 校 在 八 点 半 开 始 上 课 。	我 们 学 校 8 点 半 开 始 上 课 。
+there 's nothing to forgive .	没什么可原谅的。	没有什么原谅。	没 什 么 可 原 谅 的 。	没 有 什 么 原 谅 。
+he saw her and UNK .	他看到她就脸红了。	他看见她面包并且逃了。	他 看 到 她 就 脸 红 了 。	他 看 见 她 面 包 并 且 逃 了 。
+tom came home early yesterday .	汤姆昨天提早回来了。	汤姆昨天早回家。	汤 姆 昨 天 提 早 回 来 了 。	汤 姆 昨 天 早 回 家 。
+i 'm a free man .	我是一个自由的人。	我有空。	我 是 一 个 自 由 的 人 。	我 有 空 。
+tom has been quite UNK .	汤姆很合作。	汤姆已经充满了。	汤 姆 很 合 作 。	汤 姆 已 经 充 满 了 。
+he has n't come yet .	他还没来。	他还没来。	他 还 没 来 。	他 还 没 来 。
+i 'm a new student .	我是个新生。	我是个新生。	我 是 个 新 生 。	我 是 个 新 生 。
+she plays tennis every sunday .	她每个星期天打网球。	她每周日打网球。	她 每 个 星 期 天 打 网 球 。	她 每 周 日 打 网 球 。
+he played baseball after school .	他放学后打棒球。	他放学后打棒球。	他 放 学 后 打 棒 球 。	他 放 学 后 打 棒 球 。
+always be true to yourself .	永远要对自己诚实。	总是真自己。	永 远 要 对 自 己 诚 实 。	总 是 真 自 己 。
+i did n't mean it .	我不是这个意思。	我没有意思。	我 不 是 这 个 意 思 。	我 没 有 意 思 。
+my team is always losing .	我们队总是输。	我们队从来就没赢过。	我 们 队 总 是 输 。	我 们 队 从 来 就 没 赢 过 。
+do n't miss the bus .	不要错过公车。	不要错过公车。	不 要 错 过 公 车 。	不 要 错 过 公 车 。
+it 's up to you .	由你来决定。	你去了。	由 你 来 决 定 。	你 去 了 。
+i will go on ahead .	我会继续前进。	我会去钓鱼了。	我 会 继 续 前 进 。	我 会 去 钓 鱼 了 。
+he left without saying goodbye .	他不辞而别。	他没说再见了。	他 不 辞 而 别 。	他 没 说 再 见 了 。
+he disappeared without a trace .	他消失了，不留一丝踪迹。	他没有留下痕迹就消失了。	他 消 失 了 ， 不 留 一 丝 踪 迹 。	他 没 有 留 下 痕 迹 就 消 失 了 。
+tom went down the hill .	汤姆走下山坡。	汤姆下山跑下。	汤 姆 走 下 山 坡 。	汤 姆 下 山 跑 下 。
+i am on the right .	我在右边。	我上错了。	我 在 右 边 。	我 上 错 了 。
+did you play tennis yesterday ?	你昨天打网球了吗？	你昨天打网球了吗？	你 昨 天 打 网 球 了 吗 ？	你 昨 天 打 网 球 了 吗 ？
+where are those UNK now ?	那些海报现在都到哪里去了？	那些患于马还在哪里？	那 些 海 报 现 在 都 到 哪 里 去 了 ？	那 些 患 于 马 还 在 哪 里 ？
+what 's your favorite UNK ?	你最喜欢的饮料是什么？	你最喜欢什么水？	你 最 喜 欢 的 饮 料 是 什 么 ？	你 最 喜 欢 什 么 水 ？
+UNK drinking is a UNK .	未满年龄饮酒是罪行。	木箭发牌是个木匠。	未 满 年 龄 饮 酒 是 罪 行 。	木 箭 发 牌 是 个 木 匠 。
+few students knew his name .	很少学生知道他的名字。	几乎不知道他的名字。	很 少 学 生 知 道 他 的 名 字 。	几 乎 不 知 道 他 的 名 字 。
+are you free tomorrow evening ?	你明晚有空吗？	你明天晚上有空吗？	你 明 晚 有 空 吗 ？	你 明 天 晚 上 有 空 吗 ？
+i ca n't meet you .	遇不到你。	我不见你。	遇 不 到 你 。	我 不 见 你 。
+she UNK a motorcycle well .	她骑摩托车的技术不错！	她企图签旧身上。	她 骑 摩 托 车 的 技 术 不 错 ！	她 企 图 签 旧 身 上 。
+you must answer these questions .	你必须回答这些问题。	你必须回答这些问题。	你 必 须 回 答 这 些 问 题 。	你 必 须 回 答 这 些 问 题 。
+how high can you jump ?	您能跳多高？	你怎么从跳舞？	您 能 跳 多 高 ？	你 怎 么 从 跳 舞 ？
+he is my youngest brother .	他是我最年轻的兄弟。	他亲年轻得不作弟。	他 是 我 最 年 轻 的 兄 弟 。	他 亲 年 轻 得 不 作 弟 。
+most boys like computer games .	大多数男生喜欢电脑游戏。	大部分男生喜欢电脑。	大 多 数 男 生 喜 欢 电 脑 游 戏 。	大 部 分 男 生 喜 欢 电 脑 。
+can i have a bite ?	我可以吃一口吗？	我可以咬吗？	我 可 以 吃 一 口 吗 ？	我 可 以 咬 吗 ？
+this is not very UNK .	这不是很流行。	这不是非常注意。	这 不 是 很 流 行 。	这 不 是 非 常 注 意 。
+there is a fork missing .	少一把叉子。	少来自己的赌西。	少 一 把 叉 子 。	少 来 自 己 的 赌 西 。
+i love my yellow sweater .	我很喜欢我的黄色套衫。	我爱我的红色约有。	我 很 喜 欢 我 的 黄 色 套 衫 。	我 爱 我 的 红 色 约 有 。
+we UNK tea from india .	我们从印度进口茶叶。	我们控制造了印度。	我 们 从 印 度 进 口 茶 叶 。	我 们 控 制 造 了 印 度 。
+he seldom goes to church .	他很少去教堂。	他很少教堂教堂。	他 很 少 去 教 堂 。	他 很 少 教 堂 教 堂 。
+it seemed to be cheap .	似乎很便宜。	这似乎很便宜。	似 乎 很 便 宜 。	这 似 乎 很 便 宜 。
+tom can keep a secret .	汤姆会保密。	汤姆可能保密。	汤 姆 会 保 密 。	汤 姆 可 能 保 密 。
+tennis is my favorite sport .	网球是我最喜欢的运动。	网球是我最喜欢的运动。	网 球 是 我 最 喜 欢 的 运 动 。	网 球 是 我 最 喜 欢 的 运 动 。
+when is your bed time ?	你什么时候睡觉？	你什么时候床？	你 什 么 时 候 睡 觉 ？	你 什 么 时 候 床 ？
+give me something to do .	给我点事做。	给我些事。	给 我 点 事 做 。	给 我 些 事 。
+nobody gave us a chance .	没人给我们机会。	没有人们给了我们一部分机。	没 人 给 我 们 机 会 。	没 有 人 们 给 了 我 们 一 部 分 机 。
+i am six feet tall .	我六英尺高。	我六点左脚。	我 六 英 尺 高 。	我 六 点 左 脚 。
+where can you get tickets ?	在哪里可以买到车票？	你能在哪里？	在 哪 里 可 以 买 到 车 票 ？	你 能 在 哪 里 ？
+these pants fit me well .	我穿这条裤子很合身。	这些裤子我穿起来很合身。	我 穿 这 条 裤 子 很 合 身 。	这 些 裤 子 我 穿 起 来 很 合 身 。
+he showed me her picture .	他给我看了她的照片。	他给我看她的照片。	他 给 我 看 了 她 的 照 片 。	他 给 我 看 她 的 照 片 。
+are you afraid of UNK ?	你怕虫子吗？	你怕客吗？	你 怕 虫 子 吗 ？	你 怕 客 吗 ？
+how about taking a rest ?	休息一下怎么样?	要养多少张休息？	休 息 一 下 怎 么 样 ?	要 养 多 少 张 休 息 ？
+i need a UNK dictionary .	我需要一本日英字典。	我需要一本被掌子。	我 需 要 一 本 日 英 字 典 。	我 需 要 一 本 被 掌 子 。
+he 's a bit UNK .	他有点活泼。	他有点短的脸。	他 有 点 活 泼 。	他 有 点 短 的 脸 。
+he 's bound to forget .	他准会忘。	他忘记者。	他 准 会 忘 。	他 忘 记 者 。
+the well has run dry .	这口井干涸了。	这口井干涸了。	这 口 井 干 涸 了 。	这 口 井 干 涸 了 。
+remember to mail this letter .	记得要去寄这封信。	记得把信寄这封信。	记 得 要 去 寄 这 封 信 。	记 得 把 信 寄 这 封 信 。
+many friends saw him off .	许多朋友为他送行。	许多朋友才会看到他。	许 多 朋 友 为 他 送 行 。	许 多 朋 友 才 会 看 到 他 。
+actions speak louder than words .	行动比语言更响亮。	行动胜于雄辩。	行 动 比 语 言 更 响 亮 。	行 动 胜 于 雄 辩 。
+what country are you from ?	你是从哪个国家来的？	你是从什么国家？	你 是 从 哪 个 国 家 来 的 ？	你 是 从 什 么 国 家 ？
+use it or lose it .	使用它或失去它。	它变成它或它。	使 用 它 或 失 去 它 。	它 变 成 它 或 它 。
+i like to play basketball .	我喜欢打篮球。	我喜欢打篮球。	我 喜 欢 打 篮 球 。	我 喜 欢 打 篮 球 。
+she gave him a watch .	她给了他一块表。	她给了他一支手表。	她 给 了 他 一 块 表 。	她 给 了 他 一 支 手 表 。
+why did n't she come ?	她为什么没来？	为什么她不来？	她 为 什 么 没 来 ？	为 什 么 她 不 来 ？
+give us a ride downtown .	载我们到市区。	给我们市中心。	载 我 们 到 市 区 。	给 我 们 市 中 心 。
+this is all i know .	这是我所知道的。	这是我所知道的。	这 是 我 所 知 道 的 。	这 是 我 所 知 道 的 。
+can we save the planet ?	我们能拯救这颗星球吗？	我们能把这个星星期保存在吗？	我 们 能 拯 救 这 颗 星 球 吗 ？	我 们 能 把 这 个 星 星 期 保 存 在 吗 ？
+you swim better than me .	你游泳游得比我好。	你游泳比我好。	你 游 泳 游 得 比 我 好 。	你 游 泳 比 我 好 。
+she is a good UNK .	她是一个很好的舞者。	她是个好处的损害。	她 是 一 个 很 好 的 舞 者 。	她 是 个 好 处 的 损 害 。
+he walked past the house .	他走过这栋房子。	他走过了房子。	他 走 过 这 栋 房 子 。	他 走 过 了 房 子 。
+he will reach hakodate tonight .	他今晚将抵达函馆。	他今晚会登象念头。	他 今 晚 将 抵 达 函 馆 。	他 今 晚 会 登 象 念 头 。
+this work does n't pay .	这个工作没有酬劳。	这个工作没有酬劳。	这 个 工 作 没 有 酬 劳 。	这 个 工 作 没 有 酬 劳 。
+UNK UNK is worth visiting .	吉UNK坡值得一游。	木箭发牢骚。	吉 UNK 坡 值 得 一 游 。	木 箭 发 牢 骚 。
+please put on your shoes .	请穿上你的鞋子。	请穿上你的鞋子。	请 穿 上 你 的 鞋 子 。	请 穿 上 你 的 鞋 子 。
+go back to your seat .	回到你的座位。	回应该把你的座位。	回 到 你 的 座 位 。	回 应 该 把 你 的 座 位 。
+bring your student UNK card .	带上你的学生卡。	把你的学生器集被卡。	带 上 你 的 学 生 卡 。	把 你 的 学 生 器 集 被 卡 。
+hope is not a UNK .	希望不是一种策略。	希望没有预定。	希 望 不 是 一 种 策 略 。	希 望 没 有 预 定 。
+he stuck to his promise .	他信守了承诺.	他把他的信守诺言了。	他 信 守 了 承 诺 .	他 把 他 的 信 守 诺 言 了 。
+this book is really interesting .	这本书真的很有趣。	这本书真的很有意思。	这 本 书 真 的 很 有 趣 。	这 本 书 真 的 很 有 意 思 。
+switzerland is a beautiful country .	瑞士是一个美丽的国家。	瑞士是一个美丽的国家。	瑞 士 是 一 个 美 丽 的 国 家 。	瑞 士 是 一 个 美 丽 的 国 家 。
+this must be my book .	这肯定是我的书。	这本书必须是我的。	这 肯 定 是 我 的 书 。	这 本 书 必 须 是 我 的 。
+i live in this area .	我住在这区。	我住在这地区。	我 住 在 这 区 。	我 住 在 这 地 区 。
+you 're in my way .	你挡住了我的路。	你在我的路上。	你 挡 住 了 我 的 路 。	你 在 我 的 路 上 。
+i saw him playing baseball .	我看到他在打棒球。	我看见他打棒球。	我 看 到 他 在 打 棒 球 。	我 看 见 他 打 棒 球 。
+he can swim very fast .	他能游得很快。	他游泳可以游得很快。	他 能 游 得 很 快 。	他 游 泳 可 以 游 得 很 快 。
+please go to the bank .	请去银行。	请去银行。	请 去 银 行 。	请 去 银 行 。
+you are not a coward .	你不是个懦夫。	你不是个懦夫。	你 不 是 个 懦 夫 。	你 不 是 个 懦 夫 。
+wash your hands before eating .	进食前先洗手。	洗你的手提供一把。	进 食 前 先 洗 手 。	洗 你 的 手 提 供 一 把 。
+we 'll always be friends .	我们永远都会是朋友。	我们总是会是朋友。	我 们 永 远 都 会 是 朋 友 。	我 们 总 是 会 是 朋 友 。
+speaking in english is fun .	说英语很有趣。	说英语很有趣。	说 英 语 很 有 趣 。	说 英 语 很 有 趣 。
+i can see the light .	我能看到光线。	我看到灯。	我 能 看 到 光 线 。	我 看 到 灯 。
+he often eats breakfast there .	他常常在那里吃早餐。	他常常在那里吃早餐。	他 常 常 在 那 里 吃 早 餐 。	他 常 常 在 那 里 吃 早 餐 。
+they did n't like you .	他们不喜欢你。	他们没有喜欢你。	他 们 不 喜 欢 你 。	他 们 没 有 喜 欢 你 。
+how deep is the hole ?	这个洞多深?	深吸引人节？	这 个 洞 多 深 ?	深 吸 引 人 节 ？
+she is watering the flowers .	她正在浇花。	她在浇花。	她 正 在 浇 花 。	她 在 浇 花 。
+i 'll drive to UNK .	我会开车到底特律。	我会开车站的地方。	我 会 开 车 到 底 特 律 。	我 会 开 车 站 的 地 方 。
+guess what he told me .	猜猜看他告诉了我什么。	他想我告诉了什么。	猜 猜 看 他 告 诉 了 我 什 么 。	他 想 我 告 诉 了 什 么 。
+he 'll wait for you .	他会等你。	他等你会等。	他 会 等 你 。	他 等 你 会 等 。
+my UNK is very UNK .	我的头皮非常UNK。	我的木匠非常害。	我 的 头 皮 非 常 UNK 。	我 的 木 匠 非 常 害 。
+she spoke through an interpreter .	她透过传译员发言。	她忍受出口。	她 透 过 传 译 员 发 言 。	她 忍 受 出 口 。
+i speak english every day .	我每天都说英语。	我每天说英语。	我 每 天 都 说 英 语 。	我 每 天 说 英 语 。
+compare your UNK with his .	比较你和他的翻译。	比较清信。	比 较 你 和 他 的 翻 译 。	比 较 清 信 。
+tom or somebody said that .	汤姆或某人说了那事。	汤姆说一个人说那个。	汤 姆 或 某 人 说 了 那 事 。	汤 姆 说 一 个 人 说 那 个 。
+my cats will love this .	我的猫会爱上这个。	我的猫会爱这个。	我 的 猫 会 爱 上 这 个 。	我 的 猫 会 爱 这 个 。
+i heard tom was captured .	我听说汤姆被捕了。	我听见汤姆的预订。	我 听 说 汤 姆 被 捕 了 。	我 听 见 汤 姆 的 预 订 。
+that was n't my intention .	这不是我的初UNK。	那不是我的本意。	这 不 是 我 的 初 UNK 。	那 不 是 我 的 本 意 。
+i miss her so much .	我那么想念她。	我想她这么多。	我 那 么 想 念 她 。	我 想 她 这 么 多 。
+he UNK with my opinion .	他同意我的意见。	他面带着我的意见。	他 同 意 我 的 意 见 。	他 面 带 着 我 的 意 见 。
+this whisky is too strong .	这种威士忌太烈了。	这种威士忌太烈了。	这 种 威 士 忌 太 烈 了 。	这 种 威 士 忌 太 烈 了 。
+it depends on the context .	这得看情况。	这要看情况。	这 得 看 情 况 。	这 要 看 情 况 。
+he studied for ten years .	他研究了十年。	他已经学了十年。	他 研 究 了 十 年 。	他 已 经 学 了 十 年 。
+she died of stomach cancer .	她死于胃癌。	她死于癌症。	她 死 于 胃 癌 。	她 死 于 癌 症 。
+who told you the story ?	谁告诉你这个故事？	谁告诉你在说什么？	谁 告 诉 你 这 个 故 事 ？	谁 告 诉 你 在 说 什 么 ？
+this man is not UNK .	这个人靠不住的。	这个男人不舒服。	这 个 人 靠 不 住 的 。	这 个 男 人 不 舒 服 。
+he has three older sisters .	他有三个姐姐。	他有三个姐姐。	他 有 三 个 姐 姐 。	他 有 三 个 姐 姐 。
+i can come at three .	我三点钟可以来。	我可以三点钟。	我 三 点 钟 可 以 来 。	我 可 以 三 点 钟 。
+tom is drinking apple juice .	Tom正在喝苹果汁。	Tom正在喝果汁。	T o m 正 在 喝 苹 果 汁 。	T o m 正 在 喝 果 汁 。
+his brother studies very hard .	他的哥哥很用功读书。	他的弟弟非常努力学习。	他 的 哥 哥 很 用 功 读 书 。	他 的 弟 弟 非 常 努 力 学 习 。
+i really like my UNK .	我确实喜欢我的同事。	我真的喜欢刮胡子。	我 确 实 喜 欢 我 的 同 事 。	我 真 的 喜 欢 刮 胡 子 。
+we knew it all along .	我们一开始就知道。	我们知道所相处。	我 们 一 开 始 就 知 道 。	我 们 知 道 所 相 处 。
+that 's an original idea .	那是原创的想法。	那是一个见见的主题。	那 是 原 创 的 想 法 。	那 是 一 个 见 见 的 主 题 。
+he got off the bus .	他下了公车。	他搭公车上了公车。	他 下 了 公 车 。	他 搭 公 车 上 了 公 车 。
+i 'll reconsider the matter .	我会重新考虑此事。	我重新考虑一下。	我 会 重 新 考 虑 此 事 。	我 重 新 考 虑 一 下 。
+his book is very interesting .	他的书非常有趣。	他的书非常有趣。	他 的 书 非 常 有 趣 。	他 的 书 非 常 有 趣 。
+UNK is carried by mosquitoes .	UNK疾是由蚊子传染的。	木板上超过了。	UNK 疾 是 由 蚊 子 传 染 的 。	木 板 上 超 过 了 。
+bring me a dry towel .	给我一条干毛巾。	给我一条浴巾。	给 我 一 条 干 毛 巾 。	给 我 一 条 浴 巾 。
+i would like your picture .	我想要你的照片。	我想要你的照片。	我 想 要 你 的 照 片 。	我 想 要 你 的 照 片 。
+it belongs to my brother .	它属于我兄弟。	是我的兄弟都是我的兄弟。	它 属 于 我 兄 弟 。	是 我 的 兄 弟 都 是 我 的 兄 弟 。
+how 's the weather there ?	那里的气候怎么样?	那儿是什么天气？	那 里 的 气 候 怎 么 样 ?	那 儿 是 什 么 天 气 ？
+he has his own room .	他有自己的房间。	他有自己的房间。	他 有 自 己 的 房 间 。	他 有 自 己 的 房 间 。
+open your eyes , please .	请睁开眼睛。	请打开你的眼睛。	请 睁 开 眼 睛 。	请 打 开 你 的 眼 睛 。
+the risk is too great .	风险太大。	危险太棒了不太棒了。	风 险 太 大 。	危 险 太 棒 了 不 太 棒 了 。
+i 'll miss your cooking .	我会想念你的厨艺。	我会想念你的厨艺。	我 会 想 念 你 的 厨 艺 。	我 会 想 念 你 的 厨 艺 。
+can i try this on ?	我能试一下吗？	我能试试这个吗？	我 能 试 一 下 吗 ？	我 能 试 试 这 个 吗 ？
+people need to stop UNK .	人们需要止住仇恨。	人需要害怕受。	人 们 需 要 止 住 仇 恨 。	人 需 要 害 怕 受 。
+popcorn is my favorite snack .	爆米花是我最喜欢的零食。	爆米花是我最喜欢的东西。	爆 米 花 是 我 最 喜 欢 的 零 食 。	爆 米 花 是 我 最 喜 欢 的 东 西 。
+this job does n't pay .	这份工作不付钱的。	这个工作没有酬劳。	这 份 工 作 不 付 钱 的 。	这 个 工 作 没 有 酬 劳 。
+he cut the envelope open .	他裁开了那个信封。	他把信封信封信。	他 裁 开 了 那 个 信 封 。	他 把 信 封 信 封 信 。
+where are those people from ?	那些人从哪来的？	那些人都是从哪里来的？	那 些 人 从 哪 来 的 ？	那 些 人 都 是 从 哪 里 来 的 ？
+this makes me so angry .	这让我非常愤怒。	这让我那么生气。	这 让 我 非 常 愤 怒 。	这 让 我 那 么 生 气 。
+do n't pull my leg !	不要拉我的腿！	不要把我的腿放轻！	不 要 拉 我 的 腿 ！	不 要 把 我 的 腿 放 轻 ！
+i was n't busy yesterday .	我昨天不忙。	我昨天不忙。	我 昨 天 不 忙 。	我 昨 天 不 忙 。
+people should get more involved .	人们需要更多的交流。	人应该多应该的。	人 们 需 要 更 多 的 交 流 。	人 应 该 多 应 该 的 。
+tell me which you want .	告诉我你想要哪个。	告诉我你要哪个。	告 诉 我 你 想 要 哪 个 。	告 诉 我 你 要 哪 个 。
+watch my camera for me .	帮我看著我的相机。	我的照相机给我。	帮 我 看 著 我 的 相 机 。	我 的 照 相 机 给 我 。
+his UNK are very long .	他的讲座很长。	他的木损很长。	他 的 讲 座 很 长 。	他 的 木 损 很 长 。
+you should UNK that fact .	你应该重视那个事实。	你应该控制的。	你 应 该 重 视 那 个 事 实 。	你 应 该 控 制 的 。
+i am engaged to her .	我跟她订婚了。	我和她订婚。	我 跟 她 订 婚 了 。	我 和 她 订 婚 。
+i 'm afraid of spiders .	我怕蜘蛛。	我怕蜘蛛。	我 怕 蜘 蛛 。	我 怕 蜘 蛛 。
+he brought back several UNK .	他带回了一些纪念品。	他开始面带了很大的损子。	他 带 回 了 一 些 纪 念 品 。	他 开 始 面 带 了 很 大 的 损 子 。
+the boy UNK the dark .	这个男孩害怕黑夜。	这个男孩子漆了。	这 个 男 孩 害 怕 黑 夜 。	这 个 男 孩 子 漆 了 。
+the company abandoned that project .	公司放弃了那个项目。	这家公司放弃了那个项目。	公 司 放 弃 了 那 个 项 目 。	这 家 公 司 放 弃 了 那 个 项 目 。
+he may have been ill .	他可能病了。	他可能病了。	他 可 能 病 了 。	他 可 能 病 了 。
+she becomes drowsy after dinner .	晚饭后她变得昏昏欲睡。	晚饭后她变得昏欲睡。	晚 饭 后 她 变 得 昏 昏 欲 睡 。	晚 饭 后 她 变 得 昏 欲 睡 。
+she is mad at me .	她跟我生气了。	她生气了我生气。	她 跟 我 生 气 了 。	她 生 气 了 我 生 气 。
+no pain , no gain .	一分UNKUNK，一分收获。	不痛，体深色了。	一 分 UNK UNK ， 一 分 收 获 。	不 痛 ， 体 深 色 了 。
+we must UNK energy demand .	我们必须降低能源需求。	我们必须马上升。	我 们 必 须 降 低 能 源 需 求 。	我 们 必 须 马 上 升 。
+they made me really angry .	他们让我很生气。	他们让我真的生气。	他 们 让 我 很 生 气 。	他 们 让 我 真 的 生 气 。
+do n't underestimate my power .	不要小看我的力量。	不要低估我的力量。	不 要 小 看 我 的 力 量 。	不 要 低 估 我 的 力 量 。
+tom 's coach likes him .	汤姆的教练喜欢他。	汤姆是他喜欢的教师。	汤 姆 的 教 练 喜 欢 他 。	汤 姆 是 他 喜 欢 的 教 师 。
+she was wearing long boots .	她穿着长靴。	她戴上了张沙滩上。	她 穿 着 长 靴 。	她 戴 上 了 张 沙 滩 上 。
+how much will it cost ?	这要多少钱？	它将花费多少钱？	这 要 多 少 钱 ？	它 将 花 费 多 少 钱 ？
+the box is almost empty .	盒子几乎是空的。	箱子几乎不在空的东西。	盒 子 几 乎 是 空 的 。	箱 子 几 乎 不 在 空 的 东 西 。
+please UNK the cards carefully .	请仔细洗牌。	请重视线翻译。	请 仔 细 洗 牌 。	请 重 视 线 翻 译 。
+i do n't like school .	我不喜欢学校。	我不喜欢学校。	我 不 喜 欢 学 校 。	我 不 喜 欢 学 校 。
+he married a pretty girl .	他娶了一个漂亮的女孩。	他娶了一个漂亮的女孩。	他 娶 了 一 个 漂 亮 的 女 孩 。	他 娶 了 一 个 漂 亮 的 女 孩 。
+that 's my favorite chair .	那是我最喜欢的椅子。	那是我最喜欢的椅子。	那 是 我 最 喜 欢 的 椅 子 。	那 是 我 最 喜 欢 的 椅 子 。
+he fought against racial discrimination .	他反对种族歧视。	他打了种族歧视。	他 反 对 种 族 歧 视 。	他 打 了 种 族 歧 视 。
+we went to the UNK .	我们去看了比赛。	我们去了木匠。	我 们 去 看 了 比 赛 。	我 们 去 了 木 匠 。
+we ordered too much food .	我们点太多食物了。	我们点了食物。	我 们 点 太 多 食 物 了 。	我 们 点 了 食 物 。
+i do n't want you .	我不想要你。	我不想你。	我 不 想 要 你 。	我 不 想 你 。
+we really appreciate their effort .	我们真的感激他们的努力。	我们真的很感激羞耻。	我 们 真 的 感 激 他 们 的 努 力 。	我 们 真 的 很 感 激 羞 耻 。
+i 'm thinking about you .	我突然想到你。	我正考虑到你。	我 突 然 想 到 你 。	我 正 考 虑 到 你 。
+stay out of my room .	别进我的房间。	别进我的房间。	别 进 我 的 房 间 。	别 进 我 的 房 间 。
+he was listening to music .	他正在听音乐。	他听说音乐。	他 正 在 听 音 乐 。	他 听 说 音 乐 。
+let me have a look .	让我看看。	让我看看。	让 我 看 看 。	让 我 看 看 。
+he took off his glasses .	他摘下了眼镜。	他休了眼镜。	他 摘 下 了 眼 镜 。	他 休 了 眼 镜 。
+tom is very much alone .	汤姆非常孤单。	汤姆非常有耐心。	汤 姆 非 常 孤 单 。	汤 姆 非 常 有 耐 心 。
+tom is a good person .	汤姆是个好人。	汤姆是个好人。	汤 姆 是 个 好 人 。	汤 姆 是 个 好 人 。
+it 's already nine o'clock .	已经9点了。	已经是九点钟了。	已 经 9 点 了 。	已 经 是 九 点 钟 了 。
+i 've quit drinking beer .	我已经不喝啤酒了。	我戒酒了。	我 已 经 不 喝 啤 酒 了 。	我 戒 酒 了 。
+my mother boiled ten eggs .	妈妈煮了十只蛋。	我母亲十鸡蛋。	妈 妈 煮 了 十 只 蛋 。	我 母 亲 十 鸡 蛋 。
+do you know this song ?	你知道这首歌吗？	你知道这首歌吗？	你 知 道 这 首 歌 吗 ？	你 知 道 这 首 歌 吗 ？
+being rich is n't enough .	有钱还不够。	金钱不够。	有 钱 还 不 够 。	金 钱 不 够 。
+please tell me about it .	请告诉我它的事情。	请告诉我它。	请 告 诉 我 它 的 事 情 。	请 告 诉 我 它 。
+he is fluent in french .	他说法语说得很流利。	他说法语很流利。	他 说 法 语 说 得 很 流 利 。	他 说 法 语 很 流 利 。
+that 's what i like .	我就喜欢它。	那就是我喜欢的。	我 就 喜 欢 它 。	那 就 是 我 喜 欢 的 。
+he is an UNK person .	他是个UNKUNK逼人的的人。	他是个短处的。	他 是 个 UNK UNK 逼 人 的 的 人 。	他 是 个 短 处 的 。
+my attitude towards him changed .	我对他的态度变了。	我的态度有改变他。	我 对 他 的 态 度 变 了 。	我 的 态 度 有 改 变 他 。
+she 's not a child .	她不是小孩。	她不是个孩子。	她 不 是 小 孩 。	她 不 是 个 孩 子 。
+she is everything to him .	她是他的一切。	她是一切都要到他的。	她 是 他 的 一 切 。	她 是 一 切 都 要 到 他 的 。
+i heard the door close .	我听到门关了。	我听到门关上。	我 听 到 门 关 了 。	我 听 到 门 关 上 。
+the topic is worth discussing .	这是值得探讨的话题。	讨论是值得讨论的。	这 是 值 得 探 讨 的 话 题 。	讨 论 是 值 得 讨 论 的 。
+he has a large family .	他有一个大家庭。	他有一大家人。	他 有 一 个 大 家 庭 。	他 有 一 大 家 人 。
+my brother became an engineer .	我哥哥成了一名工程师。	我哥哥哥成为一名工程师。	我 哥 哥 成 了 一 名 工 程 师 。	我 哥 哥 哥 成 为 一 名 工 程 师 。
+who else UNK this room ?	还有谁用这个房间？	谁伸出这个房间？	还 有 谁 用 这 个 房 间 ？	谁 伸 出 这 个 房 间 ？
+you should have studied harder .	你本应该更努力学习的。	你应该更努力学习。	你 本 应 该 更 努 力 学 习 的 。	你 应 该 更 努 力 学 习 。
+school will start next monday .	下周一开学。	下周一开始就在周一开始。	下 周 一 开 学 。	下 周 一 开 始 就 在 周 一 开 始 。
+he took out his passport .	他拿出了他的护照。	他出了她的护照。	他 拿 出 了 他 的 护 照 。	他 出 了 她 的 护 照 。
+she is still a girl .	她还是个小孩儿。	她还是一个女孩。	她 还 是 个 小 孩 儿 。	她 还 是 一 个 女 孩 。
+what are you looking at ?	你在看什么？	你在看什么？	你 在 看 什 么 ？	你 在 看 什 么 ？
+life in japan is expensive .	在日本生活消费很高。	生活里的很贵。	在 日 本 生 活 消 费 很 高 。	生 活 里 的 很 贵 。
+you are in my way .	你挡住了我的路。	你在我的路上。	你 挡 住 了 我 的 路 。	你 在 我 的 路 上 。
+you drink too much coffee .	你咖啡喝得太多了。	你喝太多了咖啡。	你 咖 啡 喝 得 太 多 了 。	你 喝 太 多 了 咖 啡 。
+he is leaving chicago tomorrow .	他明天将离开芝加哥。	他明天将离开去芝加哥。	他 明 天 将 离 开 芝 加 哥 。	他 明 天 将 离 开 去 芝 加 哥 。
+why are you busy today ?	你今天为什么忙？	你今天为什么忙？	你 今 天 为 什 么 忙 ？	你 今 天 为 什 么 忙 ？
+a UNK taught him spanish .	一个墨西哥人教了他西班牙文。	一条街刷成为他西班。	一 个 墨 西 哥 人 教 了 他 西 班 牙 文 。	一 条 街 刷 成 为 他 西 班 。
+english is useful in commerce .	英语在商业中很有用。	英语是有用的商业的。	英 语 在 商 业 中 很 有 用 。	英 语 是 有 用 的 商 业 的 。
+mary likes milk very much .	玛丽很喜欢牛奶。	玛丽非常喜欢牛奶。	玛 丽 很 喜 欢 牛 奶 。	玛 丽 非 常 喜 欢 牛 奶 。
+do n't stare at others .	别盯着别人看。	不要看不起别人。	别 盯 着 别 人 看 。	不 要 看 不 起 别 人 。
+we like to play soccer .	我们喜欢踢足球。	我们喜欢踢足球。	我 们 喜 欢 踢 足 球 。	我 们 喜 欢 踢 足 球 。
+thank you for your attention .	谢谢您的关注。	谢谢你的注意。	谢 谢 您 的 关 注 。	谢 谢 你 的 注 意 。
+let him play your guitar .	让他弹你的吉他。	让他弹吉他。	让 他 弹 你 的 吉 他 。	让 他 弹 吉 他 。
+she UNK her older brother .	她爱慕她哥哥。	她企图片得活。	她 爱 慕 她 哥 哥 。	她 企 图 片 得 活 。
+that film 's really interesting .	那部电影很有意思。	这部真有趣。	那 部 电 影 很 有 意 思 。	这 部 真 有 趣 。
+my room is very small .	我的房间很小。	我的房间非常小。	我 的 房 间 很 小 。	我 的 房 间 非 常 小 。
+i want to visit korea .	我想访问韩国。	我想访问韩国。	我 想 访 问 韩 国 。	我 想 访 问 韩 国 。
+i met an old woman .	我遇见了一位老妇人。	我遇见了一位老妇人。	我 遇 见 了 一 位 老 妇 人 。	我 遇 见 了 一 位 老 妇 人 。
+i 'm good at skiing .	我擅长滑雪。	我在滑雪。	我 擅 长 滑 雪 。	我 在 滑 雪 。
+we should call the doctor .	我们应该去请医生。	我们应该打电话给医生。	我 们 应 该 去 请 医 生 。	我 们 应 该 打 电 话 给 医 生 。
+tom played with his dog .	汤姆和他的狗玩。	汤姆和他的狗谈过来。	汤 姆 和 他 的 狗 玩 。	汤 姆 和 他 的 狗 谈 过 来 。
+say it in another way .	换种方式说。	说方面要方。	换 种 方 式 说 。	说 方 面 要 方 。
+i just need a break .	我只想休息一下	我只是需要一打断手。	我 只 想 休 息 一 下	我 只 是 需 要 一 打 断 手 。
+it 's okay to go .	你可以走了。	它没有去。	你 可 以 走 了 。	它 没 有 去 。
+should i cancel the call ?	我该取消通话吗?	我应该取消这打电话给我吗？	我 该 取 消 通 话 吗 ?	我 应 该 取 消 这 打 电 话 给 我 吗 ？
+i am not a student .	我不是学生。	我不是学生。	我 不 是 学 生 。	我 不 是 学 生 。
+i 'll join you later .	我一会儿就来。	我会加入你们。	我 一 会 儿 就 来 。	我 会 加 入 你 们 。
+tom never turned up again .	汤姆没有再出现。	汤姆再也不做了。	汤 姆 没 有 再 出 现 。	汤 姆 再 也 不 做 了 。
+be careful not to fall .	小心别摔倒了。	小心不要派对。	小 心 别 摔 倒 了 。	小 心 不 要 派 对 。
+does she have a piano ?	她有钢琴吗？	她有钢琴吗？	她 有 钢 琴 吗 ？	她 有 钢 琴 吗 ？
+i ate breakfast at eight .	我八点钟吃了早餐。	我在八点早餐吃了。	我 八 点 钟 吃 了 早 餐 。	我 在 八 点 早 餐 吃 了 。
+i love UNK fruit juice .	我爱百香果汁。	我爱水果汁。	我 爱 百 香 果 汁 。	我 爱 水 果 汁 。
+he has a big family .	他有个大家庭。	他有一个大家人。	他 有 个 大 家 庭 。	他 有 一 个 大 家 人 。
+today is my UNK birthday .	今天是我十六岁的生日。	今天是我的立刻。	今 天 是 我 十 六 岁 的 生 日 。	今 天 是 我 的 立 刻 。
+tom hid under the table .	Tom躲在桌子底下。	汤姆藏在桌子底下。	T o m 躲 在 桌 子 底 下 。	汤 姆 藏 在 桌 子 底 下 。
+mathematics is difficult for me .	数学对我来说很难。	数学对我来说很困难。	数 学 对 我 来 说 很 难 。	数 学 对 我 来 说 很 困 难 。
+i met your father yesterday .	昨天我见到了你父亲。	昨天我遇见了你的父亲。	昨 天 我 见 到 了 你 父 亲 。	昨 天 我 遇 见 了 你 的 父 亲 。
+you should have come earlier .	你本应该来得更早的。	你应该早点来的。	你 本 应 该 来 得 更 早 的 。	你 应 该 早 点 来 的 。
+how much did you UNK ?	你出价多少？	你有多面包？	你 出 价 多 少 ？	你 有 多 面 包 ？
+mary is pregnant with twins .	玛丽怀了双胞胎。	玛丽怀孕怀孕很旧。	玛 丽 怀 了 双 胞 胎 。	玛 丽 怀 孕 怀 孕 很 旧 。
+give me something to eat .	给我点东西吃。	给我些东西吃。	给 我 点 东 西 吃 。	给 我 些 东 西 吃 。
+now it 's your serve .	现在该你发球。	现在它提供一整理。	现 在 该 你 发 球 。	现 在 它 提 供 一 整 理 。
+she is a quiet woman .	她是一个安静的女人。	她是个安静的女人。	她 是 一 个 安 静 的 女 人 。	她 是 个 安 静 的 女 人 。
+i 'm feeling blue today .	我今天的心情不好。	我今天感觉良好。	我 今 天 的 心 情 不 好 。	我 今 天 感 觉 良 好 。
+london was UNK several times .	伦敦被UNK炸过许多次。	伦敦被很少次了。	伦 敦 被 UNK 炸 过 许 多 次 。	伦 敦 被 很 少 次 了 。
+i think it 's ok .	我想没关系。	我认为它没关系。	我 想 没 关 系 。	我 认 为 它 没 关 系 。
+you should n't wait here .	你不应该在这里等。	你不应该在这里等待。	你 不 应 该 在 这 里 等 。	你 不 应 该 在 这 里 等 待 。
+you do n't deserve it .	你不配。	你不应该得到这个。	你 不 配 。	你 不 应 该 得 到 这 个 。
+call me at the office .	打电话到我办公室来。	联系我。	打 电 话 到 我 办 公 室 来 。	联 系 我 。
+i ate a UNK lunch .	我匆忙的吃了午餐。	我吃了一顿饭。	我 匆 忙 的 吃 了 午 餐 。	我 吃 了 一 顿 饭 。
+she ignored all my warnings .	她忽视了我所有的警告。	她不顾我的警告。	她 忽 视 了 我 所 有 的 警 告 。	她 不 顾 我 的 警 告 。
+i 've already tried that .	我已经试过那个了。	我已经试过了。	我 已 经 试 过 那 个 了 。	我 已 经 试 过 了 。
+he bought her a sweater .	他买了一件毛衣给她。	他买了一件毛衣。	他 买 了 一 件 毛 衣 给 她 。	他 买 了 一 件 毛 衣 。
+i missed the last train .	我错过了最后一班火车。	我错过了火车。	我 错 过 了 最 后 一 班 火 车 。	我 错 过 了 火 车 。
+do n't begin without me .	我不在就别开始。	不要就为我开始。	我 不 在 就 别 开 始 。	不 要 就 为 我 开 始 。
+the end UNK the means .	为了正当目的可以不择手段。	这个岛装害怕。	为 了 正 当 目 的 可 以 不 择 手 段 。	这 个 岛 装 害 怕 。
+he is full of energy .	他充满活力。	他充满了神秘。	他 充 满 活 力 。	他 充 满 了 神 秘 。
+it grew larger and larger .	它变得越来越大。	大比亚长大。	它 变 得 越 来 越 大 。	大 比 亚 长 大 。
+kyoto and boston are sister cities .	京都和波士顿是姐妹城市。	京都和Mary是姐妹的城市。	京 都 和 波 士 顿 是 姐 妹 城 市 。	京 都 和 M a r y 是 姐 妹 的 城 市 。
+i passed by her house yesterday .	我昨天经过她家。	我昨天过她家路。	我 昨 天 经 过 她 家 。	我 昨 天 过 她 家 路 。
+more than twenty boys went there .	超过二十个男孩去了那里。	比那里的男孩比赛了。	超 过 二 十 个 男 孩 去 了 那 里 。	比 那 里 的 男 孩 比 赛 了 。
+how long did you live there ?	你住在那里多久了?	你住在那里多久了？	你 住 在 那 里 多 久 了 ?	你 住 在 那 里 多 久 了 ？
+i do n't like her face .	我不喜欢她的脸。	我不喜欢她。	我 不 喜 欢 她 的 脸 。	我 不 喜 欢 她 。
+she plays the piano very well .	她钢琴弹得很好。	她弹钢琴。	她 钢 琴 弹 得 很 好 。	她 弹 钢 琴 。
+would you lend me some money ?	你可以借我一些钱吗?	你可以借我一些钱吗？	你 可 以 借 我 一 些 钱 吗 ?	你 可 以 借 我 一 些 钱 吗 ？
+please serve him his meal first .	请先为他上菜。	请他提供一次吃饭。	请 先 为 他 上 菜 。	请 他 提 供 一 次 吃 饭 。
+it 's too late to apologize .	现在道歉也迟了。	太晚了解释。	现 在 道 歉 也 迟 了 。	太 晚 了 解 释 。
+have you been to london before ?	你以前去过伦敦吗？	你以前去伦敦吗？	你 以 前 去 过 伦 敦 吗 ？	你 以 前 去 伦 敦 吗 ？
+he does n't speak our language .	他不会说我们的语言。	他不会说我们的语言。	他 不 会 说 我 们 的 语 言 。	他 不 会 说 我 们 的 语 言 。
+turn right at the next corner .	在下一个转角右转。	下一个右转角。	在 下 一 个 转 角 右 转 。	下 一 个 右 转 角 。
+she works as a UNK UNK .	她是按摩师。	她为一家绕短裙子工作。	她 是 按 摩 师 。	她 为 一 家 绕 短 裙 子 工 作 。
+we expect a lot from him .	我们对他期望很多。	我们从他期望到很高。	我 们 对 他 期 望 很 多 。	我 们 从 他 期 望 到 很 高 。
+she greeted me with a smile .	她用一个微笑迎接了我。	她面带微笑向我打招呼。	她 用 一 个 微 笑 迎 接 了 我 。	她 面 带 微 笑 向 我 打 招 呼 。
+do n't make fun of people .	不要取笑人。	别人玩笑。	不 要 取 笑 人 。	别 人 玩 笑 。
+what 's your favorite UNK food ?	你最喜欢的家常菜是什么？	你最喜欢什么食物？	你 最 喜 欢 的 家 常 菜 是 什 么 ？	你 最 喜 欢 什 么 食 物 ？
+his life after UNK was unhappy .	他退休后的生活不快乐。	他的生活被不高兴。	他 退 休 后 的 生 活 不 快 乐 。	他 的 生 活 被 不 高 兴 。
+the plane made a perfect landing .	这架飞机完美的著陆了。	飞机在起来越亮了。	这 架 飞 机 完 美 的 著 陆 了 。	飞 机 在 起 来 越 亮 了 。
+it all depends on the weather .	一切都取决于天气。	这都看天气都要看天气。	一 切 都 取 决 于 天 气 。	这 都 看 天 气 都 要 看 天 气 。
+my heart was filled with happiness .	我心里充满着快乐。	我的心跳在幸福里。	我 心 里 充 满 着 快 乐 。	我 的 心 跳 在 幸 福 里 。
+she laid the work on him .	她派他去工作了。	她仰躺。	她 派 他 去 工 作 了 。	她 仰 躺 。
+they were listening to the radio .	他们在听收音机。	他们在听收音机。	他 们 在 听 收 音 机 。	他 们 在 听 收 音 机 。
+six divided by two is three .	六除以二得三。	六除了这两点。	六 除 以 二 得 三 。	六 除 了 这 两 点 。
+why did you show me this ?	你为什么让我看这个？	为什么你看这个？	你 为 什 么 让 我 看 这 个 ？	为 什 么 你 看 这 个 ？
+it 's as cold as ice .	它冷得像冰一样。	尽可用。	它 冷 得 像 冰 一 样 。	尽 可 用 。
+his house is somewhere about here .	他家在这儿某处。	他家在这附近某个地方。	他 家 在 这 儿 某 处 。	他 家 在 这 附 近 某 个 地 方 。
+do you have any smaller UNK ?	你有任何比较小的尺寸吗?	你有任何地方便吗？	你 有 任 何 比 较 小 的 尺 寸 吗 ?	你 有 任 何 地 方 便 吗 ？
+a burglar broke into his house .	一个窃贼闯进了他的房子。	小偷了他的房子。	一 个 窃 贼 闯 进 了 他 的 房 子 。	小 偷 了 他 的 房 子 。
+my sister became a college student .	我妹妹成为了一个大学生。	我妹妹成为了大学生。	我 妹 妹 成 为 了 一 个 大 学 生 。	我 妹 妹 成 为 了 大 学 生 。
+you should know that 's impossible .	你应该知道这是不可能的。	你应该知道这是不可能的。	你 应 该 知 道 这 是 不 可 能 的 。	你 应 该 知 道 这 是 不 可 能 的 。
+i forgot it in the garage .	我把它忘在车库里了。	我忘了车库。	我 把 它 忘 在 车 库 里 了 。	我 忘 了 车 库 。
+i have already finished the job .	我已经完成了这项工作。	我已经完成了这份工作。	我 已 经 完 成 了 这 项 工 作 。	我 已 经 完 成 了 这 份 工 作 。
+do you have something to say ?	您有什么事要说吗？	你有什么事吗？	您 有 什 么 事 要 说 吗 ？	你 有 什 么 事 吗 ？
+i do n't want any excuses .	我不想听解释。	我没有任何借口。	我 不 想 听 解 释 。	我 没 有 任 何 借 口 。
+let 's take a ten-minute break .	让我们休息10分钟。	让我们10分钟车。	让 我 们 休 息 1 0 分 钟 。	让 我 们 1 0 分 钟 车 。
+so you give up , right ?	所以你放弃了，是吗？	这你说，好吗？	所 以 你 放 弃 了 ， 是 吗 ？	这 你 说 ， 好 吗 ？
+i hear they 're pretty good .	我听说他们挺好。	我听见他们很好。	我 听 说 他 们 挺 好 。	我 听 见 他 们 很 好 。
+do n't walk alone after dark .	不要一个人在黑暗中走。	天黑以后不散步。	不 要 一 个 人 在 黑 暗 中 走 。	天 黑 以 后 不 散 步 。
+he ate all of the apple .	他吃了所有的苹果。	他吃了这个苹果。	他 吃 了 所 有 的 苹 果 。	他 吃 了 这 个 苹 果 。
+i 'm planning to study tonight .	我打算今天晚上读书。	我打算今晚学习。	我 打 算 今 天 晚 上 读 书 。	我 打 算 今 晚 学 习 。
+there was UNK any money left .	几乎没剩下钱。	已经紧张了钱。	几 乎 没 剩 下 钱 。	已 经 紧 张 了 钱 。
+he has been to many places .	他去过很多地方。	他去了许多地去了。	他 去 过 很 多 地 方 。	他 去 了 许 多 地 去 了 。
+nobody had ever heard of it .	以前从来没有人听说过。	没有人听到它。	以 前 从 来 没 有 人 听 说 过 。	没 有 人 听 到 它 。
+is there a doctor on board ?	船上有医生吗?	医生对医生来有个吗？	船 上 有 医 生 吗 ?	医 生 对 医 生 来 有 个 吗 ？
+there is no place like home .	金窝银窝不如自己的狗窝。	没有家人。	金 窝 银 窝 不 如 自 己 的 狗 窝 。	没 有 家 人 。
+we enjoyed listening to the music .	我们喜欢听音乐。	我们在听音乐。	我 们 喜 欢 听 音 乐 。	我 们 在 听 音 乐 。
+she was buried in her hometown .	她被安葬在她的家乡。	她在她的乡回家。	她 被 安 葬 在 她 的 家 乡 。	她 在 她 的 乡 回 家 。
+he is a student at harvard .	他是一个哈佛的学生。	他是哈佛大学的学生。	他 是 一 个 哈 佛 的 学 生 。	他 是 哈 佛 大 学 的 学 生 。
+this is a present for you .	这是给你的礼物。	这是为礼物。	这 是 给 你 的 礼 物 。	这 是 为 礼 物 。
+what language is spoken in egypt ?	在埃及说什么语言？	在外语说得有什么语言？	在 埃 及 说 什 么 语 言 ？	在 外 语 说 得 有 什 么 语 言 ？
+she will be seventeen next year .	她明年将满十七岁。	她十七岁。	她 明 年 将 满 十 七 岁 。	她 十 七 岁 。
+you do n't understand the UNK .	你不明白程序。	你不了解决这个段落。	你 不 明 白 程 序 。	你 不 了 解 决 这 个 段 落 。
+she gets good UNK in english .	她取得了优异的英语成绩。	她很擅长地口流利。	她 取 得 了 优 异 的 英 语 成 绩 。	她 很 擅 长 地 口 流 利 。
+she UNK him with the work .	她强迫他做这个工作。	她企图让他做工作。	她 强 迫 他 做 这 个 工 作 。	她 企 图 让 他 做 工 作 。
+how about going to the movies ?	去看电影怎样？	去看电影怎么样？	去 看 电 影 怎 样 ？	去 看 电 影 怎 么 样 ？
+i 'll miss you so much .	我会非常想念你。	我会想你这么多。	我 会 非 常 想 念 你 。	我 会 想 你 这 么 多 。
+get up early in the morning .	早上要早起。	早上早起床。	早 上 要 早 起 。	早 上 早 起 床 。
+he speaks both english and french .	他会讲英语和法语。	他说英语和法语。	他 会 讲 英 语 和 法 语 。	他 说 英 语 和 法 语 。
+i asked each boy three questions .	我问了每个男孩三个问题。	我要求三个问题。	我 问 了 每 个 男 孩 三 个 问 题 。	我 要 求 三 个 问 题 。
+what do you want it for ?	你要它干什么？	你想要做什么?	你 要 它 干 什 么 ？	你 想 要 做 什 么 ?
+i just want you to come .	我只是想要你来。	我只想你。	我 只 是 想 要 你 来 。	我 只 想 你 。
+he decided to become a pilot .	他决定成为一名飞行员。	他决定要成为一名飞行员。	他 决 定 成 为 一 名 飞 行 员 。	他 决 定 要 成 为 一 名 飞 行 员 。
+she can speak english very well .	她的英语说的很好。	她能说流利的英语。	她 的 英 语 说 的 很 好 。	她 能 说 流 利 的 英 语 。
+you have a way with women .	你对女人有一套。	你和女人一起工作。	你 对 女 人 有 一 套 。	你 和 女 人 一 起 工 作 。
+could you show me this bag ?	你能给我看看这个包吗？	你能让我看这个袋子吗？	你 能 给 我 看 看 这 个 包 吗 ？	你 能 让 我 看 这 个 袋 子 吗 ？
+it 's none of your concern .	这不关你的事。	这不关你的关心。	这 不 关 你 的 事 。	这 不 关 你 的 关 心 。
+would you carry my luggage upstairs ?	你可以把我的行李拿到楼上吗?	你会把我的行李放到楼吗？	你 可 以 把 我 的 行 李 拿 到 楼 上 吗 ?	你 会 把 我 的 行 李 放 到 楼 吗 ？
+this homework is difficult for me .	这个家庭作业对我来说很困难。	这个作家对我来说很困难。	这 个 家 庭 作 业 对 我 来 说 很 困 难 。	这 个 作 家 对 我 来 说 很 困 难 。
+are you a high school student ?	你是高中生吗?	你是个高中生吗？	你 是 高 中 生 吗 ?	你 是 个 高 中 生 吗 ？
+i had an accident at work .	我出了工伤。	我在工作中出了意外。	我 出 了 工 伤 。	我 在 工 作 中 出 了 意 外 。
+i also heard a similar story .	我也听过一个类似的故事。	我也听说一个故事。	我 也 听 过 一 个 类 似 的 故 事 。	我 也 听 说 一 个 故 事 。
+i do n't understand any french .	我一点法语都不懂。	我不明白法语。	我 一 点 法 语 都 不 懂 。	我 不 明 白 法 语 。
+i am going to play tennis .	我要去打网球。	我打网球。	我 要 去 打 网 球 。	我 打 网 球 。
+she loves tom , not me .	她爱汤姆，而不是我。	她爱我，我不是。	她 爱 汤 姆 ， 而 不 是 我 。	她 爱 我 ， 我 不 是 。
+it was just as i thought .	这正如我想的一样。	我就是想我的。	这 正 如 我 想 的 一 样 。	我 就 是 想 我 的 。
+my uncle lives in an apartment .	我叔叔住在公寓里。	我叔叔住在公寓里。	我 叔 叔 住 在 公 寓 里 。	我 叔 叔 住 在 公 寓 里 。
+are there any UNK for me ?	有任何给我的讯息吗？	我有充分的责任吗？	有 任 何 给 我 的 讯 息 吗 ？	我 有 充 分 的 责 任 吗 ？
+he is driving at top speed .	他全速驾驶着。	他驾驶挂酒。	他 全 速 驾 驶 着 。	他 驾 驶 挂 酒 。
+the history class starts at nine .	历史课九点开始。	九七点开学校。	历 史 课 九 点 开 始 。	九 七 点 开 学 校 。
+you did n't need to hurry .	你不需要著急。	你不必赶快。	你 不 需 要 著 急 。	你 不 必 赶 快 。
+she went to shanghai by train .	她是坐火车去上海的。	她上班去上火车。	她 是 坐 火 车 去 上 海 的 。	她 上 班 去 上 火 车 。
+your bicycle is similar to mine .	你的脚踏车和我的很相似。	你的脚踏车和我的相似。	你 的 脚 踏 车 和 我 的 很 相 似 。	你 的 脚 踏 车 和 我 的 相 似 。
+these flowers you see are roses .	你看到的这些花是玫瑰。	这些花都在你的玫瑰。	你 看 到 的 这 些 花 是 玫 瑰 。	这 些 花 都 在 你 的 玫 瑰 。
+i will explain it to her .	我会跟她解释的。	我会为她解释。	我 会 跟 她 解 释 的 。	我 会 为 她 解 释 。
+we want you to marry tom .	我们希望你和汤姆能结婚。	我们想你和汤姆结婚。	我 们 希 望 你 和 汤 姆 能 结 婚 。	我 们 想 你 和 汤 姆 结 婚 。
+let 's call the dog UNK .	让我们叫这只狗SkiUNKUNKer。	让我们来把这只狗跑进入。	让 我 们 叫 这 只 狗 S k i UNK UNK e r 。	让 我 们 来 把 这 只 狗 跑 进 入 。
+we still do n't know why .	我们仍然不知道为什么。	我们还不知道为什么。	我 们 仍 然 不 知 道 为 什 么 。	我 们 还 不 知 道 为 什 么 。
+i want you to grow up .	我希望你能长大。	我想你长大。	我 希 望 你 能 长 大 。	我 想 你 长 大 。
+what are you UNK them for ?	您为什么惩罚他们？	你对他们来说嘛？	您 为 什 么 惩 罚 他 们 ？	你 对 他 们 来 说 嘛 ？
+tom has known mary since UNK .	汤姆从小就认识玛丽了。	汤姆从玛丽又开始面包被吓到了。	汤 姆 从 小 就 认 识 玛 丽 了 。	汤 姆 从 玛 丽 又 开 始 面 包 被 吓 到 了 。
+there was an earthquake this morning .	今天早上发生了地震。	今天早上有一个地震。	今 天 早 上 发 生 了 地 震 。	今 天 早 上 有 一 个 地 震 。
+it is ten minutes before eleven .	还有十分钟就十一点。	十一点钟前在十一点钟。	还 有 十 分 钟 就 十 一 点 。	十 一 点 钟 前 在 十 一 点 钟 。
+i spent my vacation in hakone .	我在箱根渡假。	我在箱根过度假了。	我 在 箱 根 渡 假 。	我 在 箱 根 过 度 假 了 。
+she was hit by a car .	她被车撞了。	她被车撞了。	她 被 车 撞 了 。	她 被 车 撞 了 。
+she is not afraid of anything .	她不害怕任何东西。	她不怕任何东西。	她 不 害 怕 任 何 东 西 。	她 不 怕 任 何 东 西 。
+we traveled to mexico by plane .	我们搭飞机去墨西哥旅行。	我们周游了一人去飞机旅行。	我 们 搭 飞 机 去 墨 西 哥 旅 行 。	我 们 周 游 了 一 人 去 飞 机 旅 行 。
+i will wait until she comes .	我会等到她来。	我会等她。	我 会 等 到 她 来 。	我 会 等 她 。
+he is playing in his room .	他在自己房里玩。	他在他的房间里游泳。	他 在 自 己 房 里 玩 。	他 在 他 的 房 间 里 游 泳 。
+he is often absent from school .	他经常翘课。	他常缺席。	他 经 常 翘 课 。	他 常 缺 席 。
+i 'll attend the next meeting .	我会参加下次的会议。	我下个会参加会议。	我 会 参 加 下 次 的 会 议 。	我 下 个 会 参 加 会 议 。
+visitors to switzerland admire the UNK .	游客到瑞士欣赏阿尔UNK斯山。	客咨询欣赏所有的地方。	游 客 到 瑞 士 欣 赏 阿 尔 UNK 斯 山 。	客 咨 询 欣 赏 所 有 的 地 方 。
+what do you want for breakfast ?	你早餐想要吃什么？	你早餐想吃什么?	你 早 餐 想 要 吃 什 么 ？	你 早 餐 想 吃 什 么 ?
+you might have heard of it .	你可能听说过。	你可以听到它的。	你 可 能 听 说 过 。	你 可 以 听 到 它 的 。
+it UNK with a loud noise .	它发出巨响爆炸了。	严重楼的声音当声音。	它 发 出 巨 响 爆 炸 了 。	严 重 楼 的 声 音 当 声 音 。
+i was a little bit nervous .	我有点紧张。	我有点紧张。	我 有 点 紧 张 。	我 有 点 紧 张 。
+please come as soon as possible .	请尽快过来。	请尽快来。	请 尽 快 过 来 。	请 尽 快 来 。
+mary is studying in her room .	玛丽在她的房间里读书。	玛丽正在学房里学习她的房间。	玛 丽 在 她 的 房 间 里 读 书 。	玛 丽 正 在 学 房 里 学 习 她 的 房 间 。
+the tigers escaped from the zoo .	老虎从动物园中逃出来了。	觉得到动物园里遇到了。	老 虎 从 动 物 园 中 逃 出 来 了 。	觉 得 到 动 物 园 里 遇 到 了 。
+stop talking and listen to me .	别说话，听我说。	不要说话，我也不说。	别 说 话 ， 听 我 说 。	不 要 说 话 ， 我 也 不 说 。
+tom filled out the application form .	汤姆填写了申请表。	汤姆倒入了希望食物。	汤 姆 填 写 了 申 请 表 。	汤 姆 倒 入 了 希 望 食 物 。
+they made us work all day .	他们让我们工作了一整天。	他们让我们工作了一整天。	他 们 让 我 们 工 作 了 一 整 天 。	他 们 让 我 们 工 作 了 一 整 天 。
+please let me take your picture .	请让我为你拍照。	请让我帮你照相。	请 让 我 为 你 拍 照 。	请 让 我 帮 你 照 相 。
+they grow strawberries in their greenhouse .	他们在他们的温室里种植草莓。	他们种植物在温暖的资。	他 们 在 他 们 的 温 室 里 种 植 草 莓 。	他 们 种 植 物 在 温 暖 的 资 。
+i ca n't thank you enough .	我无法表达我对你的感谢。	我不能感谢你。	我 无 法 表 达 我 对 你 的 感 谢 。	我 不 能 感 谢 你 。
+wait here till i come back .	在这儿等著，直到我回来。	在这等到我回来。	在 这 儿 等 著 ， 直 到 我 回 来 。	在 这 等 到 我 回 来 。
+she made cookies for the children .	她给孩子们做了曲奇。	她为孩子们做了饼干。	她 给 孩 子 们 做 了 曲 奇 。	她 为 孩 子 们 做 了 饼 干 。
+i ran a race with him .	我和他比赛跑步。	我跑得了比他演奏。	我 和 他 比 赛 跑 步 。	我 跑 得 了 比 他 演 奏 。
+tom is the one i saw .	我看见的是汤姆。	汤姆是我见的一个。	我 看 见 的 是 汤 姆 。	汤 姆 是 我 见 的 一 个 。
+we all felt sorry for tom .	我们都为Tom感到遗憾。	我们感觉到汤姆感觉了。	我 们 都 为 T o m 感 到 遗 憾 。	我 们 感 觉 到 汤 姆 感 觉 了 。
+someone locked me in the room .	有人把我锁在这房间里。	有人可以在房间里的时间。	有 人 把 我 锁 在 这 房 间 里 。	有 人 可 以 在 房 间 里 的 时 间 。
+are you free on friday afternoon ?	你星期五下午有空吗？	你下午星期五吗？	你 星 期 五 下 午 有 空 吗 ？	你 下 午 星 期 五 吗 ？
+which road goes to city hall ?	哪条路通往市政厅？	哪条路去市政府?	哪 条 路 通 往 市 政 厅 ？	哪 条 路 去 市 政 府 ?
+tom certainly is good at baseball .	汤姆打棒球打的非常好。	汤姆当然好像棒球。	汤 姆 打 棒 球 打 的 非 常 好 。	汤 姆 当 然 好 像 棒 球 。
+i borrowed money from my father .	我向我父亲借钱。	我向我父亲借了我父亲。	我 向 我 父 亲 借 钱 。	我 向 我 父 亲 借 了 我 父 亲 。
+do n't talk in the classroom .	别在教室里说话。	教室里没教室。	别 在 教 室 里 说 话 。	教 室 里 没 教 室 。
+our baseball team is very strong .	我们的棒球队很强。	我们队的棒球很强壮。	我 们 的 棒 球 队 很 强 。	我 们 队 的 棒 球 很 强 壮 。
+UNK , you 'll never know .	不管怎样，你永远不会知道。	木板点也不知道。	不 管 怎 样 ， 你 永 远 不 会 知 道 。	木 板 点 也 不 知 道 。
+let 's meet here again tomorrow .	让我们明天再在这里见面吧。	让我们明天在这里再见面。	让 我 们 明 天 再 在 这 里 见 面 吧 。	让 我 们 明 天 在 这 里 再 见 面 。
+i was very tired last night .	我昨晚很累了。	我昨晚很累。	我 昨 晚 很 累 了 。	我 昨 晚 很 累 。
+how many people can do that ?	有多少人能做？	多少人能做那个？	有 多 少 人 能 做 ？	多 少 人 能 做 那 个 ？
+he did not eat anything yesterday .	他昨天没有吃任何东西。	他昨天没吃东西。	他 昨 天 没 有 吃 任 何 东 西 。	他 昨 天 没 吃 东 西 。
+i explained the UNK to him .	我向他解释了这个过程。	我详细地解释了他。	我 向 他 解 释 了 这 个 过 程 。	我 详 细 地 解 释 了 他 。
+let 's begin with this problem .	从这个问题开始吧。	让我们开始这个问题吧。	从 这 个 问 题 开 始 吧 。	让 我 们 开 始 这 个 问 题 吧 。
+this dictionary is my sister 's .	这本字典是我妹妹的。	这本字典是我的姊妹。	这 本 字 典 是 我 妹 妹 的 。	这 本 字 典 是 我 的 姊 妹 。
+tom has a very friendly smile .	汤姆有很友好的微笑。	汤姆有个很容易的笑。	汤 姆 有 很 友 好 的 微 笑 。	汤 姆 有 个 很 容 易 的 笑 。
+she hung the picture UNK down .	她把画挂反了。	她把树放在短盘子的地方。	她 把 画 挂 反 了 。	她 把 树 放 在 短 盘 子 的 地 方 。
+how much did the glasses cost ?	这副眼镜多少钱？	玻璃花多少钱?	这 副 眼 镜 多 少 钱 ？	玻 璃 花 多 少 钱 ?
+it 's for you to decide .	这由你来决定。	由你来决定。	这 由 你 来 决 定 。	由 你 来 决 定 。
+the moon was full last night .	昨晚月亮满了。	昨晚满了。	昨 晚 月 亮 满 了 。	昨 晚 满 了 。
+i love my work very much .	我非常喜欢我的工作。	我非常爱我的工作。	我 非 常 喜 欢 我 的 工 作 。	我 非 常 爱 我 的 工 作 。
+one of my bags is missing .	我的一个包包不见了。	我的袋子正在偷了。	我 的 一 个 包 包 不 见 了 。	我 的 袋 子 正 在 偷 了 。
+i have no intention of resigning .	我无意辞职。	我不本意辞职。	我 无 意 辞 职 。	我 不 本 意 辞 职 。
+tom always UNK out of tune .	汤姆唱歌总跑调。	汤姆总是注意错误了。	汤 姆 唱 歌 总 跑 调 。	汤 姆 总 是 注 意 错 误 了 。
+my father 's hobby is fishing .	我父亲的嗜好是钓鱼。	我父亲是个更好的钓鱼。	我 父 亲 的 嗜 好 是 钓 鱼 。	我 父 亲 是 个 更 好 的 钓 鱼 。
+you 'd better not wait here .	你最好不要在这里等。	你最好不要在这里等待。	你 最 好 不 要 在 这 里 等 。	你 最 好 不 要 在 这 里 等 待 。
+i ordered some books from london .	我从伦敦订购了一些书。	我从伦敦订购了一些书。	我 从 伦 敦 订 购 了 一 些 书 。	我 从 伦 敦 订 购 了 一 些 书 。
+i usually have a light breakfast .	我早餐通常吃得很清淡。	我通常在早餐吃很灯。	我 早 餐 通 常 吃 得 很 清 淡 。	我 通 常 在 早 餐 吃 很 灯 。
+some of the money was stolen .	一部分钱被偷了。	一些钱被偷了。	一 部 分 钱 被 偷 了 。	一 些 钱 被 偷 了 。
+i saw him after ten years .	十年之后我看到了他。	我看见他十年后面看了他。	十 年 之 后 我 看 到 了 他 。	我 看 见 他 十 年 后 面 看 了 他 。
+how long will this rope hold ?	这条绳子能撑多久?	这个停下来要多久？	这 条 绳 子 能 撑 多 久 ?	这 个 停 下 来 要 多 久 ？
+bee UNK can be very painful .	蜜蜂UNK人可以是非常痛苦的。	木箭发现很令人痛苦。	蜜 蜂 UNK 人 可 以 是 非 常 痛 苦 的 。	木 箭 发 现 很 令 人 痛 苦 。
+i wish to go to hawaii .	我希望去夏威夷。	我希望去夏威夷。	我 希 望 去 夏 威 夷 。	我 希 望 去 夏 威 夷 。
+he is rather hard to please .	取悦他很难。	他很难过。	取 悦 他 很 难 。	他 很 难 过 。
+i ca n't live without you .	没有你我活不下去。	没有你不能生活。	没 有 你 我 活 不 下 去 。	没 有 你 不 能 生 活 。
+send for a doctor at once .	立即送医。	立刻派人去请医生来。	立 即 送 医 。	立 刻 派 人 去 请 医 生 来 。
+is there enough food for everyone ?	有足够的食物给大家吗？	每个人都有足够的食物吗？	有 足 够 的 食 物 给 大 家 吗 ？	每 个 人 都 有 足 够 的 食 物 吗 ？
+she refused to accept the money .	她拒绝接受这笔钱。	她拒绝接受钱。	她 拒 绝 接 受 这 笔 钱 。	她 拒 绝 接 受 钱 。
+something 's wrong with my camera .	我的相机坏了。	我的照相机有什么照相机。	我 的 相 机 坏 了 。	我 的 照 相 机 有 什 么 照 相 机 。
+everyone said that i was wrong .	大家都说我是错的。	大家都说我错了。	大 家 都 说 我 是 错 的 。	大 家 都 说 我 错 了 。
+i do n't like you anymore .	我再也不喜欢你了。	我不喜欢你。	我 再 也 不 喜 欢 你 了 。	我 不 喜 欢 你 。
+that fish lives in fresh water .	那鱼UNK息在淡水域中。	那条鱼住在新水。	那 鱼 UNK 息 在 淡 水 域 中 。	那 条 鱼 住 在 新 水 。
+you are not at all wrong .	你并不完全错误。	你一点都不错了。	你 并 不 完 全 错 误 。	你 一 点 都 不 错 了 。
+please knock before you come in .	进来之前请敲门。	进来之前请你来。	进 来 之 前 请 敲 门 。	进 来 之 前 请 你 来 。
+may i ask a few questions ?	我能问一些问题吗？	我可以问一些问题吗?	我 能 问 一 些 问 题 吗 ？	我 可 以 问 一 些 问 题 吗 ?
+you are wanted on the phone .	有你的电话。	你想要的电话。	有 你 的 电 话 。	你 想 要 的 电 话 。
+please have someone else do it .	请让别人去做。	请别人做。	请 让 别 人 去 做 。	请 别 人 做 。
+were your mother and father home ?	你父母亲在家吗？	你妈妈和家一起吗？	你 父 母 亲 在 家 吗 ？	你 妈 妈 和 家 一 起 吗 ？
+i 'll leave that to you .	我会留给你。	我会留给你。	我 会 留 给 你 。	我 会 留 给 你 。
+you should n't have gone there .	你不应该去那里的。	你不应该去那里了。	你 不 应 该 去 那 里 的 。	你 不 应 该 去 那 里 了 。
+we saw tom talking to mary .	我们看见汤姆跟玛丽说话。	我们看见汤姆说话了。	我 们 看 见 汤 姆 跟 玛 丽 说 话 。	我 们 看 见 汤 姆 说 话 了 。
+tom slept with his shoes on .	汤姆穿着鞋睡了。	汤姆睡觉了他的鞋。	汤 姆 穿 着 鞋 睡 了 。	汤 姆 睡 觉 了 他 的 鞋 。
+i must catch the first train .	我必须赶上头班火车。	我必须先第一班火车。	我 必 须 赶 上 头 班 火 车 。	我 必 须 先 第 一 班 火 车 。
+the party ended at ten o'clock .	派对在十点钟结束。	聚会在十点钟结束。	派 对 在 十 点 钟 结 束 。	聚 会 在 十 点 钟 结 束 。
+i am amazed at your audacity .	我对你的厚颜无耻感到惊讶。	我对你的大胆感到很惊讶。	我 对 你 的 厚 颜 无 耻 感 到 惊 讶 。	我 对 你 的 大 胆 感 到 很 惊 讶 。
+the news of his death spread .	他去世的消息传开来了。	这消息已经扩散到了。	他 去 世 的 消 息 传 开 来 了 。	这 消 息 已 经 扩 散 到 了 。
+he was laughed at in public .	他在众人面前被嘲笑。	他在公共场合取笑了。	他 在 众 人 面 前 被 嘲 笑 。	他 在 公 共 场 合 取 笑 了 。
+did n't you see the man ?	你们没看见那个人吗？	你没看到那个人吗？	你 们 没 看 见 那 个 人 吗 ？	你 没 看 到 那 个 人 吗 ？
+he traveled all over the world .	他周游世界各地。	他周游世界各地。	他 周 游 世 界 各 地 。	他 周 游 世 界 各 地 。
+i 'm in a hurry today .	我今天赶时间。	我今天赶紧了。	我 今 天 赶 时 间 。	我 今 天 赶 紧 了 。
+he came to my office yesterday .	他昨天来我的办公室。	他昨天来我的办公室。	他 昨 天 来 我 的 办 公 室 。	他 昨 天 来 我 的 办 公 室 。
+she UNK herself in a blanket .	她用一条毯子把自己裹起来。	她企图烧鬼。	她 用 一 条 毯 子 把 自 己 裹 起 来 。	她 企 图 烧 鬼 。
+he was late for school yesterday .	他昨天上学迟到了。	他昨天晚上学迟到了。	他 昨 天 上 学 迟 到 了 。	他 昨 天 晚 上 学 迟 到 了 。
+sentences begin with a capital letter .	句子以一个大写字母开头。	下个文带我一封信。	句 子 以 一 个 大 写 字 母 开 头 。	下 个 文 带 我 一 封 信 。
+i visited my friend tom yesterday .	我昨天拜访了我的朋友汤姆。	我昨天去见汤姆的朋友。	我 昨 天 拜 访 了 我 的 朋 友 汤 姆 。	我 昨 天 去 见 汤 姆 的 朋 友 。
+i will not attend the party .	我将不出席派对。	我不会参加这个派对。	我 将 不 出 席 派 对 。	我 不 会 参 加 这 个 派 对 。
+he is better than anyone else .	他比任何人都好。	他比其他人更好。	他 比 任 何 人 都 好 。	他 比 其 他 人 更 好 。
+she remained single all her life .	她终生未婚。	她一生独身。	她 终 生 未 婚 。	她 一 生 独 身 。
+look it up in your dictionary .	查查你的字典。	看你的字典里看起。	查 查 你 的 字 典 。	看 你 的 字 典 里 看 起 。
+no one ran ahead of him .	没有人跑在他前面。	没有人跑步他。	没 有 人 跑 在 他 前 面 。	没 有 人 跑 步 他 。
+they were all UNK from shouting .	他们全都叫到沙UNK了。	他们都对面有三对的罪。	他 们 全 都 叫 到 沙 UNK 了 。	他 们 都 对 面 有 三 对 的 罪 。
+something 's wrong with my camera .	我的相机有毛病。	我的照相机有什么照相机。	我 的 相 机 有 毛 病 。	我 的 照 相 机 有 什 么 照 相 机 。
+i have nothing to complain about .	我没有什么可抱怨的。	我没什么事都抱怨。	我 没 有 什 么 可 抱 怨 的 。	我 没 什 么 事 都 抱 怨 。
+i should n't have done it .	我本不应该做的。	我不该做完了。	我 本 不 应 该 做 的 。	我 不 该 做 完 了 。
+i have no secrets from you .	我对你毫无隐UNK。	我没有已经被你了。	我 对 你 毫 无 隐 UNK 。	我 没 有 已 经 被 你 了 。
+the bus should be coming soon .	公车应该很快就会来了。	公车应该很快就要来了。	公 车 应 该 很 快 就 会 来 了 。	公 车 应 该 很 快 就 要 来 了 。
+we were nearly frozen to death .	我们几乎被冻死了。	我们很冷。	我 们 几 乎 被 冻 死 了 。	我 们 很 冷 。
+they go to church on sunday .	他们礼拜天上教堂。	他们星期天上教堂。	他 们 礼 拜 天 上 教 堂 。	他 们 星 期 天 上 教 堂 。
+when water freezes it becomes ice .	水结冻后，变成冰。	水结冰后成冰了。	水 结 冻 后 ， 变 成 冰 。	水 结 冰 后 成 冰 了 。
+she got married in her teens .	她十几岁时就结婚了。	她在她十几岁时就结婚了。	她 十 几 岁 时 就 结 婚 了 。	她 在 她 十 几 岁 时 就 结 婚 了 。
+you 'll forget about me someday .	有一天你会忘了我。	你要忘了我一些意见。	有 一 天 你 会 忘 了 我 。	你 要 忘 了 我 一 些 意 见 。
+she has always lived in UNK .	她一直住在小UNK。	她总是在木板上升。	她 一 直 住 在 小 UNK 。	她 总 是 在 木 板 上 升 。
+his advice did n't help much .	他的忠告没起到太大的作用。	他的建议不要帮助。	他 的 忠 告 没 起 到 太 大 的 作 用 。	他 的 建 议 不 要 帮 助 。
+i wish i had a car .	但愿我有一辆车。	但愿我有一辆车。	但 愿 我 有 一 辆 车 。	但 愿 我 有 一 辆 车 。
+i 'm almost sure of it .	我几乎能确定。	我快定着它。	我 几 乎 能 确 定 。	我 快 定 着 它 。
+i just got your letter yesterday .	我昨天刚收到你的信。	我刚才你的信。	我 昨 天 刚 收 到 你 的 信 。	我 刚 才 你 的 信 。
+i 've caught a terrible cold .	我得了一种可怕的感冒。	我真糟糕了。	我 得 了 一 种 可 怕 的 感 冒 。	我 真 糟 糕 了 。
+my UNK is allergic to eggs .	我UNK子对鸡蛋过敏。	我的损失败过敏。	我 UNK 子 对 鸡 蛋 过 敏 。	我 的 损 失 败 过 敏 。
+could you help us after school ?	你能在放学后帮助我们吗？	你能帮我们放学后吗？	你 能 在 放 学 后 帮 助 我 们 吗 ？	你 能 帮 我 们 放 学 后 吗 ？
+lend me your book , please .	请​​借我你的书。	请借我你的书。	请 ​ ​ 借 我 你 的 书 。	请 借 我 你 的 书 。
+you ca n't live without water .	没有水你不能生活。	你没有水，生活不到水。	没 有 水 你 不 能 生 活 。	你 没 有 水 ， 生 活 不 到 水 。
+what 's your home phone number ?	你家的电话号码几号？	你的电话号码？	你 家 的 电 话 号 码 几 号 ？	你 的 电 话 号 码 ？
+i bought a red sports car .	我买了一辆红色的跑车。	我买了一辆红运动。	我 买 了 一 辆 红 色 的 跑 车 。	我 买 了 一 辆 红 运 动 。
+there were two pieces of cake .	那有两块蛋糕。	蛋糕是两个蛋糕的成员。	那 有 两 块 蛋 糕 。	蛋 糕 是 两 个 蛋 糕 的 成 员 。
+do you really believe in ghosts ?	你真的相信鬼吗？	你真的相信有鬼魂吗？	你 真 的 相 信 鬼 吗 ？	你 真 的 相 信 有 鬼 魂 吗 ？
+the threat to UNK was ended .	对里士满的威胁结束了。	威胁要超过结束。	对 里 士 满 的 威 胁 结 束 了 。	威 胁 要 超 过 结 束 。
+my french is n't good enough .	我的法语说得不够好。	我的法语不够好。	我 的 法 语 说 得 不 够 好 。	我 的 法 语 不 够 好 。
+why do n't you eat vegetables ?	为什么你不吃蔬菜？	你为什么不吃蔬菜？	为 什 么 你 不 吃 蔬 菜 ？	你 为 什 么 不 吃 蔬 菜 ？
+i am not writing a letter .	我不是正在写信。	我没在写信。	我 不 是 正 在 写 信 。	我 没 在 写 信 。
+you ought not to go out .	你不应该出门。	你不应该出去。	你 不 应 该 出 门 。	你 不 应 该 出 去 。
+old people get up very early .	老人们很早就起床。	老人很早起床。	老 人 们 很 早 就 起 床 。	老 人 很 早 起 床 。
+he is studying at his desk .	他正在他的书桌旁读书。	他在书桌上学。	他 正 在 他 的 书 桌 旁 读 书 。	他 在 书 桌 上 学 。
+the bill will never go through .	该法案将永远不会通过。	记法保证从不去。	该 法 案 将 永 远 不 会 通 过 。	记 法 保 证 从 不 去 。
+how did you get in here ?	你是怎么进来的？	你在这里怎么到？	你 是 怎 么 进 来 的 ？	你 在 这 里 怎 么 到 ？
+nothing is as precious as love .	没有什么东西是跟爱一样UNK贵的。	没有什么花园爱是爱的。	没 有 什 么 东 西 是 跟 爱 一 样 UNK 贵 的 。	没 有 什 么 花 园 爱 是 爱 的 。
+i think you 're quite right .	我认为你说得很对。	我认为你很难。	我 认 为 你 说 得 很 对 。	我 认 为 你 很 难 。
+he is still very much alive .	他依旧充满活力。	他还非常有活着。	他 依 旧 充 满 活 力 。	他 还 非 常 有 活 着 。
+he found me a good seat .	他帮我找到了一个好位子。	他找到了一个好位子。	他 帮 我 找 到 了 一 个 好 位 子 。	他 找 到 了 一 个 好 位 子 。
+after a storm comes a calm .	否极泰来。	暴风过后是宁静。	否 极 泰 来 。	暴 风 过 后 是 宁 静 。
+i asked him to wait here .	我请他在这里等。	我请他在这里等。	我 请 他 在 这 里 等 。	我 请 他 在 这 里 等 。
+i have n't UNK for ages .	我很久没有抽烟了。	我没有强烈的拆。	我 很 久 没 有 抽 烟 了 。	我 没 有 强 烈 的 拆 。
+you should get your hair cut .	你该剪头发了。	你应该理发的头发。	你 该 剪 头 发 了 。	你 应 该 理 发 的 头 发 。
+do you think i 'm stupid ?	你认为我傻吗？	你认为我傻呢吗？	你 认 为 我 傻 吗 ？	你 认 为 我 傻 呢 吗 ？
+there was nobody in the garden .	花园里没有人。	花园里没有人。	花 园 里 没 有 人 。	花 园 里 没 有 人 。
+my sister went to kobe yesterday .	我妹妹昨天去神户了。	我妹妹昨天去神户。	我 妹 妹 昨 天 去 神 户 了 。	我 妹 妹 昨 天 去 神 户 。
+the rumor UNK to be true .	经过证实，谣言是真的。	谣言[最后]证的是真的。	经 过 证 实 ， 谣 言 是 真 的 。	谣 言 [ 最 后 ] 证 的 是 真 的 。
+we have almost finished our work .	我们几乎完成了我们的工作。	我们几乎完成我们的工作。	我 们 几 乎 完 成 了 我 们 的 工 作 。	我 们 几 乎 完 成 我 们 的 工 作 。
+my boss made me work overtime .	我的老板要我加班。	我的老板要我加班。	我 的 老 板 要 我 加 班 。	我 的 老 板 要 我 加 班 。
+she is a very good teacher .	她是个非常好的老师。	她是个很好的老师。	她 是 个 非 常 好 的 老 师 。	她 是 个 很 好 的 老 师 。
+you should n't have done that .	我不应该做那件事的。	你不应该那样做的。	我 不 应 该 做 那 件 事 的 。	你 不 应 该 那 样 做 的 。
+i forgot what his name was .	我忘记他叫什么名字了。	我忘了什么名字。	我 忘 记 他 叫 什 么 名 字 了 。	我 忘 了 什 么 名 字 。
+i 'm going to the bank .	我要去银行了。	我要去银行。	我 要 去 银 行 了 。	我 要 去 银 行 。
+bring me a glass of water .	给我一杯水。	给我一杯水。	给 我 一 杯 水 。	给 我 一 杯 水 。
+i can barely stand his behavior .	我可以勉强地容忍他的行为。	我真的受到他的行为。	我 可 以 勉 强 地 容 忍 他 的 行 为 。	我 真 的 受 到 他 的 行 为 。
+he really likes music a lot .	他真的很热爱音乐。	他非常喜欢音乐。	他 真 的 很 热 爱 音 乐 。	他 非 常 喜 欢 音 乐 。
+look , it 's my problem .	看，这是我的问题。	看看它是我的问题。	看 ， 这 是 我 的 问 题 。	看 看 它 是 我 的 问 题 。
+laughter is good for your health .	笑一笑，十年少。	大楼。	笑 一 笑 ， 十 年 少 。	大 楼 。
+have you ever been to america ?	你去过美国吗？	你去过美国吗？	你 去 过 美 国 吗 ？	你 去 过 美 国 吗 ？
+she UNK him in the back .	她在他的背上戳了一下。	她企图刺他回来。	她 在 他 的 背 上 戳 了 一 下 。	她 企 图 刺 他 回 来 。
+there was a shortage of fuel .	燃料短缺。	近有条短裙子。	燃 料 短 缺 。	近 有 条 短 裙 子 。
+hi ! do you work here ?	嗨！你在这儿工作吗？	嗨！你在这里工作吗？	嗨 ！ 你 在 这 儿 工 作 吗 ？	嗨 ！ 你 在 这 里 工 作 吗 ？
+i played catch with my father .	我和我爸爸玩接球。	我跟著我父亲。	我 和 我 爸 爸 玩 接 球 。	我 跟 著 我 父 亲 。
+i think i made a mistake .	我认为我犯了个错。	我想我犯了个错误。	我 认 为 我 犯 了 个 错 。	我 想 我 犯 了 个 错 误 。
+i invited my friends to dinner .	我邀请我的朋友吃晚餐。	我邀请我的朋友邀请。	我 邀 请 我 的 朋 友 吃 晚 餐 。	我 邀 请 我 的 朋 友 邀 请 。
+my house has a small yard .	我的房子有一个小院子。	我家的房子有个小院。	我 的 房 子 有 一 个 小 院 子 。	我 家 的 房 子 有 个 小 院 。
+i refuse to answer your question .	我拒绝回答你的问题。	我拒绝回答你的问题。	我 拒 绝 回 答 你 的 问 题 。	我 拒 绝 回 答 你 的 问 题 。
+they were scolded by the teacher .	他们被老师训斥了。	他们骂了老师。	他 们 被 老 师 训 斥 了 。	他 们 骂 了 老 师 。
+she was absorbed in the UNK .	她迷上了视频。	她沉默于马路被重了。	她 迷 上 了 视 频 。	她 沉 默 于 马 路 被 重 了 。
+i wonder what this phrase means .	我想知道这句话的意思。	我不知道这个是什么语。	我 想 知 道 这 句 话 的 意 思 。	我 不 知 道 这 个 是 什 么 语 。
+she has already left the office .	她已经离开了办公室。	她已经离开了办公室。	她 已 经 离 开 了 办 公 室 。	她 已 经 离 开 了 办 公 室 。
+my hobby is collecting old bottles .	我的嗜好是收集旧瓶子。	我的嗜好是收集旧的。	我 的 嗜 好 是 收 集 旧 瓶 子 。	我 的 嗜 好 是 收 集 旧 的 。
+i 'd better get back home .	我回家比较好。	我最好回家。	我 回 家 比 较 好 。	我 最 好 回 家 。
+did you go to school yesterday ?	你昨天去上学了吗？	你昨天去上学了吗？	你 昨 天 去 上 学 了 吗 ？	你 昨 天 去 上 学 了 吗 ？
+i 'll give you a UNK .	我会给你开个药方。	我会给你一个甜的街。	我 会 给 你 开 个 药 方 。	我 会 给 你 一 个 甜 的 街 。
+tom did well considering his age .	考虑到他的年纪，他做得很好。	汤姆跟他说得好得通过考虑。	考 虑 到 他 的 年 纪 ， 他 做 得 很 好 。	汤 姆 跟 他 说 得 好 得 通 过 考 虑 。
+i 've lost a little weight .	我瘦了一点。	我变了一点体重。	我 瘦 了 一 点 。	我 变 了 一 点 体 重 。
+the UNK is in the UNK .	桌布在橱柜里。	米客充满了马。	桌 布 在 橱 柜 里 。	米 客 充 满 了 马 。
+they got married six months ago .	他们六个月前结婚了。	他们六月结了婚了。	他 们 六 个 月 前 结 婚 了 。	他 们 六 月 结 了 婚 了 。
+london is famous for its fog .	伦敦以雾著名。	伦敦起了大雾。	伦 敦 以 雾 著 名 。	伦 敦 起 了 大 雾 。
+the lecture lasted for two hours .	这场演讲持续了两个小时。	这个讲座时候总有一个小时。	这 场 演 讲 持 续 了 两 个 小 时 。	这 个 讲 座 时 候 总 有 一 个 小 时 。
+look what i made for you .	看我为你做了什么。	看我指望你。	看 我 为 你 做 了 什 么 。	看 我 指 望 你 。
+it 's obvious that he lied .	显然地他撒了谎。	他很明显的是他被欺骗了。	显 然 地 他 撒 了 谎 。	他 很 明 显 的 是 他 被 欺 骗 了 。
+i was alone in the classroom .	我独自待在教室里。	我独自教室的教室。	我 独 自 待 在 教 室 里 。	我 独 自 教 室 的 教 室 。
+where does he want to go ?	他想去哪里?	他想去哪里?	他 想 去 哪 里 ?	他 想 去 哪 里 ?
+she did n't have any pencils .	她一支铅笔也没有。	她没有打铅笔。	她 一 支 铅 笔 也 没 有 。	她 没 有 打 铅 笔 。
+i have been busy since yesterday .	我从昨天开始一直忙著。	我从昨天开始一直很忙。	我 从 昨 天 开 始 一 直 忙 著 。	我 从 昨 天 开 始 一 直 很 忙 。
+i bought a new sewing machine .	我买了一台新的缝纫机。	我买了一个新毯子。	我 买 了 一 台 新 的 缝 纫 机 。	我 买 了 一 个 新 毯 子 。
+you 'd better not go today .	你今天最好不要去。	你今天最好不要去。	你 今 天 最 好 不 要 去 。	你 今 天 最 好 不 要 去 。
+could we go somewhere and talk ?	我们能去别的地方谈谈吗？	我们能跟着谈谈吗？	我 们 能 去 别 的 地 方 谈 谈 吗 ？	我 们 能 跟 着 谈 谈 吗 ？
+where do you want to go ?	你要去哪里?	你想去哪里?	你 要 去 哪 里 ?	你 想 去 哪 里 ?
+all he thinks about is himself .	他只顾自己的利益。	他所有的人都很同意。	他 只 顾 自 己 的 利 益 。	他 所 有 的 人 都 很 同 意 。
+he UNK losing all his fortune .	他冒着失去所有财产的危险。	他烧得失去了他的笔财富。	他 冒 着 失 去 所 有 财 产 的 危 险 。	他 烧 得 失 去 了 他 的 笔 财 富 。
+do you think i 'm joking ?	你觉得我是在开玩笑吗？	你认为我是开玩笑吗？	你 觉 得 我 是 在 开 玩 笑 吗 ？	你 认 为 我 是 开 玩 笑 吗 ？
+stop UNK off finding a job .	不要UNK延去找工作的事。	别紧张地走了工作。	不 要 UNK 延 去 找 工 作 的 事 。	别 紧 张 地 走 了 工 作 。
+how many books do you have ?	你有多少本书？	你有多少书？	你 有 多 少 本 书 ？	你 有 多 少 书 ？
+wait till the light turns green .	等到指示灯变成绿色。	等到灯等绿。	等 到 指 示 灯 变 成 绿 色 。	等 到 灯 等 绿 。
+he must finish his homework today .	他今天必须完成他的功课。	他今天必须完成他的作业。	他 今 天 必 须 完 成 他 的 功 课 。	他 今 天 必 须 完 成 他 的 作 业 。
+they waited for him for hours .	他们等了他好几个小时。	他们等了他小时。	他 们 等 了 他 好 几 个 小 时 。	他 们 等 了 他 小 时 。
+they wo n't come until tomorrow .	他们直到明天前不会来。	他们明天才会来。	他 们 直 到 明 天 前 不 会 来 。	他 们 明 天 才 会 来 。
+we headed for the mountain cottage .	我们向山间小屋走去。	我们向三个小屋处。	我 们 向 山 间 小 屋 走 去 。	我 们 向 三 个 小 屋 处 。
+this car is easy to handle .	这辆车很容易操控。	这辆车很容易。	这 辆 车 很 容 易 操 控 。	这 辆 车 很 容 易 。
+i 'm taking spanish this semester .	我这学期修西班牙文。	我在这项西班上班了。	我 这 学 期 修 西 班 牙 文 。	我 在 这 项 西 班 上 班 了 。
+he sat next to the stream .	他坐在河边。	他坐在溪流旁边。	他 坐 在 河 边 。	他 坐 在 溪 流 旁 边 。
+i was trying to kill time .	我试着消UNK时间。	我试图杀死。	我 试 着 消 UNK 时 间 。	我 试 图 杀 死 。
+i visited UNK ten years ago .	我十年前参观了福冈。	我10年前注意了。	我 十 年 前 参 观 了 福 冈 。	我 1 0 年 前 注 意 了 。
+what are you UNK them for ?	你为什么惩罚他们？	你对他们来说嘛？	你 为 什 么 惩 罚 他 们 ？	你 对 他 们 来 说 嘛 ？
+i was late for the appointment .	我约会迟到了。	我迟到了约会。	我 约 会 迟 到 了 。	我 迟 到 了 约 会 。
+please help yourself to the cake .	你自己拿蛋糕吃吧。	请你随便吃蛋糕。	你 自 己 拿 蛋 糕 吃 吧 。	请 你 随 便 吃 蛋 糕 。
+the bus was two minutes early .	巴士早了两分钟。	公车早很早就很早。	巴 士 早 了 两 分 钟 。	公 车 早 很 早 就 很 早 。
+the men are wearing short UNK .	男人们穿著短袖上衣。	这个男人穿著木柴。	男 人 们 穿 著 短 袖 上 衣 。	这 个 男 人 穿 著 木 柴 。
+she is going to UNK UNK .	她将去立山。	她将要超过马路。	她 将 去 立 山 。	她 将 要 超 过 马 路 。
+people grow more UNK with age .	人会随著年龄的增长而更加地玩世不恭。	人长大约要超过世。	人 会 随 著 年 龄 的 增 长 而 更 加 地 玩 世 不 恭 。	人 长 大 约 要 超 过 世 。
+is everything going ok at work ?	工作一切顺利吗？	一切上班要做什么？	工 作 一 切 顺 利 吗 ？	一 切 上 班 要 做 什 么 ？
+the cottage was clean and UNK .	小屋干净又整洁。	小屋被提出差点。	小 屋 干 净 又 整 洁 。	小 屋 被 提 出 差 点 。
+have you eaten your lunch yet ?	你吃过午饭了吗？	你吃过午饭了吗？	你 吃 过 午 饭 了 吗 ？	你 吃 过 午 饭 了 吗 ？
+i 've got a few friends .	我有一些朋友。	我没有几个朋友。	我 有 一 些 朋 友 。	我 没 有 几 个 朋 友 。
+tom told me he was canadian .	汤姆告诉我他是加拿大人。	汤姆告诉我他是加拿大人。	汤 姆 告 诉 我 他 是 加 拿 大 人 。	汤 姆 告 诉 我 他 是 加 拿 大 人 。
+change trains at the next station .	在下一站换火车。	下一站在车站换火车。	在 下 一 站 换 火 车 。	下 一 站 在 车 站 换 火 车 。
+kobe is famous for its port .	神户是著名的港口。	神户对著名的港口城市。	神 户 是 著 名 的 港 口 。	神 户 对 著 名 的 港 口 城 市 。
+turn off the light , please .	请关灯。	请关灯。	请 关 灯 。	请 关 灯 。
+what 's your favorite UNK app ?	你最喜欢的iPad应用是什么?	你最喜欢什么用的票？	你 最 喜 欢 的 i P a d 应 用 是 什 么 ?	你 最 喜 欢 什 么 用 的 票 ？
+i could n't find his house .	我找不到他的家。	我找不到他的房子。	我 找 不 到 他 的 家 。	我 找 不 到 他 的 房 子 。
+i 'm still the boss here .	我仍是这里的老板。	我还在这里面。	我 仍 是 这 里 的 老 板 。	我 还 在 这 里 面 。
+i have more money than tom .	我比汤姆有钱。	我比汤姆更多的钱。	我 比 汤 姆 有 钱 。	我 比 汤 姆 更 多 的 钱 。
+what does tom know about me ?	汤姆知道我的什么？	汤姆跟我说什么？	汤 姆 知 道 我 的 什 么 ？	汤 姆 跟 我 说 什 么 ？
+would you lend me your dictionary ?	你可以借我你的字典吗?	你可以借我你的字典吗?	你 可 以 借 我 你 的 字 典 吗 ?	你 可 以 借 我 你 的 字 典 吗 ?
+i often played tennis with her .	我常常和她打网球。	我常常跟她打网球。	我 常 常 和 她 打 网 球 。	我 常 常 跟 她 打 网 球 。
+he put on the black coat .	他穿上了黑色的外套。	他穿上了黑色的大衣。	他 穿 上 了 黑 色 的 外 套 。	他 穿 上 了 黑 色 的 大 衣 。
+i heard the front doorbell ring .	我听到前门的门铃响了。	我听到门铃响了。	我 听 到 前 门 的 门 铃 响 了 。	我 听 到 门 铃 响 了 。
+she waited for hours and hours .	她等了好几个小时。	她等了小时和小时。	她 等 了 好 几 个 小 时 。	她 等 了 小 时 和 小 时 。
+we 're having difficulty UNK tom .	我们难以找到汤姆。	我们在汤姆企图很困难。	我 们 难 以 找 到 汤 姆 。	我 们 在 汤 姆 企 图 很 困 难 。
+UNK the fat off the meat .	切除这块肉的UNKUNK。	木箭发牢肉	切 除 这 块 肉 的 UNK UNK 。	木 箭 发 牢 肉
+we are leaving japan next month .	我们下个月将离开日本。	我们下个月离开日本。	我 们 下 个 月 将 离 开 日 本 。	我 们 下 个 月 离 开 日 本 。
+please show me the green shirt .	请给我看看这件绿色的衬衫。	请让我看看绿色的衬衫。	请 给 我 看 看 这 件 绿 色 的 衬 衫 。	请 让 我 看 看 绿 色 的 衬 衫 。
+you look just like your mother .	你看起来就像你的母亲。	你看起来像是你母亲。	你 看 起 来 就 像 你 的 母 亲 。	你 看 起 来 像 是 你 母 亲 。
+UNK stands for the united nations .	UN代表联合国。	腾地方造成这个国家商店。	U N 代 表 联 合 国 。	腾 地 方 造 成 这 个 国 家 商 店 。
+she gave me this UNK UNK .	她给了我这个光碟。	她给了我马路的损害。	她 给 了 我 这 个 光 碟 。	她 给 了 我 马 路 的 损 害 。
+would you please come again later ?	请您稍后再来好吗？	再来一次吗？	请 您 稍 后 再 来 好 吗 ？	再 来 一 次 吗 ？
+we 're friends from way back .	我们是老朋友了。	我们是从高的方式来的。	我 们 是 老 朋 友 了 。	我 们 是 从 高 的 方 式 来 的 。
+we could see nothing but fog .	除了雾我看不见任何东西。	我们可以大声喊叫。	除 了 雾 我 看 不 见 任 何 东 西 。	我 们 可 以 大 声 喊 叫 。
+we live in the united states .	我们住在美国。	我们住在美国。	我 们 住 在 美 国 。	我 们 住 在 美 国 。
+all of my friends like soccer .	我所有的朋友都喜欢足球。	我所有的朋友都喜欢足球。	我 所 有 的 朋 友 都 喜 欢 足 球 。	我 所 有 的 朋 友 都 喜 欢 足 球 。
+she is very thoughtful and patient .	她非常周到和耐心。	她很体贴在。	她 非 常 周 到 和 耐 心 。	她 很 体 贴 在 。
+will you stay at home tonight ?	你今晚会待在家里吗？	你今晚会待在家里吗？	你 今 晚 会 待 在 家 里 吗 ？	你 今 晚 会 待 在 家 里 吗 ？
+she ran as fast as possible .	她尽可能地快跑。	她跑得尽可能快。	她 尽 可 能 地 快 跑 。	她 跑 得 尽 可 能 快 。
+tom has been gone for ages .	汤姆年纪大去世了。	汤姆已经走了这匹少年了。	汤 姆 年 纪 大 去 世 了 。	汤 姆 已 经 走 了 这 匹 少 年 了 。
+give me three pieces of UNK .	给我三片鲑鱼肉。	给我一张空调。	给 我 三 片 鲑 鱼 肉 。	给 我 一 张 空 调 。
+what did she whisper to you ?	她小声地跟你说了什么?	她跟你说了什么悄悄话？	她 小 声 地 跟 你 说 了 什 么 ?	她 跟 你 说 了 什 么 悄 悄 话 ？
+the doctor may have said so .	医生可能说过。	医生可以说过这个。	医 生 可 能 说 过 。	医 生 可 以 说 过 这 个 。
+i was just talking about tom .	我仅仅是在和Tom交谈。	我刚说汤姆在谈论。	我 仅 仅 是 在 和 T o m 交 谈 。	我 刚 说 汤 姆 在 谈 论 。
+she fainted when she saw blood .	她看见血就晕了。	她晕倒了，她的血压。	她 看 见 血 就 晕 了 。	她 晕 倒 了 ， 她 的 血 压 。
+let 's go to a movie .	让我们去看电影。	去看电影吧。	让 我 们 去 看 电 影 。	去 看 电 影 吧 。
+he was injured in the accident .	他在事故中受伤。	他在这次意外中受伤了。	他 在 事 故 中 受 伤 。	他 在 这 次 意 外 中 受 伤 了 。
+can you drive a UNK UNK ?	你会开手排车吗?	你可以开车付款吗？	你 会 开 手 排 车 吗 ?	你 可 以 开 车 付 款 吗 ？
+i thought you were my friend .	我以为你是我的朋友。	我认为你是我的朋友。	我 以 为 你 是 我 的 朋 友 。	我 认 为 你 是 我 的 朋 友 。
+i do n't really read newspapers .	我不太看报纸。	我不太读报纸。	我 不 太 看 报 纸 。	我 不 太 读 报 纸 。
+who cares when she gets married ?	谁管她什么时候结婚？	谁在乎她何时结婚？	谁 管 她 什 么 时 候 结 婚 ？	谁 在 乎 她 何 时 结 婚 ？
+it is wrong to tell lies .	说谎是错误的。	戒烟对别了！	说 谎 是 错 误 的 。	戒 烟 对 别 了 ！
+you have to clean your room .	你该打扫你的房间。	你必须打扫你的房间。	你 该 打 扫 你 的 房 间 。	你 必 须 打 扫 你 的 房 间 。
+a famous architect built this house .	一个有名的建筑师造了这栋房子。	一个有名的建筑师造了这个房子。	一 个 有 名 的 建 筑 师 造 了 这 栋 房 子 。	一 个 有 名 的 建 筑 师 造 了 这 个 房 子 。
+i ’ UNK started learning esperanto .	我开始学习世界语了。	我做得很害怕世界。	我 开 始 学 习 世 界 语 了 。	我 做 得 很 害 怕 世 界 。
+she felt UNK about her future .	她对她的未来感到没有安全感。	她觉得客气系。	她 对 她 的 未 来 感 到 没 有 安 全 感 。	她 觉 得 客 气 系 。
+he wants to go to america .	他想去美国。	他想去美国。	他 想 去 美 国 。	他 想 去 美 国 。
+are you sure of your facts ?	你确定你的资料属实吗？	你确定是你的事实吗？	你 确 定 你 的 资 料 属 实 吗 ？	你 确 定 是 你 的 事 实 吗 ？
+UNK ideas into practice is difficult .	把想法付UNK实UNK是困难的。	木板害怕这个解释。	把 想 法 付 UNK 实 UNK 是 困 难 的 。	木 板 害 怕 这 个 解 释 。
+what is the population of japan ?	日本的人口是多少？	日本的人口有多少？	日 本 的 人 口 是 多 少 ？	日 本 的 人 口 有 多 少 ？
+tom got angry at the children .	汤姆对孩子们生气。	汤姆生气了小孩。	汤 姆 对 孩 子 们 生 气 。	汤 姆 生 气 了 小 孩 。
+do n't throw away this magazine .	不要丢掉这本杂志。	不要把这杂志扔杂志。	不 要 丢 掉 这 本 杂 志 。	不 要 把 这 杂 志 扔 杂 志 。
+it is likely to rain tomorrow .	明天有可能会下雨。	明天可能会下雨。	明 天 有 可 能 会 下 雨 。	明 天 可 能 会 下 雨 。
+it is by no means certain .	这根本不是确定的。	这是不是对的。	这 根 本 不 是 确 定 的 。	这 是 不 是 对 的 。
+tom was questioned by the police .	汤姆被警察盘问。	汤姆质上是警察。	汤 姆 被 警 察 盘 问 。	汤 姆 质 上 是 警 察 。
+we are not going on vacation .	我们不去度假。	我们没去度假。	我 们 不 去 度 假 。	我 们 没 去 度 假 。
+the birds flew to the south .	群鸟南翔。	鸟飞越了这鸟类的艺术。	群 鸟 南 翔 。	鸟 飞 越 了 这 鸟 类 的 艺 术 。
+absolutely nothing is permanent in life .	生活中绝对没有什么是持久的。	绝对人正确的永远。	生 活 中 绝 对 没 有 什 么 是 持 久 的 。	绝 对 人 正 确 的 永 远 。
+she saw herself in the mirror .	她看到镜子里的自己。	她在镜子上遇见了自己。	她 看 到 镜 子 里 的 自 己 。	她 在 镜 子 上 遇 见 了 自 己 。
+how about going for a drive ?	去开车兜风怎样？	怎么开车去打开？	去 开 车 兜 风 怎 样 ？	怎 么 开 车 去 打 开 ？
+it never rains but it pours .	祸不单行。	不下雨则矣，一下一定是倾盆大雨。	祸 不 单 行 。	不 下 雨 则 矣 ， 一 下 一 定 是 倾 盆 大 雨 。
+we enjoyed ourselves at the picnic .	我们在野餐玩得很开心。	我们玩的玩野餐了。	我 们 在 野 餐 玩 得 很 开 心 。	我 们 玩 的 玩 野 餐 了 。
+my father is in his room .	我父亲在他的房间里。	我父亲在他的房间。	我 父 亲 在 他 的 房 间 里 。	我 父 亲 在 他 的 房 间 。
+the monkey fell from the tree .	猴子从树上掉了下来。	猴子从树上倒了树。	猴 子 从 树 上 掉 了 下 来 。	猴 子 从 树 上 倒 了 树 。
+she asked a very good question .	她问了一个非常好的问题。	她问了一个很好的问题。	她 问 了 一 个 非 常 好 的 问 题 。	她 问 了 一 个 很 好 的 问 题 。
+just take my word for it .	请相信我的话。	只要把我的保证。	请 相 信 我 的 话 。	只 要 把 我 的 保 证 。
+the young man is a doctor .	这个年轻人是医生。	年轻人是个医生。	这 个 年 轻 人 是 医 生 。	年 轻 人 是 个 医 生 。
+he played the part of hamlet .	他扮演哈姆雷特的角色。	他和哈姆雷特中。	他 扮 演 哈 姆 雷 特 的 角 色 。	他 和 哈 姆 雷 特 中 。
+did you bring a hair dryer ?	你吹风机带来了吗？	你有带吹风机吗？	你 吹 风 机 带 来 了 吗 ？	你 有 带 吹 风 机 吗 ？
+we gather here once a week .	我们每周在这儿聚一次。	我们猜这里收到了一周。	我 们 每 周 在 这 儿 聚 一 次 。	我 们 猜 这 里 收 到 了 一 周 。
+that white building is a hospital .	那栋白色的建筑物是一家医院。	那幢头建筑师是一个医院。	那 栋 白 色 的 建 筑 物 是 一 家 医 院 。	那 幢 头 建 筑 师 是 一 个 医 院 。
+something is wrong with my watch .	我的表出了毛病。	我的手表坏了。	我 的 表 出 了 毛 病 。	我 的 手 表 坏 了 。
+we have to do our best .	我们应该做到最好。	我们要尽力而为。	我 们 应 该 做 到 最 好 。	我 们 要 尽 力 而 为 。
+they all laughed at his jokes .	他们全都被他的笑话逗笑了。	他们都笑了他的笑话。	他 们 全 都 被 他 的 笑 话 逗 笑 了 。	他 们 都 笑 了 他 的 笑 话 。
+he can speak a little english .	他会讲一点点英语。	他会说一点点英语。	他 会 讲 一 点 点 英 语 。	他 会 说 一 点 点 英 语 。
+please do n't speak so fast .	请不要说得那么快。	请不要说这么快。	请 不 要 说 得 那 么 快 。	请 不 要 说 这 么 快 。
+can you stay for a while ?	你能待一会吗？	你能留下来吗？	你 能 待 一 会 吗 ？	你 能 留 下 来 吗 ？
+i am 30 years old now .	我现在30岁了。	我现在建筑小了。	我 现 在 3 0 岁 了 。	我 现 在 建 筑 小 了 。
+the cat is watching the fish .	猫看着鱼。	猫看著鱼。	猫 看 着 鱼 。	猫 看 著 鱼 。
+i am a citizen of UNK .	我是UNK幌的市民。	我是素木的损害。	我 是 UNK 幌 的 市 民 。	我 是 素 木 的 损 害 。
+the police broke up the fight .	警察UNK散了这场斗UNK。	警方向斗了战斗拉战斗。	警 察 UNK 散 了 这 场 斗 UNK 。	警 方 向 斗 了 战 斗 拉 战 斗 。
+you 're too UNK about everything .	你对什么都太怀疑了。	你太担心了一切。	你 对 什 么 都 太 怀 疑 了 。	你 太 担 心 了 一 切 。
+did the police find any UNK ?	警察找到指纹了吗？	警方找到了任何便宜的方式吗？	警 察 找 到 指 纹 了 吗 ？	警 方 找 到 了 任 何 便 宜 的 方 式 吗 ？
+i am UNK with my job .	我对我的工作感到满意。	我对我的工作很熟。	我 对 我 的 工 作 感 到 满 意 。	我 对 我 的 工 作 很 熟 。
+we spent the weekend with friends .	我们和朋友一起度过周末。	我们在周末上花了一整个朋友。	我 们 和 朋 友 一 起 度 过 周 末 。	我 们 在 周 末 上 花 了 一 整 个 朋 友 。
+i 'll let tom tell you .	我会让汤姆告诉你。	我会让汤姆告诉你。	我 会 让 汤 姆 告 诉 你 。	我 会 让 汤 姆 告 诉 你 。
+have you cleaned your room yet ?	你打扫你的房间了吗？	你还清扫你的房间吗？	你 打 扫 你 的 房 间 了 吗 ？	你 还 清 扫 你 的 房 间 吗 ？
+how many pens do you have ?	你有多少支铅笔？	你有多少队？	你 有 多 少 支 铅 笔 ？	你 有 多 少 队 ？
+she put the magazine on the table .	她把杂志放在桌上。	她把这本杂志放在桌子上。	她 把 杂 志 放 在 桌 上 。	她 把 这 本 杂 志 放 在 桌 子 上 。
+hey , what are you doing here ?	嘿，你在这做什么？	嘿，你在这里干什么？	嘿 ， 你 在 这 做 什 么 ？	嘿 ， 你 在 这 里 干 什 么 ？
+he 's not very strict about this .	他在这方面不是很严格。	他不是担心这个控制的。	他 在 这 方 面 不 是 很 严 格 。	他 不 是 担 心 这 个 控 制 的 。
+she is fond of singing old songs .	她喜欢唱老歌。	她很喜欢唱歌。	她 喜 欢 唱 老 歌 。	她 很 喜 欢 唱 歌 。
+he had kept the secret to himself .	他保守著这个秘密。	他保守了一个有秘密。	他 保 守 著 这 个 秘 密 。	他 保 守 了 一 个 有 秘 密 。
+he graduated from harvard university with honors .	他光荣地从哈佛大学毕业了。	他毕业于196年毕业。	他 光 荣 地 从 哈 佛 大 学 毕 业 了 。	他 毕 业 于 1 9 6 年 毕 业 。
+tom started dating mary three months ago .	汤姆三个月前开始和玛丽约会。	汤姆跟玛丽往三个月开始。	汤 姆 三 个 月 前 开 始 和 玛 丽 约 会 。	汤 姆 跟 玛 丽 往 三 个 月 开 始 。
+what do you usually eat for lunch ?	你一般中午饭吃什么？	你通常在午餐吃什么？	你 一 般 中 午 饭 吃 什 么 ？	你 通 常 在 午 餐 吃 什 么 ？
+that 's a bad day for me .	那天我不行。	那是我对一天的坏。	那 天 我 不 行 。	那 是 我 对 一 天 的 坏 。
+i took a picture of my family .	我为我的家人拍了照片。	我花了一张我的全家福照片。	我 为 我 的 家 人 拍 了 照 片 。	我 花 了 一 张 我 的 全 家 福 照 片 。
+only four horses were in the race .	只有四匹马参加了比赛。	只有四匹马参加了比赛。	只 有 四 匹 马 参 加 了 比 赛 。	只 有 四 匹 马 参 加 了 比 赛 。
+tom had a heart attack last year .	汤姆去年得了心脏病。	汤姆去年夏威胁要更加台。	汤 姆 去 年 得 了 心 脏 病 。	汤 姆 去 年 夏 威 胁 要 更 加 台 。
+she spread the butter on the bread .	她把奶油涂在面包上。	她反对面包夹克痛。	她 把 奶 油 涂 在 面 包 上 。	她 反 对 面 包 夹 克 痛 。
+karuizawa is famous as a summer UNK .	轻井泽是著名的避暑胜地。	海啸的一个西夏天被砍倒了。	轻 井 泽 是 著 名 的 避 暑 胜 地 。	海 啸 的 一 个 西 夏 天 被 砍 倒 了 。
+i will give you whatever you want .	我会给你任何你想要的东西。	我会给你任何你想要的东西。	我 会 给 你 任 何 你 想 要 的 东 西 。	我 会 给 你 任 何 你 想 要 的 东 西 。
+women UNK to live longer than men .	女人往往比男人活得更长。	观光客人伸长了。	女 人 往 往 比 男 人 活 得 更 长 。	观 光 客 人 伸 长 了 。
+they do n't seem to be americans .	他们似乎不是美国人。	他们似乎不是美的人。	他 们 似 乎 不 是 美 国 人 。	他 们 似 乎 不 是 美 的 人 。
+the cough UNK has a UNK UNK .	咳嗽糖UNK有股甘草的味道。	咳嗽还有害。放速造成。	咳 嗽 糖 UNK 有 股 甘 草 的 味 道 。	咳 嗽 还 有 害 。 放 速 造 成 。
+ask him if he can speak japanese .	问问他会不会说日语。	问他会讲日本人会讲日语。	问 问 他 会 不 会 说 日 语 。	问 他 会 讲 日 本 人 会 讲 日 语 。
+come here by ten at the latest .	最晚十点前来这里。	在这里十一岁时十分。	最 晚 十 点 前 来 这 里 。	在 这 里 十 一 岁 时 十 分 。
+my brother gave me a cute doll .	我哥哥给了我一个可爱的娃娃。	我哥哥给了我一个很可爱的洋。	我 哥 哥 给 了 我 一 个 可 爱 的 娃 娃 。	我 哥 哥 给 了 我 一 个 很 可 爱 的 洋 。
+i was a student at that time .	我当时是学生。	我在那时是时候。	我 当 时 是 学 生 。	我 在 那 时 是 时 候 。
+she had the nerve to speak out .	她竟敢说出来。	她有胆量说出来。	她 竟 敢 说 出 来 。	她 有 胆 量 说 出 来 。
+a friend of mine is studying abroad .	我有一位朋友在国外留学。	一个朋友在国外的朋友中文是我的。	我 有 一 位 朋 友 在 国 外 留 学 。	一 个 朋 友 在 国 外 的 朋 友 中 文 是 我 的 。
+i get along with my younger brother .	我与我的弟弟相处融洽。	我和我弟弟一起去。	我 与 我 的 弟 弟 相 处 融 洽 。	我 和 我 弟 弟 一 起 去 。
+this ticket is good for three days .	这张票的有效期是三天。	这张票安全很好。	这 张 票 的 有 效 期 是 三 天 。	这 张 票 安 全 很 好 。
+i gave careful consideration to the problem .	我仔细地考虑了这个问题。	我小心提高了这个问题。	我 仔 细 地 考 虑 了 这 个 问 题 。	我 小 心 提 高 了 这 个 问 题 。
+jealousy was the UNK for the murder .	嫉妒是谋杀的动机。	嫉妒让客人注定很注。	嫉 妒 是 谋 杀 的 动 机 。	嫉 妒 让 客 人 注 定 很 注 。
+i do not allow sleeping in class .	我不允许有人在课上睡觉。	我上课不要睡觉。	我 不 允 许 有 人 在 课 上 睡 觉 。	我 上 课 不 要 睡 觉 。
+i made some mistakes on the test .	我在考试时犯了些错。	我在考试中犯了一些错误。	我 在 考 试 时 犯 了 些 错 。	我 在 考 试 中 犯 了 一 些 错 误 。
+move the chair UNK to the desk .	把椅子UNK一UNK靠近桌子。	客子充分出了桌子。	把 椅 子 UNK 一 UNK 靠 近 桌 子 。	客 子 充 分 出 了 桌 子 。
+he had no luck in finding work .	他不幸找不到工作。	他找工作不走运。	他 不 幸 找 不 到 工 作 。	他 找 工 作 不 走 运 。
+my brother is a high school student .	我哥哥是个高中生。	我哥哥是个高中生。	我 哥 哥 是 个 高 中 生 。	我 哥 哥 是 个 高 中 生 。
+tom did n't write back to mary .	汤姆没给玛丽写回复。	汤姆没写回来。	汤 姆 没 给 玛 丽 写 回 复 。	汤 姆 没 写 回 来 。
+the meaning of this sentence is UNK .	这句句子意思模糊。	这个字的意思是用于携带的地方。	这 句 句 子 意 思 模 糊 。	这 个 字 的 意 思 是 用 于 携 带 的 地 方 。
+i try not to think about it .	我试著不去想了。	我不试试着考虑。	我 试 著 不 去 想 了 。	我 不 试 试 着 考 虑 。
+i do n't worry about the risk .	我不担心风险。	我不担心危险。	我 不 担 心 风 险 。	我 不 担 心 危 险 。
+i 'm as hungry as a horse .	我饿得像匹马。	我像饥饿。	我 饿 得 像 匹 马 。	我 像 饥 饿 。
+we 'll save a seat for you .	我们会给你留个位置。	我们会保持你的座位。	我 们 会 给 你 留 个 位 置 。	我 们 会 保 持 你 的 座 位 。
+it was been raining since early morning .	从清晨开始一直下雨。	从早上一直在早上很早就。	从 清 晨 开 始 一 直 下 雨 。	从 早 上 一 直 在 早 上 很 早 就 。
+i had a nice chat with her .	我和她聊得很愉快。	我聊了她。	我 和 她 聊 得 很 愉 快 。	我 聊 了 她 。
+i put the money into the safe .	我把钱放入保险柜里。	我把钱放在安全。	我 把 钱 放 入 保 险 柜 里 。	我 把 钱 放 在 安 全 。
+have you ever climbed mt . UNK ?	你曾爬过枪岳吗?	你曾经坐过夏威夷了吗？	你 曾 爬 过 枪 岳 吗 ?	你 曾 经 坐 过 夏 威 夷 了 吗 ？
+my mother made me take some medicine .	我妈妈让我吃点药。	我妈妈让我做了一些药。	我 妈 妈 让 我 吃 点 药 。	我 妈 妈 让 我 做 了 一 些 药 。
+this is going to be very expensive .	这要花很多钱。	这将要非常贵。	这 要 花 很 多 钱 。	这 将 要 非 常 贵 。
+let me know where you 're staying .	让我知道你住在哪里。	让我知道你在哪里。	让 我 知 道 你 住 在 哪 里 。	让 我 知 道 你 在 哪 里 。
+i 'm sorry i did n't call .	我很抱歉我没有打电话。	对不起打扰我了。	我 很 抱 歉 我 没 有 打 电 话 。	对 不 起 打 扰 我 了 。
+he did not speak unless spoken to .	除非有人跟他说话，他不说话。	除了那么人，他没说会说话。	除 非 有 人 跟 他 说 话 ， 他 不 说 话 。	除 了 那 么 人 ， 他 没 说 会 说 话 。
+she spoke UNK a word of english .	她几乎不说英语。	她面包被害怕了一英语。	她 几 乎 不 说 英 语 。	她 面 包 被 害 怕 了 一 英 语 。
+i will take you for a swim .	我会带你去游泳。	我会去游泳。	我 会 带 你 去 游 泳 。	我 会 去 游 泳 。
+get it done as soon as possible .	尽快把它完成。	尽早做完成。	尽 快 把 它 完 成 。	尽 早 做 完 成 。
+i got a letter from her today .	我今天收到了她的信。	我今天从她的来信一封上。	我 今 天 收 到 了 她 的 信 。	我 今 天 从 她 的 来 信 一 封 上 。
+she UNK with a piece of paper .	她摸索著一张纸。	她企图片挂著一张纸。	她 摸 索 著 一 张 纸 。	她 企 图 片 挂 著 一 张 纸 。
+why did you stay at home yesterday ?	你昨天为甚么在家？	你昨天为什么待在家里？	你 昨 天 为 甚 么 在 家 ？	你 昨 天 为 什 么 待 在 家 里 ？
+can you explain why you were late ?	你能解释一下你为什么迟到吗？	你能为你为什么迟到？	你 能 解 释 一 下 你 为 什 么 迟 到 吗 ？	你 能 为 你 为 什 么 迟 到 ？
+do n't get involved with that guy .	别和这个人打交道。	不要和那家伙。	别 和 这 个 人 打 交 道 。	不 要 和 那 家 伙 。
+his second son married and settled down .	他的第二个儿子结婚并定居下来了。	他的儿子和二个月结婚了。	他 的 第 二 个 儿 子 结 婚 并 定 居 下 来 了 。	他 的 儿 子 和 二 个 月 结 婚 了 。
+i do n't know much about computers .	我对电脑知道的不多。	我不知道电脑很多电脑。	我 对 电 脑 知 道 的 不 多 。	我 不 知 道 电 脑 很 多 电 脑 。
+it became dark before i knew it .	我不知道天色变暗了。	天暗了我知道之前它是我知道。	我 不 知 道 天 色 变 暗 了 。	天 暗 了 我 知 道 之 前 它 是 我 知 道 。
+he 's a UNK for beautiful women .	他非常喜欢漂亮的女人。	他面被一个美丽的女性。	他 非 常 喜 欢 漂 亮 的 女 人 。	他 面 被 一 个 美 丽 的 女 性 。
+he made me sing on the stage .	他让我在舞台上唱歌。	他让我唱了部份歌。	他 让 我 在 舞 台 上 唱 歌 。	他 让 我 唱 了 部 份 歌 。
+i was delayed by a traffic jam .	我被交通堵塞耽搁了。	我被交通意交通。	我 被 交 通 堵 塞 耽 搁 了 。	我 被 交 通 意 交 通 。
+the sky is clear almost every day .	天空几乎每天是晴朗的。	天空很晴朗。	天 空 几 乎 每 天 是 晴 朗 的 。	天 空 很 晴 朗 。
+please keep an eye on my suitcase .	请留神看著我的手提箱。	请保持我的行李。	请 留 神 看 著 我 的 手 提 箱 。	请 保 持 我 的 行 李 。
+i got her to clean my room .	我让她清扫了我的房间。	我让她把我的房间弄干净。	我 让 她 清 扫 了 我 的 房 间 。	我 让 她 把 我 的 房 间 弄 干 净 。
+i will teach you to play chess .	我会教你下棋。	我会教你弹部下国际象棋。	我 会 教 你 下 棋 。	我 会 教 你 弹 部 下 国 际 象 棋 。
+would you like me to explain it ?	你要我解释一下吗？	你能为我解释一下吗？	你 要 我 解 释 一 下 吗 ？	你 能 为 我 解 释 一 下 吗 ？
+i heard a knock at the door .	我听到了敲门声。	在门口的中我听到了门。	我 听 到 了 敲 门 声 。	在 门 口 的 中 我 听 到 了 门 。
+tom managed to find a new job .	汤姆找到了新工作。	汤姆设法找到了一份新工作。	汤 姆 找 到 了 新 工 作 。	汤 姆 设 法 找 到 了 一 份 新 工 作 。
+i brush my teeth twice a day .	我一天刷两次牙。	我每天上吃两次牙。	我 一 天 刷 两 次 牙 。	我 每 天 上 吃 两 次 牙 。
+i was very confused by his questions .	我对他的问题感到很困惑。	我非常把他的问题非常有幽默。	我 对 他 的 问 题 感 到 很 困 惑 。	我 非 常 把 他 的 问 题 非 常 有 幽 默 。
+attack is the best form of UNK .	进攻是最好的防御。	攻击最好的希望于194点。	进 攻 是 最 好 的 防 御 。	攻 击 最 好 的 希 望 于 1 9 4 点 。
+he graduated from high school this spring .	今年春天他从高中毕业了。	他从这个学校毕业了。	今 年 春 天 他 从 高 中 毕 业 了 。	他 从 这 个 学 校 毕 业 了 。
+there was n't a soul in sight .	一个人影也看不到。	这对著毒品没有预约。	一 个 人 影 也 看 不 到 。	这 对 著 毒 品 没 有 预 约 。
+everyone in the town knows about it .	镇上的每个人都知道它。	大家里的每个人都知道。	镇 上 的 每 个 人 都 知 道 它 。	大 家 里 的 每 个 人 都 知 道 。
+japan is confronted with severe economic problems .	日本正面临著严重的经济问题。	日本面临著这个主意。	日 本 正 面 临 著 严 重 的 经 济 问 题 。	日 本 面 临 著 这 个 主 意 。
+i got sick from drinking too much .	因为喝酒喝太多，所以我生病了。	我从酒喝得酒喝酒了。	因 为 喝 酒 喝 太 多 ， 所 以 我 生 病 了 。	我 从 酒 喝 得 酒 喝 酒 了 。
+do n't you know what happened yesterday ?	你不知道昨天发生什么事吗？	你昨天不知道昨天发生了什么吗？	你 不 知 道 昨 天 发 生 什 么 事 吗 ？	你 昨 天 不 知 道 昨 天 发 生 了 什 么 吗 ？
+tokyo is the largest city in japan .	东京是日本最大的城市。	东京是日本最大的城市。	东 京 是 日 本 最 大 的 城 市 。	东 京 是 日 本 最 大 的 城 市 。
+i have almost no money with me .	我身上几乎没有钱。	我几乎没有钱。	我 身 上 几 乎 没 有 钱 。	我 几 乎 没 有 钱 。
+there 's nothing else we can do .	没有我们能还做的事。	我们没有什么能做到。	没 有 我 们 能 还 做 的 事 。	我 们 没 有 什 么 能 做 到 。
+i buy UNK every sunday after church .	我每个星期日礼拜完都买甜甜圈。	我每个星期六增加。	我 每 个 星 期 日 礼 拜 完 都 买 甜 甜 圈 。	我 每 个 星 期 六 增 加 。
+do you have change for a dollar ?	你有零钱换一元美金吗？	你有改变一美的美丽的美丽吗？	你 有 零 钱 换 一 元 美 金 吗 ？	你 有 改 变 一 美 的 美 丽 的 美 丽 吗 ？
+i take a bath every other day .	我每两天洗一次澡。	我每天洗一次澡。	我 每 两 天 洗 一 次 澡 。	我 每 天 洗 一 次 澡 。
+i was waiting for something to happen .	我在等事情发生。	我正在等事发生了什么事。	我 在 等 事 情 发 生 。	我 正 在 等 事 发 生 了 什 么 事 。
+he wanted to get his shirts washed .	他想要把他的衬衫洗干净。	他想洗他的碗盘。	他 想 要 把 他 的 衬 衫 洗 干 净 。	他 想 洗 他 的 碗 盘 。
+i had a long talk with her .	我和她有一段长谈。	我跟她说了很久。	我 和 她 有 一 段 长 谈 。	我 跟 她 说 了 很 久 。
+we must keep up the family UNK .	我们必须保持家庭传统。	我们必须要留害怕客。	我 们 必 须 保 持 家 庭 传 统 。	我 们 必 须 要 留 害 怕 客 。
+he knows almost nothing about that animal .	他几乎对那个动物一无所知。	他几乎无所知道的动物。	他 几 乎 对 那 个 动 物 一 无 所 知 。	他 几 乎 无 所 知 道 的 动 物 。
+what is done can not be undone .	覆水难收。	做的菜以松不能松松一下。	覆 水 难 收 。	做 的 菜 以 松 不 能 松 松 一 下 。
+i studied english when i was there .	当我在那里的时候，我学习英语。	我在那里学习的时候英文。	当 我 在 那 里 的 时 候 ， 我 学 习 英 语 。	我 在 那 里 学 习 的 时 候 英 文 。
+the smell of food made me hungry .	食物的味道让我饿了。	这场味闻了我们的食物。	食 物 的 味 道 让 我 饿 了 。	这 场 味 闻 了 我 们 的 食 物 。
+the police will put you in prison .	警方将把你关在监狱里。	警方会把你传给你监狱了。	警 方 将 把 你 关 在 监 狱 里 。	警 方 会 把 你 传 给 你 监 狱 了 。
+i do n't know where she lives .	我不知道她住在哪里。	我不知道她住在哪里。	我 不 知 道 她 住 在 哪 里 。	我 不 知 道 她 住 在 哪 里 。
+pull the UNK up by the UNK .	从根部把植物拔出来。	损失被迫害怕了马口。	从 根 部 把 植 物 拔 出 来 。	损 失 被 迫 害 怕 了 马 口 。
+i do n't feel like working today .	我今天不想上班。	我今天不想工作。	我 今 天 不 想 上 班 。	我 今 天 不 想 工 作 。
+japan imports various raw materials from abroad .	日本从国外进口各种原料。	日本种特加出国留在国外面。	日 本 从 国 外 进 口 各 种 原 料 。	日 本 种 特 加 出 国 留 在 国 外 面 。
+the picture is UNK on the wall .	画挂在墙上。	这画被悬挂在墙上。	画 挂 在 墙 上 。	这 画 被 悬 挂 在 墙 上 。
+he lost his eyesight in the accident .	他在意外中失明了。	他在一次意外中失去了他的视力。	他 在 意 外 中 失 明 了 。	他 在 一 次 意 外 中 失 去 了 他 的 视 力 。
+it is good to be a UNK .	做个赢家很好。	它对于一个善于造的则活方。	做 个 赢 家 很 好 。	它 对 于 一 个 善 于 造 的 则 活 方 。
+he said that it was nine o'clock .	他说九点了。	他说九点钟到达这个。	他 说 九 点 了 。	他 说 九 点 钟 到 达 这 个 。
+he hung a lamp from the ceiling .	他把一UNK灯挂在了天花板上。	他把灯去花了一把门关。	他 把 一 UNK 灯 挂 在 了 天 花 板 上 。	他 把 灯 去 花 了 一 把 门 关 。
+the admission is ten dollars a person .	入场费一个人10美元。	美国入场费是10美元。	入 场 费 一 个 人 1 0 美 元 。	美 国 入 场 费 是 1 0 美 元 。
+could you wrap this UNK , please ?	请你分开包装好吗？	请你把这条路装好吗？	请 你 分 开 包 装 好 吗 ？	请 你 把 这 条 路 装 好 吗 ？
+i do n't want to drink anything .	我什么都不想喝。	我什么都不想喝。	我 什 么 都 不 想 喝 。	我 什 么 都 不 想 喝 。
+let me show you around our house .	让我带你四处看看我们的房子。	让我看看你到我们家附近。	让 我 带 你 四 处 看 看 我 们 的 房 子 。	让 我 看 看 你 到 我 们 家 附 近 。
+he visited her house the other day .	他前几天拜访了她家。	他访问她一天住在这房子。	他 前 几 天 拜 访 了 她 家 。	他 访 问 她 一 天 住 在 这 房 子 。
+he went to new york on business .	他去纽约出差了。	他去纽约了。	他 去 纽 约 出 差 了 。	他 去 纽 约 了 。
+he 's a student at this college .	他是这所大学的学生。	他在大学生中读了这个学生。	他 是 这 所 大 学 的 学 生 。	他 在 大 学 生 中 读 了 这 个 学 生 。
+tom is anxious to know the result .	汤姆急着想知道结果。	汤姆结果明白结果。	汤 姆 急 着 想 知 道 结 果 。	汤 姆 结 果 明 白 结 果 。
+father bought me the latest model motorcycle .	父亲给我买了最新型的摩托车。	父亲给我买辆新款车。	父 亲 给 我 买 了 最 新 型 的 摩 托 车 。	父 亲 给 我 买 辆 新 款 车 。
+do you think animals have a soul ?	你认为动物有灵魂吗？	你认为动物有灵魂吗？	你 认 为 动 物 有 灵 魂 吗 ？	你 认 为 动 物 有 灵 魂 吗 ？
+UNK enjoyed big game hunting in africa .	海明威喜欢在非洲的大UNK猎。	木板玩得很大检查。	海 明 威 喜 欢 在 非 洲 的 大 UNK 猎 。	木 板 玩 得 很 大 检 查 。
+i am not always free on sundays .	我星期日并不总是有空。	我星期日并不总是有空。	我 星 期 日 并 不 总 是 有 空 。	我 星 期 日 并 不 总 是 有 空 。
+i saw him swim across the river .	我看见他游过了河。	我看见他在河里游泳。	我 看 见 他 游 过 了 河 。	我 看 见 他 在 河 里 游 泳 。
+he likes watching baseball games on tv .	他喜欢看电视上的棒球比赛。	他喜欢看电视上的棒球比赛。	他 喜 欢 看 电 视 上 的 棒 球 比 赛 。	他 喜 欢 看 电 视 上 的 棒 球 比 赛 。
+many people were killed in the war .	很多人在战争中被杀。	许多人死于战争争。	很 多 人 在 战 争 中 被 杀 。	许 多 人 死 于 战 争 争 。
+please add my name to the list .	请把我的名字加在名单上。	请在名单上加上我的名字。	请 把 我 的 名 字 加 在 名 单 上 。	请 在 名 单 上 加 上 我 的 名 字 。
+they drive on the left in england .	在英国开车要靠左行驶。	他们在英国留在英里出现。	在 英 国 开 车 要 靠 左 行 驶 。	他 们 在 英 国 留 在 英 里 出 现 。
+this food does not agree with me .	这食物不适合我。	这个食物不同意我。	这 食 物 不 适 合 我 。	这 个 食 物 不 同 意 我 。
+his name is not on the list .	他的名字不在名单里。	他的名字不在名单上。	他 的 名 字 不 在 名 单 里 。	他 的 名 字 不 在 名 单 上 。
+he gave us the signal to begin .	他给了我们信号让我们开始。	他给了我们开始的信号。	他 给 了 我 们 信 号 让 我 们 开 始 。	他 给 了 我 们 开 始 的 信 号 。
+the fire UNK the house to UNK .	房子被大火烧成了灰UNK。	火箭发牢骚客害了马。	房 子 被 大 火 烧 成 了 灰 UNK 。	火 箭 发 牢 骚 客 害 了 马 。
+there 's no one in the room .	没有人在房间里。	房间里没有人。	没 有 人 在 房 间 里 。	房 间 里 没 有 人 。
+he grew up in a little village .	他在一个小村庄里长大。	他在村庄里种了一点。	他 在 一 个 小 村 庄 里 长 大 。	他 在 村 庄 里 种 了 一 点 。
+he gave his life for his country .	他把他的一生献给了他的国家。	他为了他的国家人生命。	他 把 他 的 一 生 献 给 了 他 的 国 家 。	他 为 了 他 的 国 家 人 生 命 。
+i wish tom could 've been there .	我希望汤姆能在那里。	但愿汤姆能在那里。	我 希 望 汤 姆 能 在 那 里 。	但 愿 汤 姆 能 在 那 里 。
+i fed the leftovers to my dog .	我把剩下的东西给我的狗吃。	我受了这只狗吃给我的灰尘。	我 把 剩 下 的 东 西 给 我 的 狗 吃 。	我 受 了 这 只 狗 吃 给 我 的 灰 尘 。
+i got him to fix my bicycle .	我让他修理了我的脚踏车。	我要他修理我的自行车了。	我 让 他 修 理 了 我 的 脚 踏 车 。	我 要 他 修 理 我 的 自 行 车 了 。
+he introduced me to a pretty girl .	他把我介绍给了一个漂亮的女孩。	他把我介绍给我认识的女孩。	他 把 我 介 绍 给 了 一 个 漂 亮 的 女 孩 。	他 把 我 介 绍 给 我 认 识 的 女 孩 。
+someone has taken my shoes by mistake .	有人拿错了我的鞋。	有人穿错了我的鞋。	有 人 拿 错 了 我 的 鞋 。	有 人 穿 错 了 我 的 鞋 。
+i spent all day in the library .	我整天待在图书馆。	我一整天都在图书馆。	我 整 天 待 在 图 书 馆 。	我 一 整 天 都 在 图 书 馆 。
+i had a good opinion of her .	我对她的评价很好。	我有一个很好的意见。	我 对 她 的 评 价 很 好 。	我 有 一 个 很 好 的 意 见 。
+the speaker 's UNK were highly UNK .	发言人的评论极有攻击性。	位目前面被迫害。	发 言 人 的 评 论 极 有 攻 击 性 。	位 目 前 面 被 迫 害 。
+my aunt made me a new skirt .	我舅母做了一条新裙子给我。	我姑姑做了一条新裙子给我。	我 舅 母 做 了 一 条 新 裙 子 给 我 。	我 姑 姑 做 了 一 条 新 裙 子 给 我 。
+your UNK means a lot to me .	你的友谊对我来说意义重大。	你的损害怕了我。	你 的 友 谊 对 我 来 说 意 义 重 大 。	你 的 损 害 怕 了 我 。
+would you please lend me some money ?	你能借我些钱吗？	请你借我一些钱吗？	你 能 借 我 些 钱 吗 ？	请 你 借 我 一 些 钱 吗 ？
+i still have n't heard from him .	我还没收到他的信。	我还没听到他的声音。	我 还 没 收 到 他 的 信 。	我 还 没 听 到 他 的 声 音 。
+in UNK , many flowers come out .	许多花在三月份UNK放。	胡萝卜中含了许多花。	许 多 花 在 三 月 份 UNK 放 。	胡 萝 卜 中 含 了 许 多 花 。
+if you do n't understand , ask .	如果你不懂，那就问。	如果你不明白，那也不了。	如 果 你 不 懂 ， 那 就 问 。	如 果 你 不 明 白 ， 那 也 不 了 。
+she is tom ’ s older sister .	她是Tom的姐姐。	她是Tom的姐姐。	她 是 T o m 的 姐 姐 。	她 是 T o m 的 姐 姐 。
+i 'm used to staying up late .	我习惯晚睡。	我习惯晚起。	我 习 惯 晚 睡 。	我 习 惯 晚 起 。
+we must cancel our trip to japan .	我们必须取消我们去日本的旅行。	我们必须取消了日本旅行。	我 们 必 须 取 消 我 们 去 日 本 的 旅 行 。	我 们 必 须 取 消 了 日 本 旅 行 。
+we managed to get some foreign stamps .	我们设法得到一些外国的邮票。	我们设法在一些邮票。	我 们 设 法 得 到 一 些 外 国 的 邮 票 。	我 们 设 法 在 一 些 邮 票 。
+i 'm tired of listening to tom .	我厌倦了听汤姆说话。	我厌倦了听汤姆。	我 厌 倦 了 听 汤 姆 说 话 。	我 厌 倦 了 听 汤 姆 。
+he put the book on the table .	他把书放在了桌上。	他把书放在桌子上。	他 把 书 放 在 了 桌 上 。	他 把 书 放 在 桌 子 上 。
+you have to leave home at six .	你必须在六点钟时从家中出发。	你必须六点钟回家。	你 必 须 在 六 点 钟 时 从 家 中 出 发 。	你 必 须 六 点 钟 回 家 。
+UNK UNK a great amount of water .	农业需要消耗的大量水。	木箭发展成了水。	农 业 需 要 消 耗 的 大 量 水 。	木 箭 发 展 成 了 水 。
+i 'm going to take my car .	我将去取我的车。	我要车去接我的车。	我 将 去 取 我 的 车 。	我 要 车 去 接 我 的 车 。
+she furnished the room with beautiful furniture .	她用漂亮的家具布置了房间。	她在家具具具齐全。	她 用 漂 亮 的 家 具 布 置 了 房 间 。	她 在 家 具 具 具 齐 全 。
+he knows how to brush his teeth .	他知道怎么刷牙。	他知道如何刷牙。	他 知 道 怎 么 刷 牙 。	他 知 道 如 何 刷 牙 。
+they believe in a life after death .	他们相信死后的生命。	他们相信来世。	他 们 相 信 死 后 的 生 命 。	他 们 相 信 来 世 。
+here 's where they usually have dinner .	这儿是他们通常吃晚饭的地方。	他们通常在哪里吃晚饭。	这 儿 是 他 们 通 常 吃 晚 饭 的 地 方 。	他 们 通 常 在 哪 里 吃 晚 饭 。
+the whole country was covered in snow .	整个国家被大雪覆盖了。	全国家都被雪所覆盖。	整 个 国 家 被 大 雪 覆 盖 了 。	全 国 家 都 被 雪 所 覆 盖 。
+i do n't care if it snows .	我不在乎是否下雪。	我不在乎喝好多雪。	我 不 在 乎 是 否 下 雪 。	我 不 在 乎 喝 好 多 雪 。
+i advised her to come by 9:00 .	我建议她九点前来。	我建议她是九点左右去。	我 建 议 她 九 点 前 来 。	我 建 议 她 是 九 点 左 右 去 。
+you people are no fun at all .	你们这帮人真没意思。	你们一个人都没有趣	你 们 这 帮 人 真 没 意 思 。	你 们 一 个 人 都 没 有 趣
+i can do it without her help .	没有她的帮忙我也能做。	没有她做不了。	没 有 她 的 帮 忙 我 也 能 做 。	没 有 她 做 不 了 。
+i was awfully confused by his question .	我对他的问题感到非常困惑。	我非常坦率地的问题。	我 对 他 的 问 题 感 到 非 常 困 惑 。	我 非 常 坦 率 地 的 问 题 。
+why do you want to leave today ?	你们为什么想今天走？	你为什么今天要离开？	你 们 为 什 么 想 今 天 走 ？	你 为 什 么 今 天 要 离 开 ？
+tom is a UNK sort of guy .	汤姆是个诚实的男孩。	汤姆是个木匠。	汤 姆 是 个 诚 实 的 男 孩 。	汤 姆 是 个 木 匠 。
+did you bring your family with you ?	你带著家人一起来吗?	你把你的家人用来有带吗？	你 带 著 家 人 一 起 来 吗 ?	你 把 你 的 家 人 用 来 有 带 吗 ？
+i 'd like to see a doctor .	我想看医生。	我想去看医生。	我 想 看 医 生 。	我 想 去 看 医 生 。
+which bed do you want to use ?	你想睡哪张床?	你想做哪个？	你 想 睡 哪 张 床 ?	你 想 做 哪 个 ？
+japan depends on other countries for oil .	日本的石油依靠进口。	日本依赖进牛奶油。	日 本 的 石 油 依 靠 进 口 。	日 本 依 赖 进 牛 奶 油 。
+she thought that i was a doctor .	她以为我是大夫。	她以为我是医生。	她 以 为 我 是 大 夫 。	她 以 为 我 是 医 生 。
+i would like to visit new york .	我想去纽约。	我想参加纽约。	我 想 去 纽 约 。	我 想 参 加 纽 约 。
+i paid ten dollars for this cap .	我付了十美元买这顶帽子。	我把这个美元接了十美元。	我 付 了 十 美 元 买 这 顶 帽 子 。	我 把 这 个 美 元 接 了 十 美 元 。
+the price of rice has come down .	米价下跌了。	米饭之内进来。	米 价 下 跌 了 。	米 饭 之 内 进 来 。
+i want to buy something to eat .	我想买点东西吃。	我想买些东西吃。	我 想 买 点 东 西 吃 。	我 想 买 些 东 西 吃 。
+imagine that you have a time machine .	想象一下，假如你有一台时光机。	想要你机器。	想 象 一 下 ， 假 如 你 有 一 台 时 光 机 。	想 要 你 机 器 。
+i took a day off last week .	上周我休了一天的假。	我上周一天休了。	上 周 我 休 了 一 天 的 假 。	我 上 周 一 天 休 了 。
+french has many more UNK than japanese .	法语的元音比日语的多得多。	法语有很多短人受够利。	法 语 的 元 音 比 日 语 的 多 得 多 。	法 语 有 很 多 短 人 受 够 利 。
+imagination affects every part of our lives .	想像力影响着我们生活的各个方面。	那些福尼亚洲有科学。	想 像 力 影 响 着 我 们 生 活 的 各 个 方 面 。	那 些 福 尼 亚 洲 有 科 学 。
+she is collecting UNK for a book .	她为一本书收集材料。	她被收集进了一本书。	她 为 一 本 书 收 集 材 料 。	她 被 收 集 进 了 一 本 书 。
+my father told me where to go .	我爸爸告诉我去哪儿。	我父亲告诉我要去哪里。	我 爸 爸 告 诉 我 去 哪 儿 。	我 父 亲 告 诉 我 要 去 哪 里 。
+we are supposed to know the rules .	我们应该了解相应的规则。	我们应该知道规则。	我 们 应 该 了 解 相 应 的 规 则 。	我 们 应 该 知 道 规 则 。
+all you can do is to wait .	所有你能做的就是等待。	所有你能做的是等待。	所 有 你 能 做 的 就 是 等 待 。	所 有 你 能 做 的 是 等 待 。
+there are no chairs in this room .	这个房间里没有椅子。	这个房间里没有椅子。	这 个 房 间 里 没 有 椅 子 。	这 个 房 间 里 没 有 椅 子 。
+let 's not discuss the matter today .	今天让我们不要讨论这件事。	今天我们今天不要讨论这个问题。	今 天 让 我 们 不 要 讨 论 这 件 事 。	今 天 我 们 今 天 不 要 讨 论 这 个 问 题 。
+he is going to leave tomorrow afternoon .	他将在明天下午离开。	他明天下午会离开。	他 将 在 明 天 下 午 离 开 。	他 明 天 下 午 会 离 开 。
+can you guess how old i am ?	你能猜到我的年龄吗？	你能猜到我多老了吗？	你 能 猜 到 我 的 年 龄 吗 ？	你 能 猜 到 我 多 老 了 吗 ？
+i feel very sorry for your sister .	我对你姐姐感到非常抱歉。	我对你姐姐感到非常遗憾。	我 对 你 姐 姐 感 到 非 常 抱 歉 。	我 对 你 姐 姐 感 到 非 常 遗 憾 。
+i 'm looking forward to your visit .	我期待著您的光临。	我期待著您的再次光临。	我 期 待 著 您 的 光 临 。	我 期 待 著 您 的 再 次 光 临 。
+she was married to a rich man .	她嫁给了一个有钱的男人。	她嫁给了一个有钱人。	她 嫁 给 了 一 个 有 钱 的 男 人 。	她 嫁 给 了 一 个 有 钱 人 。
+dogs have a UNK sense of smell .	狗的嗅觉灵敏。	狗对面有一条受伤的气。	狗 的 嗅 觉 灵 敏 。	狗 对 面 有 一 条 受 伤 的 气 。
+why are you so mean to me ?	你为什么对我这么小气？	你为什么这么意思？	你 为 什 么 对 我 这 么 小 气 ？	你 为 什 么 这 么 意 思 ？
+you do n't need to do this .	你不需要做这事。	你不必这事。	你 不 需 要 做 这 事 。	你 不 必 这 事 。
+do you have a lot of pens ?	你有很多笔吗？	你有很多笔吗？	你 有 很 多 笔 吗 ？	你 有 很 多 笔 吗 ？
+i feel like getting some fresh air .	我想要呼吸一些新鲜空气。	我觉得我一些新鲜空气。	我 想 要 呼 吸 一 些 新 鲜 空 气 。	我 觉 得 我 一 些 新 鲜 空 气 。
+i appreciate your help in UNK this .	我感谢你帮助澄清。	我感谢你的积极了。	我 感 谢 你 帮 助 澄 清 。	我 感 谢 你 的 积 极 了 。
+we got involved in a traffic accident .	我们被卷入了一场交通事故。	我们中的交通意外中受了。	我 们 被 卷 入 了 一 场 交 通 事 故 。	我 们 中 的 交 通 意 外 中 受 了 。
+she complained that my salary was low .	她抱怨我的薪水很低。	她抱怨我的工资低。	她 抱 怨 我 的 薪 水 很 低 。	她 抱 怨 我 的 工 资 低 。
+it is this window that he broke .	他砸坏的是这扇窗。	他砸坏的是这扇窗。	他 砸 坏 的 是 这 扇 窗 。	他 砸 坏 的 是 这 扇 窗 。
+i found your letter in the mailbox .	我在信箱中发现了你的信件。	我在信你的信箱中发现了。	我 在 信 箱 中 发 现 了 你 的 信 件 。	我 在 信 你 的 信 箱 中 发 现 了 。
+they are UNK to kill the king .	他们正密谋要杀害国王。	他们被杀害。	他 们 正 密 谋 要 杀 害 国 王 。	他 们 被 杀 害 。
+there 's a hair in my soup .	我的汤里有一根头发。	汤姆的头发里有一个头发。	我 的 汤 里 有 一 根 头 发 。	汤 姆 的 头 发 里 有 一 个 头 发 。
+she can speak english , of course .	她会讲英语，当然。	她会讲英语，而言当。	她 会 讲 英 语 ， 当 然 。	她 会 讲 英 语 ， 而 言 当 。
+i left my briefcase in the bus .	我把我的公事包留在公车上了。	我的公车离开了公车。	我 把 我 的 公 事 包 留 在 公 车 上 了 。	我 的 公 车 离 开 了 公 车 。
+have you finished reading that book yet ?	你读完那本书了吗?	你读完那本书了吗？	你 读 完 那 本 书 了 吗 ?	你 读 完 那 本 书 了 吗 ？
+i 'm happy to see you here .	我很高兴在这里看到你。	我很高兴在这里看到你。	我 很 高 兴 在 这 里 看 到 你 。	我 很 高 兴 在 这 里 看 到 你 。
+he took the wrong bus by mistake .	他搭错了车。	他搭错了错误。	他 搭 错 了 车 。	他 搭 错 了 错 误 。
+the news of his death spread around .	他去世的消息传遍各地。	这消息已经扩湿了。	他 去 世 的 消 息 传 遍 各 地 。	这 消 息 已 经 扩 湿 了 。
+i do hope you 'll come again .	我很希望你会再来。	我希望你会再来一次。	我 很 希 望 你 会 再 来 。	我 希 望 你 会 再 来 一 次 。
+the sun UNK earlier in the winter .	在冬天，太阳下山比往常更早。	太阳升在冬天早来了。	在 冬 天 ， 太 阳 下 山 比 往 常 更 早 。	太 阳 升 在 冬 天 早 来 了 。
+what were you doing at that time ?	当时你在做什么？	你在做什么时候做那么？	当 时 你 在 做 什 么 ？	你 在 做 什 么 时 候 做 那 么 ？
+i 'm not particularly thirsty right now .	我现在不特别渴。	我特别不是对的。	我 现 在 不 特 别 渴 。	我 特 别 不 是 对 的 。
+i do n't believe such things exist .	我不相信这样的事情存在。	我不相信那么贵的方式。	我 不 相 信 这 样 的 事 情 存 在 。	我 不 相 信 那 么 贵 的 方 式 。
+i ordered a pizza on the phone .	我打电话订了个披萨。	我点了比萨分手机。	我 打 电 话 订 了 个 披 萨 。	我 点 了 比 萨 分 手 机 。
+i got up at seven this morning .	我今天早上7点起床。	我早上七点起床。	我 今 天 早 上 7 点 起 床 。	我 早 上 七 点 起 床 。
+he did n't mean to hurt you .	他不是故意要伤害你。	他没有意思感到你伤。	他 不 是 故 意 要 伤 害 你 。	他 没 有 意 思 感 到 你 伤 。
+he went to stay with his cousin .	他去和他的表弟待在一起了。	他和他的堂姊妹呆在一起。	他 去 和 他 的 表 弟 待 在 一 起 了 。	他 和 他 的 堂 姊 妹 呆 在 一 起 。
+UNK take UNK to UNK your teeth .	牙医用X光检查你的牙齿。	木箭发牢固定的牙医。	牙 医 用 X 光 检 查 你 的 牙 齿 。	木 箭 发 牢 固 定 的 牙 医 。
+we took strong UNK to prevent it .	我们采取了强有力的预防措施。	我们用木损失了很强壮。	我 们 采 取 了 强 有 力 的 预 防 措 施 。	我 们 用 木 损 失 了 很 强 壮 。
+UNK is a city in new zealand .	奥克兰是一座新西兰的城市。	木板在纽约里。	奥 克 兰 是 一 座 新 西 兰 的 城 市 。	木 板 在 纽 约 里 。
+war may break out at any moment .	战争随时可能爆发。	战争论即使下来。	战 争 随 时 可 能 爆 发 。	战 争 论 即 使 下 来 。
+rome is famous for its UNK UNK .	罗马以其古代建筑而闻名。	罗马这个特别造成的损失。	罗 马 以 其 古 代 建 筑 而 闻 名 。	罗 马 这 个 特 别 造 成 的 损 失 。
+she 'll be getting married next year .	她明年将要结婚。	她明年会在下二年结婚。	她 明 年 将 要 结 婚 。	她 明 年 会 在 下 二 年 结 婚 。
+i gave her a lift to town .	我载她去城里了。	我给了她举行车。	我 载 她 去 城 里 了 。	我 给 了 她 举 行 车 。
+i think she 's an honest woman .	我认为她是一个诚实的女人。	我认为她是个诚实的女人。	我 认 为 她 是 一 个 诚 实 的 女 人 。	我 认 为 她 是 个 诚 实 的 女 人 。
+we had a slight difference of opinion .	我们的看法有一点不同。	我们有点别的意见。	我 们 的 看 法 有 一 点 不 同 。	我 们 有 点 别 的 意 见 。
+i did n't enjoy it very much .	我不是很喜欢它。	我不喜欢它。	我 不 是 很 喜 欢 它 。	我 不 喜 欢 它 。
+i talked with her for an hour .	我跟她谈了一个小时。	我跟她一个小时和一个小时。	我 跟 她 谈 了 一 个 小 时 。	我 跟 她 一 个 小 时 和 一 个 小 时 。
+you had better put on a UNK .	您最好穿一件雨衣。	你最好马上放松一条街对面。	您 最 好 穿 一 件 雨 衣 。	你 最 好 马 上 放 松 一 条 街 对 面 。
+it is wrong to tell a lie .	说谎是错误的。	说谎是不错的。	说 谎 是 错 误 的 。	说 谎 是 不 错 的 。
+tom might have missed the last train .	汤姆可能错过了最后一班列车。	汤姆可能错过了最后一班火车。	汤 姆 可 能 错 过 了 最 后 一 班 列 车 。	汤 姆 可 能 错 过 了 最 后 一 班 火 车 。
+please stay here till i get back .	请待在这里直到我回来。	请在这里等我回来。	请 待 在 这 里 直 到 我 回 来 。	请 在 这 里 等 我 回 来 。
+the man kept talking for an hour .	这个男人连续说了一个小时的话。	这个男人让小时说了一个小时。	这 个 男 人 连 续 说 了 一 个 小 时 的 话 。	这 个 男 人 让 小 时 说 了 一 个 小 时 。
+this is all he has to do .	这是所有他必须做的事。	这是他所有做的。	这 是 所 有 他 必 须 做 的 事 。	这 是 他 所 有 做 的 。
+his wife opened the door for him .	他的妻子为他开门了。	他老婆开门。	他 的 妻 子 为 他 开 门 了 。	他 老 婆 开 门 。
+he placed the ladder against the fence .	他把梯子倚著栅栏放。	航程中航程了栅栏。	他 把 梯 子 倚 著 栅 栏 放 。	航 程 中 航 程 了 栅 栏 。
+we saw him walk across the street .	我们看到他过马路。	我们看见他在街对面。	我 们 看 到 他 过 马 路 。	我 们 看 见 他 在 街 对 面 。
+he grew up to be a doctor .	他长大后成为了一名医生。	他长大成为一名医生。	他 长 大 后 成 为 了 一 名 医 生 。	他 长 大 成 为 一 名 医 生 。
+i 'm sorry she 's not here .	对不起，她不在这里。	我很抱歉她不在这里。	对 不 起 ， 她 不 在 这 里 。	我 很 抱 歉 她 不 在 这 里 。
+why should i care what you think ?	为什么我应该在乎你怎么想？	为什么我该要你想要的？	为 什 么 我 应 该 在 乎 你 怎 么 想 ？	为 什 么 我 该 要 你 想 要 的 ？
+all of us like you very much .	我们都非常喜欢你。	我们所有的你都喜欢我们。	我 们 都 非 常 喜 欢 你 。	我 们 所 有 的 你 都 喜 欢 我 们 。
+what kind of work will you do ?	你将做什么样的工作?	你将做什么工作？	你 将 做 什 么 样 的 工 作 ?	你 将 做 什 么 工 作 ？
+the magician had the children 's attention .	魔术师吸引了孩子们的注意。	法律师的孩子病了。	魔 术 师 吸 引 了 孩 子 们 的 注 意 。	法 律 师 的 孩 子 病 了 。
+this is the time he UNK arrives .	他这个时候该到了。	这是他充分的方式面。	他 这 个 时 候 该 到 了 。	这 是 他 充 分 的 方 式 面 。
+perhaps it will rain in the afternoon .	也许下午会下雨。	也许下午会下午。	也 许 下 午 会 下 雨 。	也 许 下 午 会 下 午 。
+which one do you think is correct ?	你认为哪一个是正确的?	你认为是正确的哪一个？	你 认 为 哪 一 个 是 正 确 的 ?	你 认 为 是 正 确 的 哪 一 个 ？
+tom is going to run for mayor .	汤姆要竞选市长。	汤姆将竞选市长。	汤 姆 要 竞 选 市 长 。	汤 姆 将 竞 选 市 长 。
+i hope he 'll wait for me .	我希望他会等我。	我希望他会等我。	我 希 望 他 会 等 我 。	我 希 望 他 会 等 我 。
+why did you say such a thing ?	你为什么说了这样的事?	你为什么这么说服你说？	你 为 什 么 说 了 这 样 的 事 ?	你 为 什 么 这 么 说 服 你 说 ？
+my wish is to become a teacher .	我的愿望是成为一个老师。	我希望我的老师要成为一名教师。	我 的 愿 望 是 成 为 一 个 老 师 。	我 希 望 我 的 老 师 要 成 为 一 名 教 师 。
+UNK never tell us their UNK thoughts .	政治家从来不告诉我们他们的别有用心。	洪水管讲让我们在用耳朵之上。	政 治 家 从 来 不 告 诉 我 们 他 们 的 别 有 用 心 。	洪 水 管 讲 让 我 们 在 用 耳 朵 之 上 。
+i 'm three years younger than you .	我比你小三岁。	我比你年轻三岁。	我 比 你 小 三 岁 。	我 比 你 年 轻 三 岁 。
+i feel like going to the movies .	我想去看电影。	我想去看电影。	我 想 去 看 电 影 。	我 想 去 看 电 影 。
+she made room for an old lady .	她让座给一位老太太。	她让我造成了一位老太太空。	她 让 座 给 一 位 老 太 太 。	她 让 我 造 成 了 一 位 老 太 太 空 。
+you should follow your teacher 's advice .	您应遵循你老师的建议。	你应该遵守老师的忠告。	您 应 遵 循 你 老 师 的 建 议 。	你 应 该 遵 守 老 师 的 忠 告 。
+my mother made me a white dress .	我妈妈为我做了一件白色的洋装。	我妈妈给我做了一条白色的衣服。	我 妈 妈 为 我 做 了 一 件 白 色 的 洋 装 。	我 妈 妈 给 我 做 了 一 条 白 色 的 衣 服 。
+they go skiing at UNK every winter .	他们每年冬季去野泽滑雪。	他们每个月造访问望。	他 们 每 年 冬 季 去 野 泽 滑 雪 。	他 们 每 个 月 造 访 问 望 。
+tom teaches me french twice a week .	汤姆每周两次教我法语。	汤姆教我两次法语。	汤 姆 每 周 两 次 教 我 法 语 。	汤 姆 教 我 两 次 法 语 。
+i 'm getting ready for the worst .	我已经做好了最坏的打算。	我正在为最后做的最坏了。	我 已 经 做 好 了 最 坏 的 打 算 。	我 正 在 为 最 后 做 的 最 坏 了 。
+i wash my hands before eating lunch .	我在吃午饭前洗手。	我在吃午饭前洗了。	我 在 吃 午 饭 前 洗 手 。	我 在 吃 午 饭 前 洗 了 。
+it was my duty to do that .	做那事是我的责任。	我是在做那个责任。	做 那 事 是 我 的 责 任 。	我 是 在 做 那 个 责 任 。
+he 'd prefer not to eat that .	他宁愿不吃这个。	他比起，不是那么吃。	他 宁 愿 不 吃 这 个 。	他 比 起 ， 不 是 那 么 吃 。
+please find a solution to the problem .	请找到问题的解决方法。	请找到一个问题。	请 找 到 问 题 的 解 决 方 法 。	请 找 到 一 个 问 题 。
+we had a kid just last year .	就在去年我们有了一个孩子。	我们去年轻一个孩子玩笑了。	就 在 去 年 我 们 有 了 一 个 孩 子 。	我 们 去 年 轻 一 个 孩 子 玩 笑 了 。
+you should have shown him the UNK .	你应该给他看看这装置。	你应该已经被责任他的方式。	你 应 该 给 他 看 看 这 装 置 。	你 应 该 已 经 被 责 任 他 的 方 式 。
+i love the sound of children laughing .	我喜欢孩子们笑的声音。	我爱听起来像个孩子。	我 喜 欢 孩 子 们 笑 的 声 音 。	我 爱 听 起 来 像 个 孩 子 。
+that patient may die at any time .	病人随时会死。	那是有耐心。	病 人 随 时 会 死 。	那 是 有 耐 心 。
+i had difficulty working out the problem .	我很难解决这个问题。	我在解决这个问题上有困难。	我 很 难 解 决 这 个 问 题 。	我 在 解 决 这 个 问 题 上 有 困 难 。
+we managed to swim across the river .	我们成功地游过了河。	我们设法在河里游泳了。	我 们 成 功 地 游 过 了 河 。	我 们 设 法 在 河 里 游 泳 了 。
+i wish you could come with us .	但愿你可以跟我们一起来。	我希望你能和我们一起来。	但 愿 你 可 以 跟 我 们 一 起 来 。	我 希 望 你 能 和 我 们 一 起 来 。
+come on ! give me a chance .	来嘛！给我个机会。	来吧！我一下可能会。	来 嘛 ！ 给 我 个 机 会 。	来 吧 ！ 我 一 下 可 能 会 。
+i ca n't eat this much food .	我不能吃这么多食物。	我不能吃这些食物。	我 不 能 吃 这 么 多 食 物 。	我 不 能 吃 这 些 食 物 。
+let 's drink coffee while we talk .	让我们边喝咖啡边谈。	我们一些出去吃饭。	让 我 们 边 喝 咖 啡 边 谈 。	我 们 一 些 出 去 吃 饭 。
+very few people live to be 100 .	很少人活到100岁。	很少人活到100000日元。	很 少 人 活 到 1 0 0 岁 。	很 少 人 活 到 1 0 0 0 0 0 日 元 。
+i could n't answer all the questions .	我无法回答所有问题。	我不能回答所有的问题。	我 无 法 回 答 所 有 问 题 。	我 不 能 回 答 所 有 的 问 题 。
+how 's the weather in new york ?	纽约的天气如何?	纽约的天气怎么样？	纽 约 的 天 气 如 何 ?	纽 约 的 天 气 怎 么 样 ？
+how long have you been in UNK ?	你在UNK路多久了？	你在马上多久了？	你 在 UNK 路 多 久 了 ？	你 在 马 上 多 久 了 ？
+what did you do with that camera ?	你用那台相机做了什么？	你用那个照相机做了什么？	你 用 那 台 相 机 做 了 什 么 ？	你 用 那 个 照 相 机 做 了 什 么 ？
+UNK UNK grew up on the UNK .	劳拉英UNK尔斯是在草原上长大的。	木箭发牢固定着凉了。	劳 拉 英 UNK 尔 斯 是 在 草 原 上 长 大 的 。	木 箭 发 牢 固 定 着 凉 了 。
+he hit his head against a rock .	他的头撞倒了一块岩石。	他违背了一把头扔落在一下。	他 的 头 撞 倒 了 一 块 岩 石 。	他 违 背 了 一 把 头 扔 落 在 一 下 。
+i bought this book at UNK bookstore .	我在书商MarUNKzen那里买了这本书。	我在这本书地方买了起书。	我 在 书 商 M a r UNK z e n 那 里 买 了 这 本 书 。	我 在 这 本 书 地 方 买 了 起 书 。
+i will live in sasayama next year .	我明年会住在筱山。	我明年住在筱山。	我 明 年 会 住 在 筱 山 。	我 明 年 住 在 筱 山 。
+she made a mess of the work .	她工作做得乱七八糟。	她为了一个洞。	她 工 作 做 得 乱 七 八 糟 。	她 为 了 一 个 洞 。
+she has been dead for ten years .	她已经死了十年了。	她已经死了十年。	她 已 经 死 了 十 年 了 。	她 已 经 死 了 十 年 。
+i did n't believe him at first .	起初我不相信他。	我一点也不相信他。	起 初 我 不 相 信 他 。	我 一 点 也 不 相 信 他 。
+tom is a very good tennis player .	汤姆是一个非常好的网球选手。	汤姆是个很好的网球选手。	汤 姆 是 一 个 非 常 好 的 网 球 选 手 。	汤 姆 是 个 很 好 的 网 球 选 手 。
+i met a friend of mary 's .	我遇到了玛丽的一位朋友。	我遇见了玛丽的一个朋友。	我 遇 到 了 玛 丽 的 一 位 朋 友 。	我 遇 见 了 玛 丽 的 一 个 朋 友 。
+world war i broke out in UNK .	第一次世界大战于1914年爆发。	世界战争还是受了酒。	第 一 次 世 界 大 战 于 1 9 1 4 年 爆 发 。	世 界 战 争 还 是 受 了 酒 。
+the eight o'clock bus was early today .	8点那班车今天早到了。	八点钟有八点钟的车。	8 点 那 班 车 今 天 早 到 了 。	八 点 钟 有 八 点 钟 的 车 。
+i 'm going to change my shirt .	我要去换我的衬衫。	我要换衣服。	我 要 去 换 我 的 衬 衫 。	我 要 换 衣 服 。
+there is a cat under the desk .	书桌下有一只猫。	桌子底下有一只猫。	书 桌 下 有 一 只 猫 。	桌 子 底 下 有 一 只 猫 。
+i just wanted to speak to tom .	我只想跟汤姆说话。	我想跟汤姆说话。	我 只 想 跟 汤 姆 说 话 。	我 想 跟 汤 姆 说 话 。
+the city was full of starving soldiers .	城市里充满了饥饿的士兵。	这个城市充满了城市人。	城 市 里 充 满 了 饥 饿 的 士 兵 。	这 个 城 市 充 满 了 城 市 人 。
+people in the united states speak english .	在美国的人说英语。	在美国的人类精神很美。	在 美 国 的 人 说 英 语 。	在 美 国 的 人 类 精 神 很 美 。
+i wish you were close to me .	我希望你在我身边。	我希望你坐下我去睡觉。	我 希 望 你 在 我 身 边 。	我 希 望 你 坐 下 我 去 睡 觉 。
+you remember it better than i do .	你比我记得好。	你记得比我做好。	你 比 我 记 得 好 。	你 记 得 比 我 做 好 。
+it 's fun to ride a motorcycle .	骑摩托车很有趣。	它将骑脚踏车。	骑 摩 托 车 很 有 趣 。	它 将 骑 脚 踏 车 。
+i have written down his phone number .	我记下了他的电话号码。	我写了他的电话号码。	我 记 下 了 他 的 电 话 号 码 。	我 写 了 他 的 电 话 号 码 。
+he arrived at school exactly on time .	他刚好准时到校。	他在学校的时候到达了。	他 刚 好 准 时 到 校 。	他 在 学 校 的 时 候 到 达 了 。
+there are too many things to do !	要做的事太多了!	无法有许多事还要干扰啊！	要 做 的 事 太 多 了 !	无 法 有 许 多 事 还 要 干 扰 啊 ！
+this bridge was built two years ago .	这座桥是在两年前建造的。	这座桥过了两年前。	这 座 桥 是 在 两 年 前 建 造 的 。	这 座 桥 过 了 两 年 前 。
+she warned him not to go alone .	她警告了他不要一个人去。	她警告他不要走。	她 警 告 了 他 不 要 一 个 人 去 。	她 警 告 他 不 要 走 。
+the library is on the UNK floor .	图书馆在四楼。	图书馆的图书馆很短。	图 书 馆 在 四 楼 。	图 书 馆 的 图 书 馆 很 短 。
+he has a great deal of experience .	他有丰富的经验。	他有很多气经验。	他 有 丰 富 的 经 验 。	他 有 很 多 气 经 验 。
+i wonder if anything happened to him .	我怀疑有什么事在他身上发生了。	我想知道任何事情都是不知道他发生了。	我 怀 疑 有 什 么 事 在 他 身 上 发 生 了 。	我 想 知 道 任 何 事 情 都 是 不 知 道 他 发 生 了 。
+she has many friends in hong kong .	她在香港有很多朋友。	她已经抵达了许多球。	她 在 香 港 有 很 多 朋 友 。	她 已 经 抵 达 了 许 多 球 。
+i have n't seen you in ages .	我已经好久没有见到你了。	我没见过你这么老师。	我 已 经 好 久 没 有 见 到 你 了 。	我 没 见 过 你 这 么 老 师 。
+this pencil is better than that one .	这支铅笔比那只好。	这支铅比那个好。	这 支 铅 笔 比 那 只 好 。	这 支 铅 比 那 个 好 。
+tom wants to tell you about mary .	汤姆想跟你说玛丽的事。	汤姆想告诉你玛丽。	汤 姆 想 跟 你 说 玛 丽 的 事 。	汤 姆 想 告 诉 你 玛 丽 。
+my father got married in his twenties .	我父亲在他二十多岁时结婚了。	我爸爸爸几乎在二十几岁。	我 父 亲 在 他 二 十 多 岁 时 结 婚 了 。	我 爸 爸 爸 几 乎 在 二 十 几 岁 。
+she carried that habit to her UNK .	她到死都改不了那个习惯。	她把瓶子成碎了她的木桌。	她 到 死 都 改 不 了 那 个 习 惯 。	她 把 瓶 子 成 碎 了 她 的 木 桌 。
+the boy denied having stolen the bicycle .	那个男孩否认偷了自行车。	男孩否认曾经曾经过自行车。	那 个 男 孩 否 认 偷 了 自 行 车 。	男 孩 否 认 曾 经 曾 经 过 自 行 车 。
+he UNK refused to let me in .	他断然地拒绝让我进去。	他拒绝让我们进行。	他 断 然 地 拒 绝 让 我 进 去 。	他 拒 绝 让 我 们 进 行 。
+will you permit me to go there ?	您允许我去吗？	你准备可以去那里吗?	您 允 许 我 去 吗 ？	你 准 备 可 以 去 那 里 吗 ?
+is your school far from your home ?	你的学校离你家很远吗?	你的学校远很远吗？	你 的 学 校 离 你 家 很 远 吗 ?	你 的 学 校 远 很 远 吗 ？
+she left her umbrella in the train .	她把她的雨伞留在火车上了。	她把她的伞留在火车上了。	她 把 她 的 雨 伞 留 在 火 车 上 了 。	她 把 她 的 伞 留 在 火 车 上 了 。
+i do n't want tom to die .	我不想让汤姆死。	我不想死汤姆。	我 不 想 让 汤 姆 死 。	我 不 想 死 汤 姆 。
+i made efforts to improve my grades .	我努力的改善我的成绩。	我对我的祖母是很白费的。	我 努 力 的 改 善 我 的 成 绩 。	我 对 我 的 祖 母 是 很 白 费 的 。
+hope to see you again next year .	希望明年再次见到你。	希望能再见到你。	希 望 明 年 再 次 见 到 你 。	希 望 能 再 见 到 你 。
+i could n't understand him at first .	起初我听不懂他说的话。	我不明白他第一次。	起 初 我 听 不 懂 他 说 的 话 。	我 不 明 白 他 第 一 次 。
+there 's UNK growing in the garden .	花园里有UNK子在生长。	花光客充满了花园。	花 园 里 有 UNK 子 在 生 长 。	花 光 客 充 满 了 花 园 。
+she gave the blouse a quick wash .	她很快地把衬衫洗一洗。	她给了这件衬衫。	她 很 快 地 把 衬 衫 洗 一 洗 。	她 给 了 这 件 衬 衫 。
+we saw a funny movie last sunday .	我们上星期天看了一场很有趣的电影。	我们上周日看了一部好电影。	我 们 上 星 期 天 看 了 一 场 很 有 趣 的 电 影 。	我 们 上 周 日 看 了 一 部 好 电 影 。
+it has been raining since last thursday .	从上周四开始一直下雨。	从上个月开始就一直在四礼拜。	从 上 周 四 开 始 一 直 下 雨 。	从 上 个 月 开 始 就 一 直 在 四 礼 拜 。
+you can rely upon his being punctual .	你可以放心，他会准时的。	你可以依靠他的时间。	你 可 以 放 心 ， 他 会 准 时 的 。	你 可 以 依 靠 他 的 时 间 。
+i 'm going to propose to her .	我打算向她求婚。	我要求她的婚礼。	我 打 算 向 她 求 婚 。	我 要 求 她 的 婚 礼 。
+she has the large house to herself .	她给自己一间大房子。	她有大养子自己房子。	她 给 自 己 一 间 大 房 子 。	她 有 大 养 子 自 己 房 子 。
+english and german are two related languages .	英语和德语是两种相关的语言。	英语和两者是两种语言。	英 语 和 德 语 是 两 种 相 关 的 语 言 。	英 语 和 两 者 是 两 种 语 言 。
+he UNK the sweat from his face .	他擦去了脸上的汗水。	他木材汗。	他 擦 去 了 脸 上 的 汗 水 。	他 木 材 汗 。
+i ca n't do without her help .	没有她的帮助我做不到。	没有她做不了，我也不能做。	没 有 她 的 帮 助 我 做 不 到 。	没 有 她 做 不 了 ， 我 也 不 能 做 。
+the world is full of UNK doctors .	社会上满是不称职的医生。	世界充满了医生的街对上。	社 会 上 满 是 不 称 职 的 医 生 。	世 界 充 满 了 医 生 的 街 对 上 。
+she always speaks in a low voice .	她总是低声地说话。	她一直说说一点低声音。	她 总 是 低 声 地 说 话 。	她 一 直 说 说 一 点 低 声 音 。
+i take full responsibility for the action .	我会为这次行动负起全责。	我吃充满了任何行物。	我 会 为 这 次 行 动 负 起 全 责 。	我 吃 充 满 了 任 何 行 物 。
+do you want to speak to tom ?	你想跟汤姆说话吗？	你想跟汤姆说话吗？	你 想 跟 汤 姆 说 话 吗 ？	你 想 跟 汤 姆 说 话 吗 ？
+what 's the capital city of UNK ?	芬兰的首都是什么？	这个城市的首都是什么？	芬 兰 的 首 都 是 什 么 ？	这 个 城 市 的 首 都 是 什 么 ？
+he was too drunk to drive home .	他喝酒醉无法开车回家。	他醉无法开车回家。	他 喝 酒 醉 无 法 开 车 回 家 。	他 醉 无 法 开 车 回 家 。
+when did she promise to meet him ?	她答应几时见他？	当她发现他是什么时候见到他？	她 答 应 几 时 见 他 ？	当 她 发 现 他 是 什 么 时 候 见 到 他 ？
+we will only UNK on that condition .	我们只会在那样的条件下同意。	我们将马上就会注意识。	我 们 只 会 在 那 样 的 条 件 下 同 意 。	我 们 将 马 上 就 会 注 意 识 。
+i 'm going to meet him tomorrow .	我明天要跟他见面。	我明天会去见他。	我 明 天 要 跟 他 见 面 。	我 明 天 会 去 见 他 。
+this is a picture of my mother .	这张是我妈妈的照片。	这是我母亲的照片。	这 张 是 我 妈 妈 的 照 片 。	这 是 我 母 亲 的 照 片 。
+tom pretended to not hear a thing .	汤姆假装没听见。	汤姆假装没听见过事。	汤 姆 假 装 没 听 见 。	汤 姆 假 装 没 听 见 过 事 。
+he wo n't live a long life .	他不会长寿。	他不会长寿。	他 不 会 长 寿 。	他 不 会 长 寿 。
+he worked in a big city hospital .	他在一间很大的市立医院工作。	他在一个大城市里工作。	他 在 一 间 很 大 的 市 立 医 院 工 作 。	他 在 一 个 大 城 市 里 工 作 。
+it 's clear that you 're wrong .	很明显地你错了。	清楚你是错的。	很 明 显 地 你 错 了 。	清 楚 你 是 错 的 。
+they came all the way from brazil .	他们从巴西远道而来。	他们都来了所有的利人。	他 们 从 巴 西 远 道 而 来 。	他 们 都 来 了 所 有 的 利 人 。
+i had been reading for an hour .	我已经持续读了一个小时了。	我一小时读了一个小时。	我 已 经 持 续 读 了 一 个 小 时 了 。	我 一 小 时 读 了 一 个 小 时 。
+i 'll drive you to the airport .	我会开车送你去机场。	我开车送你们送到机场。	我 会 开 车 送 你 去 机 场 。	我 开 车 送 你 们 送 到 机 场 。
+do n't make fun of old people .	不要捉弄老人家。	别人做不错。	不 要 捉 弄 老 人 家 。	别 人 做 不 错 。
+i did not participate in the UNK .	我没有参与对话。	我没有参加这个提议。	我 没 有 参 与 对 话 。	我 没 有 参 加 这 个 提 议 。
+hang on till i get to you .	坚持下去直到我找到你。	等到你等我。	坚 持 下 去 直 到 我 找 到 你 。	等 到 你 等 我 。
+i got the money back from him .	我拿到了他还给我的钱。	我收到他的钱钱后，他还到他。	我 拿 到 了 他 还 给 我 的 钱 。	我 收 到 他 的 钱 钱 后 ， 他 还 到 他 。
+can i make a reservation for golf ?	我能预定一下打高尔夫球吗？	我能事出个玩笑话吗？	我 能 预 定 一 下 打 高 尔 夫 球 吗 ？	我 能 事 出 个 玩 笑 话 吗 ？
+he has a son and two daughters .	他有一个儿子和两个女儿。	他有一个儿子和两个女儿。	他 有 一 个 儿 子 和 两 个 女 儿 。	他 有 一 个 儿 子 和 两 个 女 儿 。
+it was n't very hot last night .	昨晚不是很热。	昨晚不是很热的。	昨 晚 不 是 很 热 。	昨 晚 不 是 很 热 的 。
+it 's obvious that she 's sick .	显然地她生病了。	她很明显她病了。	显 然 地 她 生 病 了 。	她 很 明 显 她 病 了 。
+i have a dog and a cat .	我有一只狗和一只猫。	我有一只狗和猫。	我 有 一 只 狗 和 一 只 猫 。	我 有 一 只 狗 和 猫 。
+we elected her captain of our team .	我们选她为我们队的队长。	我们选她的队长。	我 们 选 她 为 我 们 队 的 队 长 。	我 们 选 她 的 队 长 。
+i got some sand in my eye .	我的眼睛进了些沙。	我的脚印度上了点。	我 的 眼 睛 进 了 些 沙 。	我 的 脚 印 度 上 了 点 。
+leave me a bit of ice cream .	给我留点冰激凌。	给我留点冰淇淋。	给 我 留 点 冰 激 凌 。	给 我 留 点 冰 淇 淋 。
+i met him on my way home .	我在回家的路上遇见了他。	我在家里遇见了他。	我 在 回 家 的 路 上 遇 见 了 他 。	我 在 家 里 遇 见 了 他 。
+he is a reporter for time magazine .	他是时代杂志的记者。	他是一个记忆力的时候。	他 是 时 代 杂 志 的 记 者 。	他 是 一 个 记 忆 力 的 时 候 。
+i opened the box and looked inside .	我打开盒子看看里面。	我打开了盒子里，保卫。	我 打 开 盒 子 看 看 里 面 。	我 打 开 了 盒 子 里 ， 保 卫 。
+new york is on the UNK river .	纽约位在哈得逊河。	纽约的纽约在河里。	纽 约 位 在 哈 得 逊 河 。	纽 约 的 纽 约 在 河 里 。
+long skirts are out of fashion now .	现在长裙过时了。	现在长裙不流行了。	现 在 长 裙 过 时 了 。	现 在 长 裙 不 流 行 了 。
+there are some boys under the tree .	树下有一些男孩。	树下有些男孩子。	树 下 有 一 些 男 孩 。	树 下 有 些 男 孩 子 。
+i UNK a house with a garage .	我租了一间有车库的房子。	我木箭发射进车库。	我 租 了 一 间 有 车 库 的 房 子 。	我 木 箭 发 射 进 车 库 。
+the admission is ten dollars a person .	入会费一个人十美元。	美国入场费是10美元。	入 会 费 一 个 人 十 美 元 。	美 国 入 场 费 是 1 0 美 元 。
+the guy with a UNK is tom .	长胡子的是汤姆。	这家伙是汤姆造木的。	长 胡 子 的 是 汤 姆 。	这 家 伙 是 汤 姆 造 木 的 。
+i did n't know about your plan .	我不知道你的计划。	我不知道你的计划。	我 不 知 道 你 的 计 划 。	我 不 知 道 你 的 计 划 。
+this book is n't interesting at all .	这本书一点也不有趣。	这本书一点很有趣。	这 本 书 一 点 也 不 有 趣 。	这 本 书 一 点 很 有 趣 。
+he made a clean break with them .	他跟他们干UNK地断绝来往了。	他们与他们交打扫。	他 跟 他 们 干 UNK 地 断 绝 来 往 了 。	他 们 与 他 们 交 打 扫 。
+please call me at my hotel later .	等一下请打电话到我住的旅馆。	请稍后打电话给我家酒。	等 一 下 请 打 电 话 到 我 住 的 旅 馆 。	请 稍 后 打 电 话 给 我 家 酒 。
+he walks in the park every morning .	他每天早上在公园里散步。	他每天早上在公园里散步。	他 每 天 早 上 在 公 园 里 散 步 。	他 每 天 早 上 在 公 园 里 散 步 。
+take the elevator to the fifth floor .	搭乘电梯到五楼。	乘电梯上五楼。	搭 乘 电 梯 到 五 楼 。	乘 电 梯 上 五 楼 。
+the police will look into the case .	警察会调查这起案件。	警方会连墙后情。	警 察 会 调 查 这 起 案 件 。	警 方 会 连 墙 后 情 。
+how did you get to know him ?	你是怎么认识他的？	你怎么知道他怎么样？	你 是 怎 么 认 识 他 的 ？	你 怎 么 知 道 他 怎 么 样 ？
+i wish you had told me that .	但愿你告诉过我就好了。	要是你告诉过我就好了。	但 愿 你 告 诉 过 我 就 好 了 。	要 是 你 告 诉 过 我 就 好 了 。
+i do n't know who he is .	我不知道他是谁。	我不知道他是谁。	我 不 知 道 他 是 谁 。	我 不 知 道 他 是 谁 。
+will you sell your car to me ?	你可以把你的车卖给我吗？	你把你的车卖给我吗?	你 可 以 把 你 的 车 卖 给 我 吗 ？	你 把 你 的 车 卖 给 我 吗 ?
+is there anything you ca n't do ?	有你不能做的事吗？	有什么事都不能做到吗？	有 你 不 能 做 的 事 吗 ？	有 什 么 事 都 不 能 做 到 吗 ？
+they made up and became friends again .	他们和解了，并再次成为了朋友。	他们又做了一次会成朋友。	他 们 和 解 了 ， 并 再 次 成 为 了 朋 友 。	他 们 又 做 了 一 次 会 成 朋 友 。
+do n't do anything like that again .	不要再做那样的事情了。	不要再做一次。	不 要 再 做 那 样 的 事 情 了 。	不 要 再 做 一 次 。
+i asked tom what he was reading .	我问了汤姆在读什么。	我问了他在读书的。	我 问 了 汤 姆 在 读 什 么 。	我 问 了 他 在 读 书 的 。
+i got this cd player for free .	我免费得到这个CD播放机。	我免费得到了这个CD播放机。	我 免 费 得 到 这 个 C D 播 放 机 。	我 免 费 得 到 了 这 个 C D 播 放 机 。
+she is getting better day by day .	她一天一天地好转。	她一天一天地好转。	她 一 天 一 天 地 好 转 。	她 一 天 一 天 地 好 转 。
+i asked her to wait a moment .	我请她等一会儿。	我请她等一下。	我 请 她 等 一 会 儿 。	我 请 她 等 一 下 。
+we reached the top of the mountain .	我们到达了山顶。	我们到达山被车撞了。	我 们 到 达 了 山 顶 。	我 们 到 达 山 被 车 撞 了 。
+i ca n't find my umbrella anywhere .	我任何地方都找不到我的伞。	我在哪儿都找不到我的伞。	我 任 何 地 方 都 找 不 到 我 的 伞 。	我 在 哪 儿 都 找 不 到 我 的 伞 。
+i said i would make her happy .	我说我会让她幸福的。	我说她会让我幸福的。	我 说 我 会 让 她 幸 福 的 。	我 说 她 会 让 我 幸 福 的 。
+i saw a light in the distance .	我看见远处有灯光。	我看见小水。	我 看 见 远 处 有 灯 光 。	我 看 见 小 水 。
+do you ever study in the library ?	你曾经在图书馆读书吗?	你在图书馆读书吗？	你 曾 经 在 图 书 馆 读 书 吗 ?	你 在 图 书 馆 读 书 吗 ？
+what do you want to tell me ?	你想跟我说什么？	你想告诉我什么？	你 想 跟 我 说 什 么 ？	你 想 告 诉 我 什 么 ？
+UNK communicate with the airport by radio .	飞行员用无线电与机场沟通。	洪水流进机场机场。	飞 行 员 用 无 线 电 与 机 场 沟 通 。	洪 水 流 进 机 场 机 场 。
+kyoto is famous for its old temples .	京都以古庙有名。	京都的老师用这个城市摄影机。	京 都 以 古 庙 有 名 。	京 都 的 老 师 用 这 个 城 市 摄 影 机 。
+tom cut himself with his knife yesterday .	汤姆昨天用刀切到自己了。	汤姆把自己的刀借用。	汤 姆 昨 天 用 刀 切 到 自 己 了 。	汤 姆 把 自 己 的 刀 借 用 。
+she bought a toy for her child .	她买了一个玩具给她的孩子。	她的玩具买了一个孩子。	她 买 了 一 个 玩 具 给 她 的 孩 子 。	她 的 玩 具 买 了 一 个 孩 子 。
+i would like to speak english fluently .	我想讲一口流利的英语。	我想把英语说得很流利。	我 想 讲 一 口 流 利 的 英 语 。	我 想 把 英 语 说 得 很 流 利 。
+he bored us with his long stories .	他长长的故事让我们觉得厌烦了。	他让我们很无聊。	他 长 长 的 故 事 让 我 们 觉 得 厌 烦 了 。	他 让 我 们 很 无 聊 。
+keep in mind that you must die .	你要想到你必须死。	坐在这种事先动你。	你 要 想 到 你 必 须 死 。	坐 在 这 种 事 先 动 你 。
+this beach is a paradise for UNK .	这个海滩是冲浪者的天堂。	这条狗是门对的体育活动。	这 个 海 滩 是 冲 浪 者 的 天 堂 。	这 条 狗 是 门 对 的 体 育 活 动 。
+she knows how to do the UNK .	她知道怎么游自由式。	她知道如何逃离。	她 知 道 怎 么 游 自 由 式 。	她 知 道 如 何 逃 离 。
+we got the meeting over with quickly .	我们很快的结束了这个会议。	我们很快就能被议到了。	我 们 很 快 的 结 束 了 这 个 会 议 。	我 们 很 快 就 能 被 议 到 了 。
+i get scared just walking past him .	只是从他旁边走过去我就觉得害怕。	我刚走了他走路。	只 是 从 他 旁 边 走 过 去 我 就 觉 得 害 怕 。	我 刚 走 了 他 走 路 。
+i was late for school this morning .	我今天早上上学迟到。	我今天早上很晚才迟到。	我 今 天 早 上 上 学 迟 到 。	我 今 天 早 上 很 晚 才 迟 到 。
+there is UNK light to take pictures .	拍照片光线不够亮。	木光客充满了照片。	拍 照 片 光 线 不 够 亮 。	木 光 客 充 满 了 照 片 。
+let 's discuss the problem with them .	让我们和他们讨论这个问题吧。	让他们讨论这个问题吧。	让 我 们 和 他 们 讨 论 这 个 问 题 吧 。	让 他 们 讨 论 这 个 问 题 吧 。
+she returned the book to the library .	她把书还给了图书馆。	她把书还给图书馆。	她 把 书 还 给 了 图 书 馆 。	她 把 书 还 给 图 书 馆 。
+i 've changed my website 's layout .	我改了一下我的网站的布局。	我改了一下我网站的版面设计。	我 改 了 一 下 我 的 网 站 的 布 局 。	我 改 了 一 下 我 网 站 的 版 面 设 计 。
+where did you have your picture taken ?	你从哪里照的相？	你照相照哪儿照的？	你 从 哪 里 照 的 相 ？	你 照 相 照 哪 儿 照 的 ？
+thank you for UNK this delicious cake .	谢谢你烤的美味蛋糕。	谢谢你逗乐这个蛋糕。	谢 谢 你 烤 的 美 味 蛋 糕 。	谢 谢 你 逗 乐 这 个 蛋 糕 。
+he is getting better bit by bit .	他一点一点地变好。	他一点点好点。	他 一 点 一 点 地 变 好 。	他 一 点 点 好 点 。
+i guess that she is over thirty .	我猜她超过三十岁了。	我猜那就是她十三岁了。	我 猜 她 超 过 三 十 岁 了 。	我 猜 那 就 是 她 十 三 岁 了 。
+one of the girls was left behind .	这些女孩当中其中一个被留下来了。	中的其中一个女孩被绑到了。	这 些 女 孩 当 中 其 中 一 个 被 留 下 来 了 。	中 的 其 中 一 个 女 孩 被 绑 到 了 。
+to what extent can he be UNK ?	可以相信他到什么程度？	目前他能够在危险吗？	可 以 相 信 他 到 什 么 程 度 ？	目 前 他 能 够 在 危 险 吗 ？
+this door is locked from the inside .	这门从里面被反锁了。	这把门面的没有被用的。	这 门 从 里 面 被 反 锁 了 。	这 把 门 面 的 没 有 被 用 的 。
+can you translate this song for me ?	你能为我翻译这首歌吗？	你能翻译这个文翻译成曲吗？	你 能 为 我 翻 译 这 首 歌 吗 ？	你 能 翻 译 这 个 文 翻 译 成 曲 吗 ？
+a card was UNK to the gift .	一张卡片被附在了礼物上。	一个礼物被拉断了。	一 张 卡 片 被 附 在 了 礼 物 上 。	一 个 礼 物 被 拉 断 了 。
+that is the office where he works .	那是他工作的办公室。	那就是他在哪里工作。	那 是 他 工 作 的 办 公 室 。	那 就 是 他 在 哪 里 工 作 。
+tell me what to do with it .	告诉我拿它做什么。	告诉我该做什么。	告 诉 我 拿 它 做 什 么 。	告 诉 我 该 做 什 么 。
+my father is suffering from a cold .	我父亲感冒了。	我父亲是个凉糊。	我 父 亲 感 冒 了 。	我 父 亲 是 个 凉 糊 。
+i think what you say is true .	我觉得你说的是真的。	我认为你说的是真的。	我 觉 得 你 说 的 是 真 的 。	我 认 为 你 说 的 是 真 的 。
+may i pay with a credit card ?	我能用信用卡支付吗？	我可以用信用卡付帐吗?	我 能 用 信 用 卡 支 付 吗 ？	我 可 以 用 信 用 卡 付 帐 吗 ?
+he was late for the UNK bus .	他错过了7点30分的车。	他迟到了马路对于马路。	他 错 过 了 7 点 3 0 分 的 车 。	他 迟 到 了 马 路 对 于 马 路 。
+have you ever been to new york ?	您已经去过纽约了吗？	你去过纽约吗？	您 已 经 去 过 纽 约 了 吗 ？	你 去 过 纽 约 吗 ？
+he flew a kite with his son .	他和他的儿子放风筝了。	他把风筝放在他儿子里。	他 和 他 的 儿 子 放 风 筝 了 。	他 把 风 筝 放 在 他 儿 子 里 。
+she gave me a smile of recognition .	她给了我一个认可的微笑。	她给了我一个认可的微笑。	她 给 了 我 一 个 认 可 的 微 笑 。	她 给 了 我 一 个 认 可 的 微 笑 。
+the UNK seems to be very pretty .	新娘好像非常漂亮。	损失到很可爱。	新 娘 好 像 非 常 漂 亮 。	损 失 到 很 可 爱 。
+she asked him to open the window .	她要求他打开窗户。	她请他把窗户打开。	她 要 求 他 打 开 窗 户 。	她 请 他 把 窗 户 打 开 。
+remember to mail this letter tomorrow morning .	明天早上记得去寄这封信。	记得明天早上寄信。	明 天 早 上 记 得 去 寄 这 封 信 。	记 得 明 天 早 上 寄 信 。
+we had a welcome party for her .	我们为她举办了一个欢迎会。	我们有一个聚会。	我 们 为 她 举 办 了 一 个 欢 迎 会 。	我 们 有 一 个 聚 会 。
+he gave me whatever help i needed .	他给了我任何我需要的帮助。	他给了我任何我需要的帮助。	他 给 了 我 任 何 我 需 要 的 帮 助 。	他 给 了 我 任 何 我 需 要 的 帮 助 。
+we 're waiting for the right time .	我们在等对的时机。	我们正在等着。	我 们 在 等 对 的 时 机 。	我 们 正 在 等 着 。
+i 'm not about to ask him .	我不想要问他。	我不是要问他。	我 不 想 要 问 他 。	我 不 是 要 问 他 。
+five years is too long to wait .	五年太漫长而无法等待。	五年太长了，等太久了。	五 年 太 漫 长 而 无 法 等 待 。	五 年 太 长 了 ， 等 太 久 了 。
+what 're your plans for the weekend ?	你周末有什么计划？	你周末有什么计划？	你 周 末 有 什 么 计 划 ？	你 周 末 有 什 么 计 划 ？
+they gave a big party for me .	他们为我办了一个盛大的派对。	他们为了一个大派对。	他 们 为 我 办 了 一 个 盛 大 的 派 对 。	他 们 为 了 一 个 大 派 对 。
+she made a new suit for him .	她做了一套新衣服给他。	她给他做了套新衣服。	她 做 了 一 套 新 衣 服 给 他 。	她 给 他 做 了 套 新 衣 服 。
+a fire broke out during the night .	在夜间发生了火灾。	晚饭后火。	在 夜 间 发 生 了 火 灾 。	晚 饭 后 火 。
+tell me the reason why she got angry .	告诉我她为什么生气。	告诉我她为什么原因为什么。	告 诉 我 她 为 什 么 生 气 。	告 诉 我 她 为 什 么 原 因 为 什 么 。
+i wish to climb mt . fuji again .	我希望再爬一次上富士山。	我希望我再爬一次富士山。	我 希 望 再 爬 一 次 上 富 士 山 。	我 希 望 我 再 爬 一 次 富 士 山 。
+he can speak french , and obviously english .	他能说法语，很明显还有英语。	他会讲英语和资语一直在英语。	他 能 说 法 语 ， 很 明 显 还 有 英 语 。	他 会 讲 英 语 和 资 语 一 直 在 英 语 。
+he did not think he needed their UNK .	他认为他不需要他们的保护。	他不认为他们的木板已经受够了。	他 认 为 他 不 需 要 他 们 的 保 护 。	他 不 认 为 他 们 的 木 板 已 经 受 够 了 。
+i want to be the one who UNK .	我想成为决策的人。	我想当然间注意一个街对面。	我 想 成 为 决 策 的 人 。	我 想 当 然 间 注 意 一 个 街 对 面 。
+tom has been struck by lightning three times .	汤姆被闪电击中过三次。	汤姆已经到雷击车了三次。	汤 姆 被 闪 电 击 中 过 三 次 。	汤 姆 已 经 到 雷 击 车 了 三 次 。
+i think you 're a really nice guy .	我认为你真的是一个好人。	我认为你是个好人。	我 认 为 你 真 的 是 一 个 好 人 。	我 认 为 你 是 个 好 人 。
+tom has a lot of experience in computers .	汤姆对电脑有很多经验。	汤姆有很多电影响。	汤 姆 对 电 脑 有 很 多 经 验 。	汤 姆 有 很 多 电 影 响 。
+tom was there UNK , but not UNK .	汤姆人在心不在。	汤姆被控制造的活方式不配。	汤 姆 人 在 心 不 在 。	汤 姆 被 控 制 造 的 活 方 式 不 配 。
+my baby began crying , asking for milk .	我的宝宝开始哭了，他想要吃奶。	我的小婴儿开始哭。	我 的 宝 宝 开 始 哭 了 ， 他 想 要 吃 奶 。	我 的 小 婴 儿 开 始 哭 。
+my parents ' UNK went through the war .	我父母那一代经历过战争。	我父母要倒于战争。	我 父 母 那 一 代 经 历 过 战 争 。	我 父 母 要 倒 于 战 争 。
+his little brother is a famous soccer player .	他弟弟是个有名的足球选手。	他的兄弟是一个足球球球名的名医生。	他 弟 弟 是 个 有 名 的 足 球 选 手 。	他 的 兄 弟 是 一 个 足 球 球 球 名 的 名 医 生 。
+i tried to convince tom to come home .	我试着说服汤姆回家。	我试过汤姆去回家。	我 试 着 说 服 汤 姆 回 家 。	我 试 过 汤 姆 去 回 家 。
+i do n't know how to handle children .	我不知道如何对待孩子。	我不知道怎么处理解。	我 不 知 道 如 何 对 待 孩 子 。	我 不 知 道 怎 么 处 理 解 。
+there are not many books on these UNK .	这些书架上没有很多书。	这些书中没有很多注册。	这 些 书 架 上 没 有 很 多 书 。	这 些 书 中 没 有 很 多 注 册 。
+he said nothing , which made her angry .	他什么也没说，这让她很生气。	他说她没有什么，对她生气。	他 什 么 也 没 说 ， 这 让 她 很 生 气 。	他 说 她 没 有 什 么 ， 对 她 生 气 。
+i ca n't believe you 're giving up .	我不能相信你在放弃。	我不敢相信你。	我 不 能 相 信 你 在 放 弃 。	我 不 敢 相 信 你 。
+i do n't like any of these records .	我不喜欢这些唱片中的任何一张。	我不喜欢任何一朵都喜欢这种类的访问题。	我 不 喜 欢 这 些 唱 片 中 的 任 何 一 张 。	我 不 喜 欢 任 何 一 朵 都 喜 欢 这 种 类 的 访 问 题 。
+some of them seem to be too difficult .	其中一些似乎太难了。	一些他们看来太困难了。	其 中 一 些 似 乎 太 难 了 。	一 些 他 们 看 来 太 困 难 了 。
+tom knows that i do n't like him .	汤姆知道我不喜欢他。	汤姆知道我不喜欢他。	汤 姆 知 道 我 不 喜 欢 他 。	汤 姆 知 道 我 不 喜 欢 他 。
+they talk as though they were old friends .	他们像老朋友一样交谈。	他们跟他们说在大学一样。	他 们 像 老 朋 友 一 样 交 谈 。	他 们 跟 他 们 说 在 大 学 一 样 。
+i felt an UNK to cry out loud .	我突然好想大叫。	我觉得客害怕大声喊叫。	我 突 然 好 想 大 叫 。	我 觉 得 客 害 怕 大 声 喊 叫 。
+let 's take a walk in the park .	让我们在公园里散步吧。	我们在公园散步吧。	让 我 们 在 公 园 里 散 步 吧 。	我 们 在 公 园 散 步 吧 。
+you do n't have to do it immediately .	你没必要马上去做。	你不必马上去做。	你 没 必 要 马 上 去 做 。	你 不 必 马 上 去 做 。
+this tie does n't go with my suit .	这条领带跟我的西装不配。	这条领带和我的西装不配。	这 条 领 带 跟 我 的 西 装 不 配 。	这 条 领 带 和 我 的 西 装 不 配 。
+it 's going to rain , for sure .	要下雨了，我敢肯定。	天快要下雨了。	要 下 雨 了 ， 我 敢 肯 定 。	天 快 要 下 雨 了 。
+i 'm getting off at the next station .	我下一站下车。	我下一站在车站。	我 下 一 站 下 车 。	我 下 一 站 在 车 站 。
+i 'm sure tom will do his best .	我确定汤姆会尽力去做。	我确定汤姆会尽力地做。	我 确 定 汤 姆 会 尽 力 去 做 。	我 确 定 汤 姆 会 尽 力 地 做 。
+you do n't have to work on sundays .	你周日不必工作。	星期天你不必日工作。	你 周 日 不 必 工 作 。	星 期 天 你 不 必 日 工 作 。
+i 'd like to go abroad one day .	我想有一天去国外。	我希望出国留学。	我 想 有 一 天 去 国 外 。	我 希 望 出 国 留 学 。
+the party was put off for a week .	派对延期了一周。	派对上升起了。	派 对 延 期 了 一 周 。	派 对 上 升 起 了 。
+bring me a sheet of paper , please .	请带一张纸给我。	请在纸上挂号。	请 带 一 张 纸 给 我 。	请 在 纸 上 挂 号 。
+what do you think of tom 's cooking ?	你觉得Tom的厨艺如何？	你认为汤姆做什么?	你 觉 得 T o m 的 厨 艺 如 何 ？	你 认 为 汤 姆 做 什 么 ?
+what do you think of japan 's economy ?	您怎样看日本的经济呢？	你觉得日本的经济怎么样？	您 怎 样 看 日 本 的 经 济 呢 ？	你 觉 得 日 本 的 经 济 怎 么 样 ？
+you should have helped him with his work .	你应该帮他工作的。	你应该帮他做这个工作的。	你 应 该 帮 他 工 作 的 。	你 应 该 帮 他 做 这 个 工 作 的 。
+the child has a case of chicken UNK .	这孩子有水UNK的症状。	这孩子有10万一个银行。	这 孩 子 有 水 UNK 的 症 状 。	这 孩 子 有 1 0 万 一 个 银 行 。
+he is n't going to buy a camera .	他不打算买一个摄像机。	他不要买一台相机。	他 不 打 算 买 一 个 摄 像 机 。	他 不 要 买 一 台 相 机 。
+you ca n't speak english , can you ?	你不会说英语，是吗？	你不会说英语，是吗？	你 不 会 说 英 语 ， 是 吗 ？	你 不 会 说 英 语 ， 是 吗 ？
+tom made his UNK eat in the dark .	汤姆让他的UNK人们在黑暗下进餐。	汤姆让他的食物在黑板上吃。	汤 姆 让 他 的 UNK 人 们 在 黑 暗 下 进 餐 。	汤 姆 让 他 的 食 物 在 黑 板 上 吃 。
+the situation is improving , so UNK up !	情况正在改善，所以UNK作起来！	情况一地渐地区别害!	情 况 正 在 改 善 ， 所 以 UNK 作 起 来 ！	情 况 一 地 渐 地 区 别 害 !
+i would like to improve my english pronunciation .	我想改善我的英语发音。	我想要我的一名字很痛的国人。	我 想 改 善 我 的 英 语 发 音 。	我 想 要 我 的 一 名 字 很 痛 的 国 人 。
+i do n't want to eat lunch now .	我现在不想吃午饭。	我现在不想吃午饭。	我 现 在 不 想 吃 午 饭 。	我 现 在 不 想 吃 午 饭 。
+you will be able to see him tomorrow .	明天你可以看到他。	你明天可以看到他。	明 天 你 可 以 看 到 他 。	你 明 天 可 以 看 到 他 。
+it may be that he likes his job .	他可能喜欢他的工作。	他可能是他的工作。	他 可 能 喜 欢 他 的 工 作 。	他 可 能 是 他 的 工 作 。
+i do n't know why they are fighting .	我不知道他们为什么在打架。	我不知道他们为什么在打封信。	我 不 知 道 他 们 为 什 么 在 打 架 。	我 不 知 道 他 们 为 什 么 在 打 封 信 。
+i 'm awfully sorry that i was late .	非常抱歉，我迟到了。	我很抱歉那么晚。	非 常 抱 歉 ， 我 迟 到 了 。	我 很 抱 歉 那 么 晚 。
+he 's not at all afraid of snakes .	他一点也不怕蛇。	他根本不害怕蛇。	他 一 点 也 不 怕 蛇 。	他 根 本 不 害 怕 蛇 。
+i had a really bad UNK last night .	昨晚我做了一个可怕的UNK梦。	我昨晚有个坏的糟糕。	昨 晚 我 做 了 一 个 可 怕 的 UNK 梦 。	我 昨 晚 有 个 坏 的 糟 糕 。
+i do n't want to wait that long .	我不想等那么久。	我不想等那么长。	我 不 想 等 那 么 久 。	我 不 想 等 那 么 长 。
+what 's your favorite way to cook potatoes ?	你最喜欢用什么方式煮马铃薯？	你最喜欢什么方法煮豆子？	你 最 喜 欢 用 什 么 方 式 煮 马 铃 薯 ？	你 最 喜 欢 什 么 方 法 煮 豆 子 ？
+she 's almost the same height as you .	她差不多和你一样高。	她几乎和你一样高大。	她 差 不 多 和 你 一 样 高 。	她 几 乎 和 你 一 样 高 大 。
+i 'll take you to the bus stop .	我会带你到公交车站。	我会把你停去公车站。	我 会 带 你 到 公 交 车 站 。	我 会 把 你 停 去 公 车 站 。
+why do n't we get out of here ?	我们为什么不离开这里？	为什么不我们出来这里？	我 们 为 什 么 不 离 开 这 里 ？	为 什 么 不 我 们 出 来 这 里 ？
+the man and his wife helped each other .	这男人和他妻子互相帮助。	这位男人互帮助他的妻子帮助。	这 男 人 和 他 妻 子 互 相 帮 助 。	这 位 男 人 互 帮 助 他 的 妻 子 帮 助 。
+tomorrow 's going to be a big day .	明天是个大日子。	明天天是一天大的。	明 天 是 个 大 日 子 。	明 天 天 是 一 天 大 的 。
+people should understand that the world is changing .	人应该明白世界在变。	人本来应该在世界上的。	人 应 该 明 白 世 界 在 变 。	人 本 来 应 该 在 世 界 上 的 。
+she insisted that i should see the doctor .	她坚持让我去看医生。	她坚持认为我应该去看医生。	她 坚 持 让 我 去 看 医 生 。	她 坚 持 认 为 我 应 该 去 看 医 生 。
+UNK UNK UNK the price of many goods .	大量生产降低许多商品的价格。	木箭发牢固定的价格。	大 量 生 产 降 低 许 多 商 品 的 价 格 。	木 箭 发 牢 固 定 的 价 格 。
+tom is going out this afternoon with mary .	今天下午汤姆和玛丽会一起出去。	汤姆今天下午出去。	今 天 下 午 汤 姆 和 玛 丽 会 一 起 出 去 。	汤 姆 今 天 下 午 出 去 。
+she did n't want to speak to anyone .	她不想跟任何人说话。	她不想跟任何人说话。	她 不 想 跟 任 何 人 说 话 。	她 不 想 跟 任 何 人 说 话 。
+i 'm too tired to walk any further .	我累得再也走不动了。	我对走来说太累了，还不能走。	我 累 得 再 也 走 不 动 了 。	我 对 走 来 说 太 累 了 ， 还 不 能 走 。
+the UNK means of travel is by plane .	旅行最快的方式是乘飞机。	携款潜水对旅行中升是旅行的。	旅 行 最 快 的 方 式 是 乘 飞 机 。	携 款 潜 水 对 旅 行 中 升 是 旅 行 的 。
+he UNK a plane bound for los angeles .	他登上了前往洛杉矶的飞机。	他木板注册了一张小偷的钱。	他 登 上 了 前 往 洛 杉 矶 的 飞 机 。	他 木 板 注 册 了 一 张 小 偷 的 钱 。
+the elevator seems to be out of order .	电梯好像故障了。	电梯上看起来是迅速。	电 梯 好 像 故 障 了 。	电 梯 上 看 起 来 是 迅 速 。
+tom refused to even listen to my suggestions .	汤姆甚至拒绝听我的建议。	汤姆拒绝让我建议提议。	汤 姆 甚 至 拒 绝 听 我 的 建 议 。	汤 姆 拒 绝 让 我 建 议 提 议 。
+he was n't able to attend the party .	他无法参加这个派对。	他没能参加这个派对。	他 无 法 参 加 这 个 派 对 。	他 没 能 参 加 这 个 派 对 。
+he got down the book from the shelf .	他从架上拿下书。	他把书放到了书架上。	他 从 架 上 拿 下 书 。	他 把 书 放 到 了 书 架 上 。
+i 'm getting off at the next stop .	我将在下一站下车。	我下一站在下车。	我 将 在 下 一 站 下 车 。	我 下 一 站 在 下 车 。
+i 'm getting off at the next station .	我会在下一站下车。	我下一站在车站。	我 会 在 下 一 站 下 车 。	我 下 一 站 在 车 站 。
+UNK UNK was blind , deaf and UNK .	海伦凯勒眼盲，耳聋，又UNK。	木箭发牢固，另一条活着运。	海 伦 凯 勒 眼 盲 ， 耳 聋 ， 又 UNK 。	木 箭 发 牢 固 ， 另 一 条 活 着 运 。
+the sum of 5 and 3 is 8 .	五和三的总和是八。	数十七点钟之八月份。	五 和 三 的 总 和 是 八 。	数 十 七 点 钟 之 八 月 份 。
+we 'll think about it in due time .	到时候我们再考虑吧。	我们会议于此时候于此。	到 时 候 我 们 再 考 虑 吧 。	我 们 会 议 于 此 时 候 于 此 。
+do n't let tom lie on the floor .	别让汤姆躺在地板上。	别让汤姆躺在地上躺。	别 让 汤 姆 躺 在 地 板 上 。	别 让 汤 姆 躺 在 地 上 躺 。
+what is the UNK of your new book ?	你新书的书名是什么？	你的新书充分被什么？	你 新 书 的 书 名 是 什 么 ？	你 的 新 书 充 分 被 什 么 ？
+i get two hour 's exercise every day .	我每天做两个小时的练习。	我每天做两个小时的运动。	我 每 天 做 两 个 小 时 的 练 习 。	我 每 天 做 两 个 小 时 的 运 动 。
+i do n't want to fail my exams .	我不想不及格。	我不想考试失败。	我 不 想 不 及 格 。	我 不 想 考 试 失 败 。
+i was n't quite sure what to say .	我不太确定要说什么。	我不太确定要说什么。	我 不 太 确 定 要 说 什 么 。	我 不 太 确 定 要 说 什 么 。
+tom wo n't let you in his house .	汤姆不会让你进他的屋子。	汤姆不让你进他家。	汤 姆 不 会 让 你 进 他 的 屋 子 。	汤 姆 不 让 你 进 他 家 。
+the school is five kilometers from my home .	学校离我家有五公里远。	我学校在家里等了五分。	学 校 离 我 家 有 五 公 里 远 。	我 学 校 在 家 里 等 了 五 分 。
+london 's climate differs from that of tokyo .	伦敦的气候和东京的不同。	伦敦的气候不和东京。	伦 敦 的 气 候 和 东 京 的 不 同 。	伦 敦 的 气 候 不 和 东 京 。
+your parents did n't come , did they ?	你的父母没来，是吗？	你父母不来，是吗？	你 的 父 母 没 来 ， 是 吗 ？	你 父 母 不 来 ， 是 吗 ？
+excuse me for opening your letter by mistake .	对不起,我错开了你的信。	对不起打扰你的错误。	对 不 起 , 我 错 开 了 你 的 信 。	对 不 起 打 扰 你 的 错 误 。
+you do n't have to answer right away .	你不用马上回答。	你不必立刻回答。	你 不 用 马 上 回 答 。	你 不 必 立 刻 回 答 。
+she did n't like living in the city .	她不喜欢住在城市里。	她不喜欢住在这个城市。	她 不 喜 欢 住 在 城 市 里 。	她 不 喜 欢 住 在 这 个 城 市 。
+the number of cars is on the increase .	汽车的数量在增长。	汽车口处理数码。	汽 车 的 数 量 在 增 长 。	汽 车 口 处 理 数 码 。
+i have n't seen her since last month .	我从上个月开始就没有看到她了。	我从上个月开始就没有看过她。	我 从 上 个 月 开 始 就 没 有 看 到 她 了 。	我 从 上 个 月 开 始 就 没 有 看 过 她 。
+tom did n't want to talk to anyone .	汤姆不想跟任何人说话。	汤姆不想跟任何人说话。	汤 姆 不 想 跟 任 何 人 说 话 。	汤 姆 不 想 跟 任 何 人 说 话 。
+what time does the train arrive at yokohama ?	火车什么时候到横滨？	火车什么时候到横滨？	火 车 什 么 时 候 到 横 滨 ？	火 车 什 么 时 候 到 横 滨 ？
+you 're not going in the right direction .	你要南UNK北UNK了。	你一点方向右就行了。	你 要 南 UNK 北 UNK 了 。	你 一 点 方 向 右 就 行 了 。
+he postponed leaving for hokkaido until next month .	他延迟到下个月去北海道。	他推迟到了下个月。	他 延 迟 到 下 个 月 去 北 海 道 。	他 推 迟 到 了 下 个 月 。
+at first , i thought i was sick .	一开始，我以为我病了。	起初我认为我病了。	一 开 始 ， 我 以 为 我 病 了 。	起 初 我 认 为 我 病 了 。
+i promised him that i would come today .	我答应他我今天会来。	我答应他今天会来的。	我 答 应 他 我 今 天 会 来 。	我 答 应 他 今 天 会 来 的 。
+we had three tries and failed each time .	我们试了三次，都失败了。	我们有三个时候试的时候，试试试试。	我 们 试 了 三 次 ， 都 失 败 了 。	我 们 有 三 个 时 候 试 的 时 候 ， 试 试 试 试 。
+i still prefer to write letters by hand .	我更喜欢用手写信。	我仍旧不喜欢用信运送的信。	我 更 喜 欢 用 手 写 信 。	我 仍 旧 不 喜 欢 用 信 运 送 的 信 。
+it 's no good trying to UNK her .	试图劝她是没有用的。	盯著她的没有预定别人。	试 图 劝 她 是 没 有 用 的 。	盯 著 她 的 没 有 预 定 别 人 。
+they did n't know what to do first .	他们不知道先做什么。	他们不知道该怎么办。	他 们 不 知 道 先 做 什 么 。	他 们 不 知 道 该 怎 么 办 。
+some of my friends can speak english well .	我的一些朋友英语说得很好。	我的一些朋友会讲英语。	我 的 一 些 朋 友 英 语 说 得 很 好 。	我 的 一 些 朋 友 会 讲 英 语 。
+i want to go to see a movie .	我要去看电影。	我想去看电影。	我 要 去 看 电 影 。	我 想 去 看 电 影 。
+to UNK is human , to forgive divine .	人皆有错，唯圣者能UNK。	军队害害怕减弱了。	人 皆 有 错 ， 唯 圣 者 能 UNK 。	军 队 害 害 怕 减 弱 了 。
+tom has loved mary for a long time .	汤姆爱玛丽很久了。	汤姆爱玛丽很长时间。	汤 姆 爱 玛 丽 很 久 了 。	汤 姆 爱 玛 丽 很 长 时 间 。
+it is n't necessary to answer that letter .	没有必要回那封信。	它没有必要回答。	没 有 必 要 回 那 封 信 。	它 没 有 必 要 回 答 。
+it is high time you were in bed .	你早该睡了。	那时你在床上。	你 早 该 睡 了 。	那 时 你 在 床 上 。
+tom seems to be much UNK than me .	汤姆看来比我高兴。	汤姆看来比我紧张木。	汤 姆 看 来 比 我 高 兴 。	汤 姆 看 来 比 我 紧 张 木 。
+i 've had to do everything by myself .	我必须靠自己做所有事。	我必须自己做任何一切。	我 必 须 靠 自 己 做 所 有 事 。	我 必 须 自 己 做 任 何 一 切 。
+what do you think i 've been doing ?	你觉得我之前在做什么？	你觉得我在做什么？	你 觉 得 我 之 前 在 做 什 么 ？	你 觉 得 我 在 做 什 么 ？
+we are in the UNK of UNK energy .	我们身在原子能时代。	我们在马路上投入充满了严重的损失。	我 们 身 在 原 子 能 时 代 。	我 们 在 马 路 上 投 入 充 满 了 严 重 的 损 失 。
+we failed due to a lack of UNK .	我们因缺乏准备而失败了。	我们没有被吓到达清楚的损失。	我 们 因 缺 乏 准 备 而 失 败 了 。	我 们 没 有 被 吓 到 达 清 楚 的 损 失 。
+i 'm getting more and more gray hair .	我的白发越来越多。	我和更多发的头发一点发。	我 的 白 发 越 来 越 多 。	我 和 更 多 发 的 头 发 一 点 发 。
+we have to find out where tom is .	我们必须查明汤姆在哪里。	我们必须找到汤姆在哪里。	我 们 必 须 查 明 汤 姆 在 哪 里 。	我 们 必 须 找 到 汤 姆 在 哪 里 。
+i 'll never forget what you told me .	我将永远不会忘记你告诉过我的话。	我永远不会忘记告诉我你。	我 将 永 远 不 会 忘 记 你 告 诉 过 我 的 话 。	我 永 远 不 会 忘 记 告 诉 我 你 。
+i did n't like beer at that time .	那时候我不喜欢啤酒。	我一点也不喜欢啤酒。	那 时 候 我 不 喜 欢 啤 酒 。	我 一 点 也 不 喜 欢 啤 酒 。
+you ought not to have UNK the secret .	你本不该透露秘密的。	你不应该要离开这个秘密。	你 本 不 该 透 露 秘 密 的 。	你 不 应 该 要 离 开 这 个 秘 密 。
+i 'm afraid you have the wrong number .	我恐怕您打错电话了。	我怕你最好的号码。	我 恐 怕 您 打 错 电 话 了 。	我 怕 你 最 好 的 号 码 。
+my sister has made remarkable progress in english .	我妹妹的英语有了明显的进步。	我妹妹有充分的英语有充分的进步。	我 妹 妹 的 英 语 有 了 明 显 的 进 步 。	我 妹 妹 有 充 分 的 英 语 有 充 分 的 进 步 。
+you had better wait until the police come .	你最好等到警察前来。	你最好等到警察来。	你 最 好 等 到 警 察 前 来 。	你 最 好 等 到 警 察 来 。
+in UNK with tokyo , london is small .	和东京比，伦敦很小。	米饭设法在东京，伦敦很小。	和 东 京 比 ， 伦 敦 很 小 。	米 饭 设 法 在 东 京 ， 伦 敦 很 小 。
+science begins when you ask why and how .	为何如何？你疑问的当下就是科学的开端。	科学好问你为什么自己？	为 何 如 何 ？ 你 疑 问 的 当 下 就 是 科 学 的 开 端 。	科 学 好 问 你 为 什 么 自 己 ？
+can i use your dictionary for a minute ?	我能用一下你的字典吗？	我能用你的字典可以用好用一分字典吗？	我 能 用 一 下 你 的 字 典 吗 ？	我 能 用 你 的 字 典 可 以 用 好 用 一 分 字 典 吗 ？
+do you have this in a bigger size ?	你有比这个再大一点的尺寸吗?	你有这个大大楼吗？	你 有 比 这 个 再 大 一 点 的 尺 寸 吗 ?	你 有 这 个 大 大 楼 吗 ？
+i do n't know where tom was going .	我不知道汤姆往哪去了。	我不知道汤姆去哪里。	我 不 知 道 汤 姆 往 哪 去 了 。	我 不 知 道 汤 姆 去 哪 里 。
+i saw a dirty dog enter the garden .	我看见一条脏狗进了花园。	我看见了一条狗的脏花园。	我 看 见 一 条 脏 狗 进 了 花 园 。	我 看 见 了 一 条 狗 的 脏 花 园 。
+you have a really good sense of direction .	你的方向感很好。	你一点的意思感觉。	你 的 方 向 感 很 好 。	你 一 点 的 意 思 感 觉 。
+i have to stay in bed all day .	我不得不一整天都待在床上。	我一整天都必须呆在床上。	我 不 得 不 一 整 天 都 待 在 床 上 。	我 一 整 天 都 必 须 呆 在 床 上 。
+i hope i can see you at christmas .	我期望能在圣诞节见到你。	我希望能在圣诞节能见到你。	我 期 望 能 在 圣 诞 节 见 到 你 。	我 希 望 能 在 圣 诞 节 能 见 到 你 。
+she goes to a girls ' high school .	她上女子高中。	她走路去高中的女孩。	她 上 女 子 高 中 。	她 走 路 去 高 中 的 女 孩 。
+i ca n't believe tom is getting married .	我不能相信汤姆要结婚了。	我不敢相信汤姆在结婚。	我 不 能 相 信 汤 姆 要 结 婚 了 。	我 不 敢 相 信 汤 姆 在 结 婚 。
+that just does n't make sense to me .	那只是对我来说没有意义。	那只是我对的。	那 只 是 对 我 来 说 没 有 意 义 。	那 只 是 我 对 的 。
+i 'd like to pay by credit card .	我想用信用卡支付。	我想用信用卡付帐。	我 想 用 信 用 卡 支 付 。	我 想 用 信 用 卡 付 帐 。
+will you tell me why you like her ?	你能告诉我你为什么喜欢她吗？	你能告诉我她为什么吗？	你 能 告 诉 我 你 为 什 么 喜 欢 她 吗 ？	你 能 告 诉 我 她 为 什 么 吗 ？
+i ca n't figure out what he means .	我不懂他的意思。	我不了解他这个能演奏的感情。	我 不 懂 他 的 意 思 。	我 不 了 解 他 这 个 能 演 奏 的 感 情 。
+he told me the story of his life .	他给我讲述了他的一生。	他告诉我他的故事。	他 给 我 讲 述 了 他 的 一 生 。	他 告 诉 我 他 的 故 事 。
+i 'll miss you when you 're gone .	你走后，我会想念你的。	当你走了。	你 走 后 ， 我 会 想 念 你 的 。	当 你 走 了 。
+can you imagine walking around on the moon ?	你可以想象在月球上行走吗？	你能想上路群？	你 可 以 想 象 在 月 球 上 行 走 吗 ？	你 能 想 上 路 群 ？
+it 's easy for monkeys to climb trees .	猴子爬树容易。	树很容易爬树立树干上。	猴 子 爬 树 容 易 。	树 很 容 易 爬 树 立 树 干 上 。
+you are the master of your own UNK .	你才是自己命运的主人。	你得到你自己企图刺客。	你 才 是 自 己 命 运 的 主 人 。	你 得 到 你 自 己 企 图 刺 客 。
+air quality has UNK these past few years .	这些年空气质量恶化了。	空调都有点票。	这 些 年 空 气 质 量 恶 化 了 。	空 调 都 有 点 票 。
+he has UNK , so he works hard .	他有抱负，所以他很努力工作。	他充分成这么辛苦地工作。	他 有 抱 负 ， 所 以 他 很 努 力 工 作 。	他 充 分 成 这 么 辛 苦 地 工 作 。
+you 're really brave , are n't you ?	你很勇敢，不是吗？	你真的很勇敢，不是吗？	你 很 勇 敢 ， 不 是 吗 ？	你 真 的 很 勇 敢 ， 不 是 吗 ？
+tom could n't tell mary everything he knew .	汤姆不能告诉玛丽他知道的所有事。	汤姆不能告诉玛丽所知道的一切。	汤 姆 不 能 告 诉 玛 丽 他 知 道 的 所 有 事 。	汤 姆 不 能 告 诉 玛 丽 所 知 道 的 一 切 。
+he lost a fortune in the stock market .	他玩股票赔了。	他在市场上投财产政长。	他 玩 股 票 赔 了 。	他 在 市 场 上 投 财 产 政 长 。
+she left her son a lot of money .	她留了很多钱给她儿子。	她给她儿子离开了很多钱。	她 留 了 很 多 钱 给 她 儿 子 。	她 给 她 儿 子 离 开 了 很 多 钱 。
+the only thing i have now are memories .	我现在仅有的东西就是我的记忆了。	刚刚刚才我最不记得不错的信。	我 现 在 仅 有 的 东 西 就 是 我 的 记 忆 了 。	刚 刚 刚 才 我 最 不 记 得 不 错 的 信 。
+my boss assigned the hard job to me .	我老板把艰巨的任务指派给了我。	我的老板适合这份工作老板这份工作。	我 老 板 把 艰 巨 的 任 务 指 派 给 了 我 。	我 的 老 板 适 合 这 份 工 作 老 板 这 份 工 作 。
+do n't forget to put out the fire .	不要忘了熄火。	不要忘记关火。	不 要 忘 了 熄 火 。	不 要 忘 记 关 火 。
+i do n't want him to touch me .	我不想被他感动。	我不想让他联络。	我 不 想 被 他 感 动 。	我 不 想 让 他 联 络 。
+he helped me to get over the difficulties .	他帮助我克服了困难。	他帮我重力量。	他 帮 助 我 克 服 了 困 难 。	他 帮 我 重 力 量 。
+i never thought it would come to this .	我从没想过它会变成这样。	我从来没想到这个。	我 从 没 想 过 它 会 变 成 这 样 。	我 从 来 没 想 到 这 个 。
+i 'm planning to stay at the hotel .	我打算待在旅馆里。	我打算留在这酒店里。	我 打 算 待 在 旅 馆 里 。	我 打 算 留 在 这 酒 店 里 。
+UNK , it 's going to rain tomorrow .	明天肯定会下雨。	木材料要下雨了。	明 天 肯 定 会 下 雨 。	木 材 料 要 下 雨 了 。
+in esperanto there are only UNK grammar rules .	世界语只有16个语法规则。	4点是胡子的体育活容易。	世 界 语 只 有 1 6 个 语 法 规 则 。	4 点 是 胡 子 的 体 育 活 容 易 。
+it turned out that the rumor was false .	谣言[最后]证明是假的。	谣言[最后]证明是假的。	谣 言 [ 最 后 ] 证 明 是 假 的 。	谣 言 [ 最 后 ] 证 明 是 假 的 。
+i guess i have n't made myself clear .	我想我没有把话说清楚。	我猜这些我自己不起急。	我 想 我 没 有 把 话 说 清 楚 。	我 猜 这 些 我 自 己 不 起 急 。
+you should 've rejected such an UNK proposal .	你本该拒绝一个那么不公平的提议。	你应该拒绝这么建议的。	你 本 该 拒 绝 一 个 那 么 不 公 平 的 提 议 。	你 应 该 拒 绝 这 么 建 议 的 。
+i think i 'm going to go now .	我认为我现在该走了。	我认为我现在去。	我 认 为 我 现 在 该 走 了 。	我 认 为 我 现 在 去 。
+i 'd like to have cake for dessert .	我想吃蛋糕当点心。	我想吃点蛋糕。	我 想 吃 蛋 糕 当 点 心 。	我 想 吃 点 蛋 糕 。
+you do n't have to take an examination .	你不需要考试。	你不必要提考试。	你 不 需 要 考 试 。	你 不 必 要 提 考 试 。
+i wish that i could speak french better .	我希望我能说法语说得更好。	但愿我会说法语更好。	我 希 望 我 能 说 法 语 说 得 更 好 。	但 愿 我 会 说 法 语 更 好 。
+do n't forget to take the UNK UNK .	别忘了带上急救箱。	不要忘记要客切方式设计。	别 忘 了 带 上 急 救 箱 。	不 要 忘 记 要 客 切 方 式 设 计 。
+she wants to know who sent the flowers .	她想知道是谁送的花。	她想知道谁寄给花。	她 想 知 道 是 谁 送 的 花 。	她 想 知 道 谁 寄 给 花 。
+do you guys want to go with me ?	你们要和我一起去吗？	你们想和我一起去吗？	你 们 要 和 我 一 起 去 吗 ？	你 们 想 和 我 一 起 去 吗 ？
+her grandmother lived to be UNK years old .	她的祖母活到了88岁。	她的祖母活到马路活力了。	她 的 祖 母 活 到 了 8 8 岁 。	她 的 祖 母 活 到 马 路 活 力 了 。
+his mother did n't want to do it .	他的母亲不想做。	他的母亲不想去做。	他 的 母 亲 不 想 做 。	他 的 母 亲 不 想 去 做 。
+may i see your boarding pass , please ?	请让我看看您的登机证好吗?	请看看看您的机会打电话号码吗？	请 让 我 看 看 您 的 登 机 证 好 吗 ?	请 看 看 看 您 的 机 会 打 电 话 号 码 吗 ？
+the telephone was invented in UNK by bell .	电话于1876年由贝尔所发明。	电话是由贝尔发明的。	电 话 于 1 8 7 6 年 由 贝 尔 所 发 明 。	电 话 是 由 贝 尔 发 明 的 。
+i ca n't make out what he wants .	我不明白他想要什么。	我不能让他想出什么。	我 不 明 白 他 想 要 什 么 。	我 不 能 让 他 想 出 什 么 。
+you really are rude , are n't you ?	你真的很粗鲁，不是吗？	你真的是不是吗？	你 真 的 很 粗 鲁 ， 不 是 吗 ？	你 真 的 是 不 是 吗 ？
+could you teach me how to play the piano ?	您能教我弹钢琴吗？	你能教我怎么弹钢琴吗？	您 能 教 我 弹 钢 琴 吗 ？	你 能 教 我 怎 么 弹 钢 琴 吗 ？
+would you please have a look at these papers ?	请你看看这些文件。	你可以给我一些文件好说吗？	请 你 看 看 这 些 文 件 。	你 可 以 给 我 一 些 文 件 好 说 吗 ？
+it is definite that he will go to america .	他肯定要去美国。	他将正在美国最终去美国。	他 肯 定 要 去 美 国 。	他 将 正 在 美 国 最 终 去 美 国 。
+which do you like better , spring or UNK ?	春天和秋天，你更喜欢哪个？	你春天喜欢哪个，采取得更喜欢哪个？	春 天 和 秋 天 ， 你 更 喜 欢 哪 个 ？	你 春 天 喜 欢 哪 个 ， 采 取 得 更 喜 欢 哪 个 ？
+i always thought that tom was a bit different .	我以前总认为汤姆是有一些与众不同的。	我一直想跟汤姆一点。	我 以 前 总 认 为 汤 姆 是 有 一 些 与 众 不 同 的 。	我 一 直 想 跟 汤 姆 一 点 。
+she was holding a small parasol in her hand .	她手里握着一把小阳伞。	她握着一把小阳伞。	她 手 里 握 着 一 把 小 阳 伞 。	她 握 着 一 把 小 阳 伞 。
+he does n't UNK that he 's UNK deaf .	他不知道他自己五音不全。	他不担心他面对待久。	他 不 知 道 他 自 己 五 音 不 全 。	他 不 担 心 他 面 对 待 久 。
+he looks a bit tired , does n't he ?	他看起来有点累，不是吗？	他看起来很疲倦，不是吗？	他 看 起 来 有 点 累 ， 不 是 吗 ？	他 看 起 来 很 疲 倦 ， 不 是 吗 ？
+we 'll be in boston for another three weeks .	我们还会在波士顿待三个月。	我们将在三个星期一将要再住在波士顿。	我 们 还 会 在 波 士 顿 待 三 个 月 。	我 们 将 在 三 个 星 期 一 将 要 再 住 在 波 士 顿 。
+it would take forever for me to explain everything .	要都解释的话，需要一辈子的时间。	为我感到所有的事感到羞耻。	要 都 解 释 的 话 ， 需 要 一 辈 子 的 时 间 。	为 我 感 到 所 有 的 事 感 到 羞 耻 。
+i 'd like a glass of water , please .	请给我一杯水。	我要一杯水，谢谢。	请 给 我 一 杯 水 。	我 要 一 杯 水 ， 谢 谢 。
+you can drive a car , ca n't you ?	你会开车，不是吗?	你会开车，不是吗？	你 会 开 车 ， 不 是 吗 ?	你 会 开 车 ， 不 是 吗 ？
+you ought to have come to see me yesterday .	你昨天应该来看我的。	你昨天应该来看我。	你 昨 天 应 该 来 看 我 的 。	你 昨 天 应 该 来 看 我 。
+tom told me that he had lost his textbook .	汤姆告诉我他丢了课本。	汤姆告诉我他所以他的教育目。	汤 姆 告 诉 我 他 丢 了 课 本 。	汤 姆 告 诉 我 他 所 以 他 的 教 育 目 。
+you ca n't understand this sentence , can you ?	你不懂这句句子，不是吗？	你不能了解这句话，是吗？	你 不 懂 这 句 句 子 ， 不 是 吗 ？	你 不 能 了 解 这 句 话 ， 是 吗 ？
+it 's a nice day , is n't it ?	美丽的一天，不是吗？	今天天气很好，不是吗？	美 丽 的 一 天 ， 不 是 吗 ？	今 天 天 气 很 好 ， 不 是 吗 ？
+i should have known better than to call him .	早知道我不应该打电话给他。	我该知道他更好的明白。	早 知 道 我 不 应 该 打 电 话 给 他 。	我 该 知 道 他 更 好 的 明 白 。
+they arrived in osaka at the beginning of may .	他们五月初到了大阪。	他们在大阪之前到大阪程。	他 们 五 月 初 到 了 大 阪 。	他 们 在 大 阪 之 前 到 大 阪 程 。
+there are a lot of eggs in the box .	这个盒子里有很多蛋。	盒子里有很多蛋。	这 个 盒 子 里 有 很 多 蛋 。	盒 子 里 有 很 多 蛋 。
+i often use UNK to access my computers UNK .	我经常使用SSUNK来远程连接到我的电脑。	我经常注意到我的酒临着电话。	我 经 常 使 用 S S UNK 来 远 程 连 接 到 我 的 电 脑 。	我 经 常 注 意 到 我 的 酒 临 着 电 话 。
+he 's already too far away to hear us .	他已经离得太远听不到我们了。	他已经太紧了，对我们说话来说，就走了。	他 已 经 离 得 太 远 听 不 到 我 们 了 。	他 已 经 太 紧 了 ， 对 我 们 说 话 来 说 ， 就 走 了 。
+he rushed into the room with his coat on .	他穿着衣服冲进房间。	他急忙带著房间穿上了大衣。	他 穿 着 衣 服 冲 进 房 间 。	他 急 忙 带 著 房 间 穿 上 了 大 衣 。
+he wrote this book at the age of twenty .	他在20岁的时候写了这本书。	他在5年中这本书长在一本书。	他 在 2 0 岁 的 时 候 写 了 这 本 书 。	他 在 5 年 中 这 本 书 长 在 一 本 书 。
+could you put this report into italian for me ?	你可以为我把这份报告翻译成意大利文吗？	你能把这份报告语说吗？	你 可 以 为 我 把 这 份 报 告 翻 译 成 意 大 利 文 吗 ？	你 能 把 这 份 报 告 语 说 吗 ？
+i 'll take him with me to the hospital .	我会带他跟我一起去医院。	我会跟他共用我去医院。	我 会 带 他 跟 我 一 起 去 医 院 。	我 会 跟 他 共 用 我 去 医 院 。
+i ca n't UNK the UNK of the problem .	我无法找到问题的根源。	我受不了这个问题。	我 无 法 找 到 问 题 的 根 源 。	我 受 不 了 这 个 问 题 。
+she was asked to write her name in ink .	她被要求用墨水写下她的名字。	她被要求在她的名字被用了。	她 被 要 求 用 墨 水 写 下 她 的 名 字 。	她 被 要 求 在 她 的 名 字 被 用 了 。
+prices are double what they were two years ago .	价格是两年前的两倍。	价钱是两年前的两倍。	价 格 是 两 年 前 的 两 倍 。	价 钱 是 两 年 前 的 两 倍 。
+are you saying tom 's hiding something from us ?	你说Tom对我们隐藏了一些事情？	你在说汤姆什么来说，我们都是吗？	你 说 T o m 对 我 们 隐 藏 了 一 些 事 情 ？	你 在 说 汤 姆 什 么 来 说 ， 我 们 都 是 吗 ？
+i got over the difficulty with my UNK UNK .	我凭UNK性克服了困难。	我把这种木匠力被弄糊忍了。	我 凭 UNK 性 克 服 了 困 难 。	我 把 这 种 木 匠 力 被 弄 糊 忍 了 。
+what 's your favorite place to vacation in japan ?	你最喜欢去日本的什么地方度假？	你最喜欢哪里度假？	你 最 喜 欢 去 日 本 的 什 么 地 方 度 假 ？	你 最 喜 欢 哪 里 度 假 ？
+hurry up , or you will miss the train .	快点，不然你就要错过火车了。	快点，否则你会错过火车。	快 点 ， 不 然 你 就 要 错 过 火 车 了 。	快 点 ， 否 则 你 会 错 过 火 车 。
+tom can swim faster than anyone else i know .	汤姆是我认识的人当中游泳最快的。	汤姆游泳可以游得比我不知道。	汤 姆 是 我 认 识 的 人 当 中 游 泳 最 快 的 。	汤 姆 游 泳 可 以 游 得 比 我 不 知 道 。
+she discovered that she had run out of salt .	她发现她已经断盐了。	她发现了她还没有盐了。	她 发 现 她 已 经 断 盐 了 。	她 发 现 了 她 还 没 有 盐 了 。
+tom told me that his father had passed away .	汤姆告诉我他父亲去世了。	汤姆告诉我他父亲有走路。	汤 姆 告 诉 我 他 父 亲 去 世 了 。	汤 姆 告 诉 我 他 父 亲 有 走 路 。
+is it ok if i go out with tom ?	我跟汤姆外出行吗？	如果我和汤姆去了吗？	我 跟 汤 姆 外 出 行 吗 ？	如 果 我 和 汤 姆 去 了 吗 ？
+we speak the same language , do n't we ?	我们说的是同样的语言，不是吗？	我们跟我们同一样的语言，不是吗？	我 们 说 的 是 同 样 的 语 言 ， 不 是 吗 ？	我 们 跟 我 们 同 一 样 的 语 言 ， 不 是 吗 ？
+i 'm sorry i did n't make myself clear .	对不起，我没讲清楚。	对不起我没有清楚我清楚。	对 不 起 ， 我 没 讲 清 楚 。	对 不 起 我 没 有 清 楚 我 清 楚 。
+i want a UNK . i need to relax .	我想要按摩。我需要放松。	我想预定要紧张休息。	我 想 要 按 摩 。 我 需 要 放 松 。	我 想 预 定 要 紧 张 休 息 。
+how come you know so much about japanese history ?	你为什么知道这么多的日本历史?	你知道如何大新历史有多少钱？	你 为 什 么 知 道 这 么 多 的 日 本 历 史 ?	你 知 道 如 何 大 新 历 史 有 多 少 钱 ？
+i 'd like to send this package to japan .	我想把这个包裹寄到日本。	我想寄这个包裹。	我 想 把 这 个 包 裹 寄 到 日 本 。	我 想 寄 这 个 包 裹 。
+he loves her . she loves him , too .	他爱她。她也爱他。	他爱她，她也爱他。	他 爱 她 。 她 也 爱 他 。	他 爱 她 ， 她 也 爱 他 。
+i will not allow you to use my pen .	我不允许你用我的钢笔。	我不会请你用我的笔。	我 不 允 许 你 用 我 的 钢 笔 。	我 不 会 请 你 用 我 的 笔 。
+tom could 've figured that out without any help .	汤姆能不依靠任何帮助解决那事。	汤姆无法发生了没能帮助。	汤 姆 能 不 依 靠 任 何 帮 助 解 决 那 事 。	汤 姆 无 法 发 生 了 没 能 帮 助 。
+a great number of books are published every year .	每年都有大量新书出版。	一年的书馆数学金多数学。	每 年 都 有 大 量 新 书 出 版 。	一 年 的 书 馆 数 学 金 多 数 学 。
+when you hurt others , you also hurt yourself .	你若是伤害别人，你也会伤害到自己。	你什么时候，别人听着，你自己很伤心。	你 若 是 伤 害 别 人 ， 你 也 会 伤 害 到 自 己 。	你 什 么 时 候 ， 别 人 听 着 ， 你 自 己 很 伤 心 。
+it is less UNK today than it was yesterday .	今天不比昨天UNK热。	今天没有减弱了。	今 天 不 比 昨 天 UNK 热 。	今 天 没 有 减 弱 了 。
+he will not be able to do the work .	他没能力做这个工作。	他不会工作能做到工作。	他 没 能 力 做 这 个 工 作 。	他 不 会 工 作 能 做 到 工 作 。
+i 'm glad we hired you for this job .	我很高兴我们录用了你来担任这份工作。	我很高兴你遭这份工作。	我 很 高 兴 我 们 录 用 了 你 来 担 任 这 份 工 作 。	我 很 高 兴 你 遭 这 份 工 作 。
+tom , i want you to handle this one .	汤姆，我想要你来操作这一个。	汤姆，我想出来。	汤 姆 ， 我 想 要 你 来 操 作 这 一 个 。	汤 姆 ， 我 想 出 来 。
+he is doing very well considering he UNK experience .	考虑到他缺乏经验，他做得[已经]非常好了。	他对自己煮心尽量这样做鱼。	考 虑 到 他 缺 乏 经 验 ， 他 做 得 [ 已 经 ] 非 常 好 了 。	他 对 自 己 煮 心 尽 量 这 样 做 鱼 。
+he looked around , but he saw no one .	他看向四周，但没看到任何人。	他看了看周围，但他没看见任何人。	他 看 向 四 周 ， 但 没 看 到 任 何 人 。	他 看 了 看 周 围 ， 但 他 没 看 见 任 何 人 。
+if you do your best , you will succeed .	如果你尽力而为,你就会成功。	如果你尽力而为，你会成功的。	如 果 你 尽 力 而 为 , 你 就 会 成 功 。	如 果 你 尽 力 而 为 ， 你 会 成 功 的 。
+some people felt that tom 's behavior was UNK .	一部分人感觉Tom的行为举止不太合适。	有些人觉先感受汤姆为谋杀案。	一 部 分 人 感 觉 T o m 的 行 为 举 止 不 太 合 适 。	有 些 人 觉 先 感 受 汤 姆 为 谋 杀 案 。
+do n't look a gift horse in the mouth .	不要对人家送的礼物挑三UNK四，嫌东嫌西的。	获人赠马，休看马口。	不 要 对 人 家 送 的 礼 物 挑 三 UNK 四 ， 嫌 东 嫌 西 的 。	获 人 赠 马 ， 休 看 马 口 。
+the strong wind UNK that a storm is coming .	强风暗示著即将到来的暴雨。	风刮得强烈的损失了一家。	强 风 暗 示 著 即 将 到 来 的 暴 雨 。	风 刮 得 强 烈 的 损 失 了 一 家 。
+air is to us what water is to fish .	空气对人来说就是水对鱼的意义。	空气有我们的水鱼。	空 气 对 人 来 说 就 是 水 对 鱼 的 意 义 。	空 气 有 我 们 的 水 鱼 。
+the sun was shining , yet it was cold .	虽然有阳光照射，但还是很冷。	太阳光在光下。	虽 然 有 阳 光 照 射 ， 但 还 是 很 冷 。	太 阳 光 在 光 下 。
+it 's not a road , but a path .	它不是一条路，而是一条小径。	它不是一个穿过路，但实在小路上的小路。	它 不 是 一 条 路 ， 而 是 一 条 小 径 。	它 不 是 一 个 穿 过 路 ， 但 实 在 小 路 上 的 小 路 。
+mastering a foreign language UNK a lot of patience .	学好一门外语需要坚UNK不拔的UNK力。	精通一种空间改善一种耐心。	学 好 一 门 外 语 需 要 坚 UNK 不 拔 的 UNK 力 。	精 通 一 种 空 间 改 善 一 种 耐 心 。
+my father will often read the newspaper during meals .	我父亲常在吃饭时看报纸。	我父亲常常在饭后读报纸。	我 父 亲 常 在 吃 饭 时 看 报 纸 。	我 父 亲 常 常 在 饭 后 读 报 纸 。
+it was foolish of you to accept his offer .	你真笨去接受他的提议。	该结束你的提议了。	你 真 笨 去 接 受 他 的 提 议 。	该 结 束 你 的 提 议 了 。
+i am looking forward to hearing from you soon .	我期待很快就能收到你的信。	我期待收到你的来信。	我 期 待 很 快 就 能 收 到 你 的 信 。	我 期 待 收 到 你 的 来 信 。
+it 's not something i 'm very good at .	这不是我所擅长的事。	这不是我很好的。	这 不 是 我 所 擅 长 的 事 。	这 不 是 我 很 好 的 。
+a lot of people swim here in the summer .	许多人夏天在这里游泳。	许多夏天在这里游泳很多。	许 多 人 夏 天 在 这 里 游 泳 。	许 多 夏 天 在 这 里 游 泳 很 多 。
+because he 's sick , he ca n't come .	因为他生病了，所以他不能来。	因为他病了，不能来。	因 为 他 生 病 了 ， 所 以 他 不 能 来 。	因 为 他 病 了 ， 不 能 来 。
+research on the causes of cancer is very expensive .	有关癌症成因的研究耗费颇巨。	初生命罗马路是近的钻石。	有 关 癌 症 成 因 的 研 究 耗 费 颇 巨 。	初 生 命 罗 马 路 是 近 的 钻 石 。
+this is the place where the battle took place .	这是战斗发生的地方。	这就是地方战争胜于哪里。	这 是 战 斗 发 生 的 地 方 。	这 就 是 地 方 战 争 胜 于 哪 里 。
+you can go or stay , as you wish .	你走或留，随你高兴。	你可以继续待，就会留下来。	你 走 或 留 ， 随 你 高 兴 。	你 可 以 继 续 待 ， 就 会 留 下 来 。
+the teacher has a great influence on his UNK .	这个教授对他的学生有很大的影响力。	老师有个很棒的影响。	这 个 教 授 对 他 的 学 生 有 很 大 的 影 响 力 。	老 师 有 个 很 棒 的 影 响 。
+you 'll soon get accustomed to this cold weather .	你很快就会习惯这种冷天气。	你很快就会习惯天气。	你 很 快 就 会 习 惯 这 种 冷 天 气 。	你 很 快 就 会 习 惯 天 气 。
+it was lucky for you that you found it .	你很幸运找到了它。	很幸运能被你找到它了。	你 很 幸 运 找 到 了 它 。	很 幸 运 能 被 你 找 到 它 了 。
+i have a friend whose father is a teacher .	我有一个朋友,他的父亲是老师。	我有一个朋友是个母的老师。	我 有 一 个 朋 友 , 他 的 父 亲 是 老 师 。	我 有 一 个 朋 友 是 个 母 的 老 师 。
+do n't get off the train till it stops .	列车停下前别下车。	停止火车五点钟才停。	列 车 停 下 前 别 下 车 。	停 止 火 车 五 点 钟 才 停 。
+which one of the two brothers did you see ?	你见到的是两兄弟中的哪一个？	你们两个兄弟都看见了哪一个？	你 见 到 的 是 两 兄 弟 中 的 哪 一 个 ？	你 们 两 个 兄 弟 都 看 见 了 哪 一 个 ？
+i 'm fairly certain tom lives on park street .	我很确定汤姆住在公园街。	我相信汤姆住在公园里。	我 很 确 定 汤 姆 住 在 公 园 街 。	我 相 信 汤 姆 住 在 公 园 里 。
+let 's draw lots to decide who goes first .	来抽签决定谁先走吧。	我们想要多名医生。	来 抽 签 决 定 谁 先 走 吧 。	我 们 想 要 多 名 医 生 。
+i brought up two kids all on my own .	我一个人把两个小孩扶养长大。	我整个小孩绑架了自己。	我 一 个 人 把 两 个 小 孩 扶 养 长 大 。	我 整 个 小 孩 绑 架 了 自 己 。
+the house i bought is pretty far from downtown .	我买的房子离市中心比较远。	我住在市中离婚的时候买了。	我 买 的 房 子 离 市 中 心 比 较 远 。	我 住 在 市 中 离 婚 的 时 候 买 了 。
+his office is past the bank on your left .	经过银行，左边就是他的办公室了。	他的办公室在你走上了。	经 过 银 行 ， 左 边 就 是 他 的 办 公 室 了 。	他 的 办 公 室 在 你 走 上 了 。
+i want you guys to do me a favor .	我想要大家伙帮我个忙。	我想你们帮我一个忙。	我 想 要 大 家 伙 帮 我 个 忙 。	我 想 你 们 帮 我 一 个 忙 。
+we should n't expect too much help from tom .	我们不该期望从Tom那得到太多帮助。	我们不该希望汤姆投来。	我 们 不 该 期 望 从 T o m 那 得 到 太 多 帮 助 。	我 们 不 该 希 望 汤 姆 投 来 。
+you had better get away from here at once .	你最好立刻离开这里。	你最好马上离开这里。	你 最 好 立 刻 离 开 这 里 。	你 最 好 马 上 离 开 这 里 。
+my father is too busy to take a walk .	我父亲太忙而无法去散步。	我父亲对走来说太忙了。	我 父 亲 太 忙 而 无 法 去 散 步 。	我 父 亲 对 走 来 说 太 忙 了 。
+do n't move , or i 'll shoot you .	别动，不然我就开枪射你。	不要搬你或我打算用枪。	别 动 ， 不 然 我 就 开 枪 射 你 。	不 要 搬 你 或 我 打 算 用 枪 。
+i thought you had to get up by UNK .	我以为你要7点半起床。	我觉得你必须马上升起。	我 以 为 你 要 7 点 半 起 床 。	我 觉 得 你 必 须 马 上 升 起 。
+i do n't know if he can come tonight .	我不知道他今晚会不会来。	我不知道他今晚会不能来。	我 不 知 道 他 今 晚 会 不 会 来 。	我 不 知 道 他 今 晚 会 不 能 来 。
+any UNK , if it is sincere , is UNK .	任何情绪，只要它是真诚的，就说明它是发自内心的自然流露。	任何地方造成为固定是诚实的，它要害。	任 何 情 绪 ， 只 要 它 是 真 诚 的 ， 就 说 明 它 是 发 自 内 心 的 自 然 流 露 。	任 何 地 方 造 成 为 固 定 是 诚 实 的 ， 它 要 害 。
+you are no better at remembering things than i am .	你记事情的能力并不比我好多少。	你不好差点。我不大事。	你 记 事 情 的 能 力 并 不 比 我 好 多 少 。	你 不 好 差 点 。 我 不 大 事 。
+whether you succeed or not depends on your own efforts .	你成功与否取决于你自身的努力。	你不论天气或更努力的地方都是依赖他所有。	你 成 功 与 否 取 决 于 你 自 身 的 努 力 。	你 不 论 天 气 或 更 努 力 的 地 方 都 是 依 赖 他 所 有 。
+you 've been late for school more often than before .	你比以前更容易上课迟到了。	你以前常晚学校比以前晚上学。	你 比 以 前 更 容 易 上 课 迟 到 了 。	你 以 前 常 晚 学 校 比 以 前 晚 上 学 。
+give him an UNK and he 'll take a yard .	得寸进尺。	给他一面吃面的匹马，他会去院子呆了一份。	得 寸 进 尺 。	给 他 一 面 吃 面 的 匹 马 ， 他 会 去 院 子 呆 了 一 份 。
+if you see a mistake , then please correct it .	如果你发现错误，那就请你纠正它。	如果你犯了一个错误，以前就好像它。	如 果 你 发 现 错 误 ， 那 就 请 你 纠 正 它 。	如 果 你 犯 了 一 个 错 误 ， 以 前 就 好 像 它 。
+tom , i want to have a chat with you .	Tom，我想和你谈谈。	汤姆，我想聊你。	T o m ， 我 想 和 你 谈 谈 。	汤 姆 ， 我 想 聊 你 。
+tom wrote his name in the sand with a stick .	汤姆用UNK子在沙上写了他的名字。	汤姆把他的名字放在一把广告诉了步放在一把步放在一把步丢放在名字。	汤 姆 用 UNK 子 在 沙 上 写 了 他 的 名 字 。	汤 姆 把 他 的 名 字 放 在 一 把 广 告 诉 了 步 放 在 一 把 步 放 在 一 把 步 丢 放 在 名 字 。
+it was not long before we met again by chance .	没多久，我们又碰巧遇到了。	我们以前没见过那么机会。	没 多 久 ， 我 们 又 碰 巧 遇 到 了 。	我 们 以 前 没 见 过 那 么 机 会 。
+the prince fell in love with a UNK 's daughter .	王子爱上了一个UNK夫的女儿。	王子真是爱街上的女儿童不要被授。	王 子 爱 上 了 一 个 UNK 夫 的 女 儿 。	王 子 真 是 爱 街 上 的 女 儿 童 不 要 被 授 。
+they UNK to UNK as the father of english poetry .	他们视UNKUNK为英诗之父。	他们木箭发牢固，把英语超过了。	他 们 视 UNK UNK 为 英 诗 之 父 。	他 们 木 箭 发 牢 固 ， 把 英 语 超 过 了 。
+tom made a list of places he wants to visit .	汤姆把他想去的地方列成了一张清单。	汤姆把他的名单留在想的地方去了。	汤 姆 把 他 想 去 的 地 方 列 成 了 一 张 清 单 。	汤 姆 把 他 的 名 单 留 在 想 的 地 方 去 了 。
+she followed him home to find out where he lived .	她跟他到家，以知道他住哪。	她跟著他在哪里遇到他。	她 跟 他 到 家 ， 以 知 道 他 住 哪 。	她 跟 著 他 在 哪 里 遇 到 他 。
+people usually do n't like what they do n't understand .	人们通常不喜欢他们不理解的事物。	人通常不喜欢他们的理论。	人 们 通 常 不 喜 欢 他 们 不 理 解 的 事 物 。	人 通 常 不 喜 欢 他 们 的 理 论 。
+a good cook does n't throw out yesterday 's soup .	一个好的厨师不会丢掉昨天的汤。	昨天做作家不擅长汤姆的厨房。	一 个 好 的 厨 师 不 会 丢 掉 昨 天 的 汤 。	昨 天 做 作 家 不 擅 长 汤 姆 的 厨 房 。
+the weather was so cold that the lake UNK over .	天冷得足以让湖结冰。	天气真是太冷墙的时候，这个顺痛烧。	天 冷 得 足 以 让 湖 结 冰 。	天 气 真 是 太 冷 墙 的 时 候 ， 这 个 顺 痛 烧 。
+i have neither seen nor heard of such a thing .	我没见过也没听过这样的事。	我没见过这么想说过话的话，也没有办法语言。	我 没 见 过 也 没 听 过 这 样 的 事 。	我 没 见 过 这 么 想 说 过 话 的 话 ， 也 没 有 办 法 语 言 。
+i do n't mind if it 's hot and spicy .	辣点儿没关系。	我不介意辣肠辣。	辣 点 儿 没 关 系 。	我 不 介 意 辣 肠 辣 。
+she studied abroad in order to brush up her english .	她在国外学习以便提升她的英语。	她出国留学习外习惯亚。	她 在 国 外 学 习 以 便 提 升 她 的 英 语 。	她 出 国 留 学 习 外 习 惯 亚 。
+it took me three days to read through this book .	它花了我三天时间去阅读这本书。	在这本书地找了我一本书。	它 花 了 我 三 天 时 间 去 阅 读 这 本 书 。	在 这 本 书 地 找 了 我 一 本 书 。
+tom did better this time than he did last time .	汤姆这次做得比上次好。	汤姆最好尽了这事让他做了。	汤 姆 这 次 做 得 比 上 次 好 。	汤 姆 最 好 尽 了 这 事 让 他 做 了 。
+tom does n't know whether mary is happy or not .	汤姆不知道玛丽是高兴呢，还是不高兴。	汤姆不知道玛丽是高兴呢，还是不高兴。	汤 姆 不 知 道 玛 丽 是 高 兴 呢 ， 还 是 不 高 兴 。	汤 姆 不 知 道 玛 丽 是 高 兴 呢 ， 还 是 不 高 兴 。
+tom often reads when his children are n't at home .	汤姆经常在孩子们不在家时阅读。	汤姆常在家里读他的时候，不在家。	汤 姆 经 常 在 孩 子 们 不 在 家 时 阅 读 。	汤 姆 常 在 家 里 读 他 的 时 候 ， 不 在 家 。
+how long would it take to swim across the river ?	游过这条河要多久？	在河里游泳多久?	游 过 这 条 河 要 多 久 ？	在 河 里 游 泳 多 久 ?
+maybe i 'll go , and maybe i wo n't .	也许我会去，也许我不会。	也许大概我会去不去。	也 许 我 会 去 ， 也 许 我 不 会 。	也 许 大 概 我 会 去 不 去 。
+i vowed that i would never speak to her again .	我发誓再也不跟她说话了。	我发誓要再说一次。	我 发 誓 再 也 不 跟 她 说 话 了 。	我 发 誓 要 再 说 一 次 。
+there are two UNK in the number `` UNK . ''	2010这个数字里有两个零。	那两个增加了万的调查。”	2 0 1 0 这 个 数 字 里 有 两 个 零 。	那 两 个 增 加 了 万 的 调 查 。 ”
+they came up with a plan after a long discussion .	他们终于在漫长的讨论之后得出了一个计划。	他们一个计划去了讨论的问题。	他 们 终 于 在 漫 长 的 讨 论 之 后 得 出 了 一 个 计 划 。	他 们 一 个 计 划 去 了 讨 论 的 问 题 。
+he studies english , but he 's also studying german .	他学英语，但他也学德语。	他学习英语，但他说德语。	他 学 英 语 ， 但 他 也 学 德 语 。	他 学 习 英 语 ， 但 他 说 德 语 。
+in the UNK period , UNK parties were very popular .	在江户时代赏月的宴会非常受欢迎。	这种水对于马路口很容易受。	在 江 户 时 代 赏 月 的 宴 会 非 常 受 欢 迎 。	这 种 水 对 于 马 路 口 很 容 易 受 。
+i do n't go in for that sort of thing .	我讨厌那种事。	我不在想那种事情。	我 讨 厌 那 种 事 。	我 不 在 想 那 种 事 情 。
+tom is very good at doing things with his hands .	汤姆善于动手做事。	汤姆在做他的事情很好。	汤 姆 善 于 动 手 做 事 。	汤 姆 在 做 他 的 事 情 很 好 。
+there are seven men and four women in my section .	在我的部门里有七男四女。	我的观点有七个人都是女人。	在 我 的 部 门 里 有 七 男 四 女 。	我 的 观 点 有 七 个 人 都 是 女 人 。
+i do n't expect that they will support my view .	我不期望，他们能够支持我的观点。	我不指望他们会期待我的视线。	我 不 期 望 ， 他 们 能 够 支 持 我 的 观 点 。	我 不 指 望 他 们 会 期 待 我 的 视 线 。
+he did n't say a word to me all day .	他一天也没跟我说一句话。	他没说要说一整天。	他 一 天 也 没 跟 我 说 一 句 话 。	他 没 说 要 说 一 整 天 。
+she 's busy now and ca n't speak to you .	她现在忙，没有办法跟你们说话。	她现在忙，没有办法跟你说话。	她 现 在 忙 ， 没 有 办 法 跟 你 们 说 话 。	她 现 在 忙 ， 没 有 办 法 跟 你 说 话 。
+my uncle comes to see me from time to time .	我叔叔偶尔来看我。	我叔叔来看我很时间。	我 叔 叔 偶 尔 来 看 我 。	我 叔 叔 来 看 我 很 时 间 。
+i do n't feel like taking a walk this morning .	我今天早上不想散步。	我今天早上不想去散步。	我 今 天 早 上 不 想 散 步 。	我 今 天 早 上 不 想 去 散 步 。
+i took him to the most expensive restaurant on campus .	我把他带到校区里最贵的餐馆去了。	我搭公园带他在校园里的家餐馆。	我 把 他 带 到 校 区 里 最 贵 的 餐 馆 去 了 。	我 搭 公 园 带 他 在 校 园 里 的 家 餐 馆 。
+do you think that he is equal to the task ?	你认为他能够胜任这个任务吗?	你认为他人能老板对待吗？	你 认 为 他 能 够 胜 任 这 个 任 务 吗 ?	你 认 为 他 人 能 老 板 对 待 吗 ？
+the beach is an UNK place for children to play .	海滩是一个供孩子们玩乐的理想场所。	海滩走很有空调查。	海 滩 是 一 个 供 孩 子 们 玩 乐 的 理 想 场 所 。	海 滩 走 很 有 空 调 查 。
+it seems that most people only UNK in the summer .	人们似乎只在夏天烤肉。	这样好像场比赛就巨大的脸。	人 们 似 乎 只 在 夏 天 烤 肉 。	这 样 好 像 场 比 赛 就 巨 大 的 脸 。
+i do not for a moment think you are wrong .	我从没认为你错了。	我不想现在你错。	我 从 没 认 为 你 错 了 。	我 不 想 现 在 你 错 。
+he wishes he had gone to the theater last night .	昨晚他希望他去了剧场。	他昨晚差点喜欢盗版。	昨 晚 他 希 望 他 去 了 剧 场 。	他 昨 晚 差 点 喜 欢 盗 版 。
+my hands were shaking too much to thread the needle .	我的手UNK得太厉害，没法穿针了。	我的手指在那匹马上大了。	我 的 手 UNK 得 太 厉 害 ， 没 法 穿 针 了 。	我 的 手 指 在 那 匹 马 上 大 了 。
+tom and mary even always wear the same color clothes .	汤姆和玛丽甚至经常穿同样颜色的衣服。	汤姆和玛丽相同衣服和颜色的衣服和颜色。	汤 姆 和 玛 丽 甚 至 经 常 穿 同 样 颜 色 的 衣 服 。	汤 姆 和 玛 丽 相 同 衣 服 和 颜 色 的 衣 服 和 颜 色 。
+you made the mistake on purpose , did n't you ?	你故意犯这个错,是吗?	你犯了错误了，是没有错过吗？	你 故 意 犯 这 个 错 , 是 吗 ?	你 犯 了 错 误 了 ， 是 没 有 错 过 吗 ？
+every great writer seems to have been interested in english .	每一个伟大的作家似乎已经对英语感兴趣。	每个人都好像他对英语一切。	每 一 个 伟 大 的 作 家 似 乎 已 经 对 英 语 感 兴 趣 。	每 个 人 都 好 像 他 对 英 语 一 切 。
+every time i went to his place , he was studying .	每次我去他住处，他都在读书。	每次我去学习了，他正在学习。	每 次 我 去 他 住 处 ， 他 都 在 读 书 。	每 次 我 去 学 习 了 ， 他 正 在 学 习 。
+you do n't go to school on sunday , do you ?	你周日不上学,对吗?	你周日不去上学吗？	你 周 日 不 上 学 , 对 吗 ?	你 周 日 不 去 上 学 吗 ？
+i always enjoy listening to classical music in my free time .	有空的时候，我总喜欢听古典音乐。	我一直喜欢听音乐有时间习音乐。	有 空 的 时 候 ， 我 总 喜 欢 听 古 典 音 乐 。	我 一 直 喜 欢 听 音 乐 有 时 间 习 音 乐 。
+i am used to hearing the train pass by my house .	我已经习惯了家门口过火车的声音了。	我听到我的火车从火车来过了。	我 已 经 习 惯 了 家 门 口 过 火 车 的 声 音 了 。	我 听 到 我 的 火 车 从 火 车 来 过 了 。
+i can speak chinese , but i ca n't read chinese .	我会说中文，但是我不会读中文。	我会说中文，但是我不会读中文。	我 会 说 中 文 ， 但 是 我 不 会 读 中 文 。	我 会 说 中 文 ， 但 是 我 不 会 读 中 文 。
+i used to eat pizza , but now i do n't .	我以前吃披萨，但现在不了。	我现在吃比萨，但我不吃寿司。	我 以 前 吃 披 萨 ， 但 现 在 不 了 。	我 现 在 吃 比 萨 ， 但 我 不 吃 寿 司 。
+only one third of the members turned up at the meeting .	仅三分之一的成员出席了会议。	只有一个三个会议员会议的第一个会议。	仅 三 分 之 一 的 成 员 出 席 了 会 议 。	只 有 一 个 三 个 会 议 员 会 议 的 第 一 个 会 议 。
+i should have tried out this electric UNK before buying it .	我本该在买下这个电动UNK须刀之前试一下的。	我应该试着出这面包机器。	我 本 该 在 买 下 这 个 电 动 UNK 须 刀 之 前 试 一 下 的 。	我 应 该 试 着 出 这 面 包 机 器 。
+i ca n't get at the exact meaning of the sentence .	我抓不到句子的确切含义。	我不能忍受这个美字的意思。	我 抓 不 到 句 子 的 确 切 含 义 。	我 不 能 忍 受 这 个 美 字 的 意 思 。
+he quickly made friends with the new boy on the UNK .	他很快便与小区里新来的男孩交上了朋友。	他很快就对这个男孩子和男孩子邮差点到达成为这个男孩子。	他 很 快 便 与 小 区 里 新 来 的 男 孩 交 上 了 朋 友 。	他 很 快 就 对 这 个 男 孩 子 和 男 孩 子 邮 差 点 到 达 成 为 这 个 男 孩 子 。
+feel free to get yourself a drink if you are thirsty .	觉得渴了就喝点。	如果你自己喝点东西吧。	觉 得 渴 了 就 喝 点 。	如 果 你 自 己 喝 点 东 西 吧 。
+how long does it take to go to okinawa by plane ?	坐飞机去冲绳要花多长时间？	搭飞机将花钱多久时间？	坐 飞 机 去 冲 绳 要 花 多 长 时 间 ？	搭 飞 机 将 花 钱 多 久 时 间 ？
+to tell the truth , i do n't agree with you .	实话说，我不赞成你。	说实话，我不赞成你。	实 话 说 ， 我 不 赞 成 你 。	说 实 话 ， 我 不 赞 成 你 。
+do you know if my father is still in the office ?	你知道我父亲是否还在办公室吗？	你知道我父亲还是否在办公室里吗？	你 知 道 我 父 亲 是 否 还 在 办 公 室 吗 ？	你 知 道 我 父 亲 还 是 否 在 办 公 室 里 吗 ？
+tom added both his and mary 's name to the list .	汤姆将他自己和玛丽的名字添加到了名单上。	汤姆往里和玛丽的名字和玛丽的名字落在名字。	汤 姆 将 他 自 己 和 玛 丽 的 名 字 添 加 到 了 名 单 上 。	汤 姆 往 里 和 玛 丽 的 名 字 和 玛 丽 的 名 字 落 在 名 字 。
+you should not have lent the money to such a person .	你不应该借钱给这样的人。	你不应该借给这么少的东西。	你 不 应 该 借 钱 给 这 样 的 人 。	你 不 应 该 借 给 这 么 少 的 东 西 。
+the child had no UNK on although it was very cold .	尽管天气很冷，孩子却没有大衣穿。	这孩子毫无意外不够流而已经的受。	尽 管 天 气 很 冷 ， 孩 子 却 没 有 大 衣 穿 。	这 孩 子 毫 无 意 外 不 够 流 而 已 经 的 受 。
+all of you are familiar with the truth of the story .	你们所有的人都熟悉这个故事的真相。	所有的人都对事故的相信真相。	你 们 所 有 的 人 都 熟 悉 这 个 故 事 的 真 相 。	所 有 的 人 都 对 事 故 的 相 信 真 相 。
+i 'm glad that i did n't buy something like this .	我很高兴没有买这样的东西。	我很高兴我没有买这个东西。	我 很 高 兴 没 有 买 这 样 的 东 西 。	我 很 高 兴 我 没 有 买 这 个 东 西 。
+i had hardly left home when it began to rain heavily .	当雨开始下得很大的时候,我几乎不能出门了。	当我几乎不要离开家了。	当 雨 开 始 下 得 很 大 的 时 候 , 我 几 乎 不 能 出 门 了 。	当 我 几 乎 不 要 离 开 家 了 。
+let 's talk over a cup of tea , shall we ?	我们用喝茶的时间谈谈，好吗？	让我们说一杯茶，茶还是想要杯咖啡吗？	我 们 用 喝 茶 的 时 间 谈 谈 ， 好 吗 ？	让 我 们 说 一 杯 茶 ， 茶 还 是 想 要 杯 咖 啡 吗 ？
+i feel as if i 've UNK up from a UNK .	我觉得我好像从恶梦中惊醒。	我想当时间还有点退休假的必要害。	我 觉 得 我 好 像 从 恶 梦 中 惊 醒 。	我 想 当 时 间 还 有 点 退 休 假 的 必 要 害 。
+i 'm sure tom wo n't have any trouble finding us .	我确定汤姆找到我们没有任何问题。	我肯定汤姆不会找到我们的事。	我 确 定 汤 姆 找 到 我 们 没 有 任 何 问 题 。	我 肯 定 汤 姆 不 会 找 到 我 们 的 事 。
+tom is in prison for a UNK he did n't UNK .	汤姆为他不认的罪进了监狱。	汤姆在休以监狱里刮倒了，他还不要超级别。	汤 姆 为 他 不 认 的 罪 进 了 监 狱 。	汤 姆 在 休 以 监 狱 里 刮 倒 了 ， 他 还 不 要 超 级 别 。
+a bicycle will UNK if you leave it in the rain .	如果你把自行车留在雨中，它会生锈的。	要是一辆自行车就要离开的。	如 果 你 把 自 行 车 留 在 雨 中 ， 它 会 生 锈 的 。	要 是 一 辆 自 行 车 就 要 离 开 的 。
+there must be a way to arrive at a UNK solution .	必须有外交解决的途径。	必须在方便方便方便方面必须离开了解决方式。	必 须 有 外 交 解 决 的 途 径 。	必 须 在 方 便 方 便 方 便 方 面 必 须 离 开 了 解 决 方 式 。
+there was only one UNK on duty when the UNK started .	暴动开始时只有一位监狱长值班。	当时间性还有一个短期的责任就是胡子。	暴 动 开 始 时 只 有 一 位 监 狱 长 值 班 。	当 时 间 性 还 有 一 个 短 期 的 责 任 就 是 胡 子 。
+tom UNK out the towel and hung it up to dry .	汤姆UNK干毛巾挂起来UNK干。	汤姆预定在地毯上挂掉了这条火灾。	汤 姆 UNK 干 毛 巾 挂 起 来 UNK 干 。	汤 姆 预 定 在 地 毯 上 挂 掉 了 这 条 火 灾 。
+he wore a UNK so that no one could recognize him .	他戴著面具以至于没有人认出他。	他穿了一条街以来没有机，他认为他的认识。	他 戴 著 面 具 以 至 于 没 有 人 认 出 他 。	他 穿 了 一 条 街 以 来 没 有 机 ， 他 认 为 他 的 认 识 。
+france is running a welfare state it can no longer afford .	法国是一个福利国家，但它却不再能够负担得起了。	法国在福利用事情况无法再符。	法 国 是 一 个 福 利 国 家 ， 但 它 却 不 再 能 够 负 担 得 起 了 。	法 国 在 福 利 用 事 情 况 无 法 再 符 。
+a bird in the hand is worth two in the bush .	一鸟在手胜过二鸟在林。	一只鸟在手里在二颗鸟在布现在住在手。	一 鸟 在 手 胜 过 二 鸟 在 林 。	一 只 鸟 在 手 里 在 二 颗 鸟 在 布 现 在 住 在 手 。
+people who will lie for you , will lie to you .	会为你说谎的人，就会对你说谎。	人会说你说谎，你会说谎。	会 为 你 说 谎 的 人 ， 就 会 对 你 说 谎 。	人 会 说 你 说 谎 ， 你 会 说 谎 。
+i 'll drop by the post office on the way home .	我会在回家的路上顺便去邮局。	我载邮局在家邮局。	我 会 在 回 家 的 路 上 顺 便 去 邮 局 。	我 载 邮 局 在 家 邮 局 。
+can you give me a ride to the office on wednesday ?	周三你可以载我到办公室吗？	你可以载我一起去公室吗？	周 三 你 可 以 载 我 到 办 公 室 吗 ？	你 可 以 载 我 一 起 去 公 室 吗 ？
+like it or not , we have to attend that meeting .	不管喜不喜欢，我们都得参加那个会议。	我们也不喜欢参加会议。	不 管 喜 不 喜 欢 ， 我 们 都 得 参 加 那 个 会 议 。	我 们 也 不 喜 欢 参 加 会 议 。
+i go to the office by bicycle except on rainy days .	除了雨天，我都是骑车去上班的。	除了雨天我去旅馆。	除 了 雨 天 ， 我 都 是 骑 车 去 上 班 的 。	除 了 雨 天 我 去 旅 馆 。
+let me read the paper when you have finished with it .	报纸看完后借我看下。	在你这些纸的时候，给我看完了你。	报 纸 看 完 后 借 我 看 下 。	在 你 这 些 纸 的 时 候 ， 给 我 看 完 了 你 。
+he UNK a fortune in stock UNK during the last UNK .	他在上个景气时期炒股UNK下了一笔钱。	他木板超过敏缺乏之间的财富。	他 在 上 个 景 气 时 期 炒 股 UNK 下 了 一 笔 钱 。	他 木 板 超 过 敏 缺 乏 之 间 的 财 富 。
+it cost me ten thousand yen to have my television set repaired .	把我的电视机修好花了我一万日元。	它花了100000日元把我的电视机器汽车修理了30。	把 我 的 电 视 机 修 好 花 了 我 一 万 日 元 。	它 花 了 1 0 0 0 0 0 日 元 把 我 的 电 视 机 器 汽 车 修 理 了 3 0 。
+as soon as the bell rang the teacher came into the classroom .	钟声一响起，老师就走进了教室。	据表响了最后的老师响。	钟 声 一 响 起 ， 老 师 就 走 进 了 教 室 。	据 表 响 了 最 后 的 老 师 响 。
+quite by chance , i met my old friend in the airport .	很幸运地，我在机场遇到了我的老朋友。	万一场，我的机会见到机场的朋友见面。	很 幸 运 地 ， 我 在 机 场 遇 到 了 我 的 老 朋 友 。	万 一 场 ， 我 的 机 会 见 到 机 场 的 朋 友 见 面 。
+do n't you think it 's strange that he 's not here ?	他不在这儿你不觉得这很奇怪吗？	你不觉得这么奇怪的那儿不是吗？	他 不 在 这 儿 你 不 觉 得 这 很 奇 怪 吗 ？	你 不 觉 得 这 么 奇 怪 的 那 儿 不 是 吗 ？
+the leaves of the trees in the garden have turned completely red .	花园里树上的叶子已经完全变红了。	树叶在花里掉进树林里的树已经完成的树林里。	花 园 里 树 上 的 叶 子 已 经 完 全 变 红 了 。	树 叶 在 花 里 掉 进 树 林 里 的 树 已 经 完 成 的 树 林 里 。
+it is not easy to catch a hare with your UNK hands .	空手赤拳抓野兔并不容易。	戒掉你的手区别很容易又和CD接受手。	空 手 赤 拳 抓 野 兔 并 不 容 易 。	戒 掉 你 的 手 区 别 很 容 易 又 和 C D 接 受 手 。
+she employed a private detective to keep a watch on her husband .	她雇了一个私人侦探看守她的丈夫。	她雇用探给她在丈夫球拍一样的丈夫球拍手表。	她 雇 了 一 个 私 人 侦 探 看 守 她 的 丈 夫 。	她 雇 用 探 给 她 在 丈 夫 球 拍 一 样 的 丈 夫 球 拍 手 表 。
+i do n't know if he would have done it for me .	我不知道他是否已经为我做好了。	我不知道他做完成的事。	我 不 知 道 他 是 否 已 经 为 我 做 好 了 。	我 不 知 道 他 做 完 成 的 事 。
+excuse me , i have to get off at the next stop .	对不起，我要在下一站下。	不好意思，我必须停下来。	对 不 起 ， 我 要 在 下 一 站 下 。	不 好 意 思 ， 我 必 须 停 下 来 。
+i 'm now rich enough to afford to get anything i want .	我现在富得能买我想要的任何东西。	我现在有钱买的东西。	我 现 在 富 得 能 买 我 想 要 的 任 何 东 西 。	我 现 在 有 钱 买 的 东 西 。
+to the best of my knowledge , the rumor is not true .	据我所知，这个谣言不是真的。	最好的知道是我最不知智的传统。	据 我 所 知 ， 这 个 谣 言 不 是 真 的 。	最 好 的 知 道 是 我 最 不 知 智 的 传 统 。
+it 's quite difficult to master french in 2 or 3 years .	很难在2、3年内掌握法语。	能让年四分之三还是好的法文件。	很 难 在 2 、 3 年 内 掌 握 法 语 。	能 让 年 四 分 之 三 还 是 好 的 法 文 件 。
+`` where 's your book ? '' `` on the table . ''	「你的书在哪？」「在桌上。」	“你在哪里？”“桌子在那张桌子。”	「 你 的 书 在 哪 ？ 」 「 在 桌 上 。 」	“ 你 在 哪 里 ？ ” “ 桌 子 在 那 张 桌 子 。 ”
+they fine you in singapore if you throw trash in the streets .	在新加坡的街道上扔垃圾会被罚款。	他们在新加坡的时候，你让你对猴子住在牢骚吧。	在 新 加 坡 的 街 道 上 扔 垃 圾 会 被 罚 款 。	他 们 在 新 加 坡 的 时 候 ， 你 让 你 对 猴 子 住 在 牢 骚 吧 。
+it was difficult for him to hide his pride in his success .	他很难掩饰对自己成功的骄傲。	他的成为他的自己的成功。	他 很 难 掩 饰 对 自 己 成 功 的 骄 傲 。	他 的 成 为 他 的 自 己 的 成 功 。
+as soon as she opened the door , a cat ran out .	她一开门，一只猫就跑了出来。	她很快就打开了门，就没关门。	她 一 开 门 ， 一 只 猫 就 跑 了 出 来 。	她 很 快 就 打 开 了 门 ， 就 没 关 门 。
+you should n't say that kind of thing when children are around .	孩子们在旁边的时候，你不应该说那种事。	你不应该说那个小孩的时候就应该说过花。	孩 子 们 在 旁 边 的 时 候 ， 你 不 应 该 说 那 种 事 。	你 不 应 该 说 那 个 小 孩 的 时 候 就 应 该 说 过 花 。
+i told tom that i thought his house needed to be painted .	我告诉汤姆我认为他的房子要刷漆。	我告诉汤姆我认为他的房子要拥有了。	我 告 诉 汤 姆 我 认 为 他 的 房 子 要 刷 漆 。	我 告 诉 汤 姆 我 认 为 他 的 房 子 要 拥 有 了 。
+step out of the car and place your hands behind your back .	下车，把手放在背后。	让手掉进你的车后，把手掉在家后。	下 车 ， 把 手 放 在 背 后 。	让 手 掉 进 你 的 车 后 ， 把 手 掉 在 家 后 。
+i ca n't take the place of her as an english teacher .	我无法取代她做英语老师。	我无法把她的英语老师放在这个地方向老师。	我 无 法 取 代 她 做 英 语 老 师 。	我 无 法 把 她 的 英 语 老 师 放 在 这 个 地 方 向 老 师 。
+if he is innocent , it follows that his wife is guilty .	如果他是清白的，那他妻子就有罪。	如果他是无辜的，就是无辜的他妻子，而没有罪。	如 果 他 是 清 白 的 ， 那 他 妻 子 就 有 罪 。	如 果 他 是 无 辜 的 ， 就 是 无 辜 的 他 妻 子 ， 而 没 有 罪 。
+a couch potato is something that i do n't want to be .	我不想成为整天泡在沙发上看电视的人。	长着一点长在不想做什么。	我 不 想 成 为 整 天 泡 在 沙 发 上 看 电 视 的 人 。	长 着 一 点 长 在 不 想 做 什 么 。
+in case of an emergency , get in touch with my UNK .	万一有紧急情况，联系我的代理人。	在紧急情况下，要紧让我试着用手面。	万 一 有 紧 急 情 况 ， 联 系 我 的 代 理 人 。	在 紧 急 情 况 下 ， 要 紧 让 我 试 着 用 手 面 。
+according to tv news , there was a plane crash in india .	根据电视新闻，一架飞机在印度坠毁了。	根据电视，以在飞机场中，从飞到了一个迷路。	根 据 电 视 新 闻 ， 一 架 飞 机 在 印 度 坠 毁 了 。	根 据 电 视 ， 以 在 飞 机 场 中 ， 从 飞 到 了 一 个 迷 路 。
+it took me a little more time than usually to fall asleep .	我花了比平常多一点的时间入睡。	我通过多久时间让我通常走。	我 花 了 比 平 常 多 一 点 的 时 间 入 睡 。	我 通 过 多 久 时 间 让 我 通 常 走 。
+my brother is not as tall as i was two years ago .	我弟弟没我两年前高。	我哥哥不是高一样。	我 弟 弟 没 我 两 年 前 高 。	我 哥 哥 不 是 高 一 样 。
+since i had met him once before , i recognized him right away .	由于我以前见过他一次，所以我马上就认出他了。	既然后，我以前见过他，因为他就认为我马路以立刻。	由 于 我 以 前 见 过 他 一 次 ， 所 以 我 马 上 就 认 出 他 了 。	既 然 后 ， 我 以 前 见 过 他 ， 因 为 他 就 认 为 我 马 路 以 立 刻 。
+no other mountain in the world is as tall as mt . UNK .	世界上任何山UNK都达不到珠UNK朗玛UNK的高度。	没有人在世界上最后退休的山，那么远处。	世 界 上 任 何 山 UNK 都 达 不 到 珠 UNK 朗 玛 UNK 的 高 度 。	没 有 人 在 世 界 上 最 后 退 休 的 山 ， 那 么 远 处 。
+he always left the problem of his children 's education to his wife .	他总是把孩子的教育问题留给他的妻子。	他总是把他的孩子们从他的教育存在教育存者。	他 总 是 把 孩 子 的 教 育 问 题 留 给 他 的 妻 子 。	他 总 是 把 他 的 孩 子 们 从 他 的 教 育 存 在 教 育 存 者 。
+why do n't you wait here while i finish what i 'm doing ?	为什么你不在这里等到我做完为止？	为什么我在这儿做什么你就没有找到的时候？	为 什 么 你 不 在 这 里 等 到 我 做 完 为 止 ？	为 什 么 我 在 这 儿 做 什 么 你 就 没 有 找 到 的 时 候 ？
+london , where i live , used to be famous for its fog .	我住的地方－伦敦，从前以雾闻名。	伦敦，我住在哪里了一个名名二名。	我 住 的 地 方 － 伦 敦 ， 从 前 以 雾 闻 名 。	伦 敦 ， 我 住 在 哪 里 了 一 个 名 名 二 名 。
+this is where i want to live for the rest of my life .	这里是我余生想待的地方	这就是我想住的生活一个人。	这 里 是 我 余 生 想 待 的 地 方	这 就 是 我 想 住 的 生 活 一 个 人 。
+`` the phone is ringing . '' `` i 'll get it . ''	“电话响了。”“我来接。”	“电话响了。”“我会。”	“ 电 话 响 了 。 ” “ 我 来 接 。 ”	“ 电 话 响 了 。 ” “ 我 会 。 ”
+when i was a child , i used to swim in that pond .	当我还是个孩子的时候，我在这个泳池里游过泳。	当我是个孩子时候，我会游泳池。	当 我 还 是 个 孩 子 的 时 候 ， 我 在 这 个 泳 池 里 游 过 泳 。	当 我 是 个 孩 子 时 候 ， 我 会 游 泳 池 。
+tom told mary he could n't do what she asked him to do .	汤姆告诉玛丽他不能做她要他做的事。	汤姆告诉玛丽他无法做什么。	汤 姆 告 诉 玛 丽 他 不 能 做 她 要 他 做 的 事 。	汤 姆 告 诉 玛 丽 他 无 法 做 什 么 。
+sorry , but can you show me the way to the next village ?	能不能麻烦你告诉我去邻村怎么走？	对不起，但你可以让我看到村庄下。	能 不 能 麻 烦 你 告 诉 我 去 邻 村 怎 么 走 ？	对 不 起 ， 但 你 可 以 让 我 看 到 村 庄 下 。
+you look tired . you ought to rest for an hour or two .	你看起来很累。你应该休息一两个小时。	你看上去应该已经应该两个小时。	你 看 起 来 很 累 。 你 应 该 休 息 一 两 个 小 时 。	你 看 上 去 应 该 已 经 应 该 两 个 小 时 。
+he 's not such a great writer and i think he knows it .	他不是那么出色的作家我想他知道这一点。	他不是这样的作家，我认为他认为我认识的一个作家。	他 不 是 那 么 出 色 的 作 家 我 想 他 知 道 这 一 点 。	他 不 是 这 样 的 作 家 ， 我 认 为 他 认 为 我 认 识 的 一 个 作 家 。
+i know it 's time to go , but i want to stay longer .	我知道该走了，但我想留久一点。	我知道该是否想不再待了。	我 知 道 该 走 了 ， 但 我 想 留 久 一 点 。	我 知 道 该 是 否 想 不 再 待 了 。
+tom does n't quite get it . could you explain it to him again ?	汤姆不大明白。你能再跟他解释一遍吗？	汤姆不太能再能再也忍他解释一遍吗？	汤 姆 不 大 明 白 。 你 能 再 跟 他 解 释 一 遍 吗 ？	汤 姆 不 太 能 再 能 再 也 忍 他 解 释 一 遍 吗 ？
+we 're out of tissue paper , so i need to go buy some .	卫生纸用完了，我必须去买。	我用来写一杯用，以至于需要去买了。	卫 生 纸 用 完 了 ， 我 必 须 去 买 。	我 用 来 写 一 杯 用 ， 以 至 于 需 要 去 买 了 。
+i 'll lend you the book as soon as i 'm done reading it .	我一把这本书读完了就借给你。	我会尽快把书给你读完。	我 一 把 这 本 书 读 完 了 就 借 给 你 。	我 会 尽 快 把 书 给 你 读 完 。
+we did not expect him to finish the task in so short a time .	我们没指望过他在那么短的时间里完成工作。	我们没有希望他能完成这个任务。	我 们 没 指 望 过 他 在 那 么 短 的 时 间 里 完 成 工 作 。	我 们 没 有 希 望 他 能 完 成 这 个 任 务 。
+i would rather live by myself than do as he tells me to do .	我宁愿自己独立生活也不要他来指使我。	我宁愿活着我自己做他跟我说事。	我 宁 愿 自 己 独 立 生 活 也 不 要 他 来 指 使 我 。	我 宁 愿 活 着 我 自 己 做 他 跟 我 说 事 。
+mary has a bad back . it 's hard for her to lift things .	玛丽的背不好,她很难把东西举起来。	玛丽有点不太拼命无法抬起她的重量。	玛 丽 的 背 不 好 , 她 很 难 把 东 西 举 起 来 。	玛 丽 有 点 不 太 拼 命 无 法 抬 起 她 的 重 量 。
+you 're going to wreck your eyesight if you play games all the time .	要是你老打游戏的话，你的视力会下降的。	如果你去看一次电视上的视力，你要更好几个小时间都要几个小时候，你要预定的视时候，你要照顾你要再玩的视力地方法玩以当心要	要 是 你 老 打 游 戏 的 话 ， 你 的 视 力 会 下 降 的 。	如 果 你 去 看 一 次 电 视 上 的 视 力 ， 你 要 更 好 几 个 小 时 间 都 要 几 个 小 时 候 ， 你 要 预 定 的 视 时 候 ， 你 要 照 顾 你 要 再 玩 的 视 力 地 方 法 玩 以 当 心 要
+if you heard her speak english , you would take her for an american .	如果你听到她讲的英语，你会以为她是美国人呢。	如果你听她说话，你会把她的美国人说英语。	如 果 你 听 到 她 讲 的 英 语 ， 你 会 以 为 她 是 美 国 人 呢 。	如 果 你 听 她 说 话 ， 你 会 把 她 的 美 国 人 说 英 语 。
+had he known what was about to happen , he would have changed his plan .	要是他知道会发生什么，他就会改变计划。	他知道如何发生的话，所以他将发生了。	要 是 他 知 道 会 发 生 什 么 ， 他 就 会 改 变 计 划 。	他 知 道 如 何 发 生 的 话 ， 所 以 他 将 发 生 了 。
+the ages of the two children put together was equivalent to that of their father .	两个孩子的年龄加起来和他们的父亲相当。	这首歌老少给他们两座桥对的父亲应该两座。	两 个 孩 子 的 年 龄 加 起 来 和 他 们 的 父 亲 相 当 。	这 首 歌 老 少 给 他 们 两 座 桥 对 的 父 亲 应 该 两 座 。
+tom wrote mary a long letter , but he did n't send it to her .	汤姆给玛丽写了封长信，可是没有寄给她。	汤姆写了玛丽，但他没有来信。	汤 姆 给 玛 丽 写 了 封 长 信 ， 可 是 没 有 寄 给 她 。	汤 姆 写 了 玛 丽 ， 但 他 没 有 来 信 。
+it says in the bible , `` man shall not live on bread alone . ''	圣经里有一句话，叫做“人不能只靠面包生活”。	说法语说得不总是人口缺乏常有东西。”	圣 经 里 有 一 句 话 ， 叫 做 “ 人 不 能 只 靠 面 包 生 活 ” 。	说 法 语 说 得 不 总 是 人 口 缺 乏 常 有 东 西 。 ”
+`` where were you ? '' `` i was at a friend 's house . ''	“你在哪里？”“我在一个朋友家。”	“你在哪儿？”“我家朋友住在哪儿。”	“ 你 在 哪 里 ？ ” “ 我 在 一 个 朋 友 家 。 ”	“ 你 在 哪 儿 ？ ” “ 我 家 朋 友 住 在 哪 儿 。 ”
+i was nine years old when i asked my mom if UNK UNK really UNK .	我九岁的时候问我妈妈圣诞老人是否真的存在。	当我太年轻时，我的老了六倍于125。	我 九 岁 的 时 候 问 我 妈 妈 圣 诞 老 人 是 否 真 的 存 在 。	当 我 太 年 轻 时 ， 我 的 老 了 六 倍 于 1 2 5 。
+there are some UNK , but all in all , it 's a good book .	虽然有一些印刷错误,但大致上说来,这是一本好书。	还有一些酒。放轻松的东西，但是一本好。	虽 然 有 一 些 印 刷 错 误 , 但 大 致 上 说 来 , 这 是 一 本 好 书 。	还 有 一 些 酒 。 放 轻 松 的 东 西 ， 但 是 一 本 好 。
+at UNK today , our usual restaurant was closed because of a funeral in the family .	今天午餐时间，我们常去的饭馆关门了，因为他们家在办丧事。	暑假从我们的幌子来了家庭，因为这个家餐馆。	今 天 午 餐 时 间 ， 我 们 常 去 的 饭 馆 关 门 了 ， 因 为 他 们 家 在 办 丧 事 。	暑 假 从 我 们 的 幌 子 来 了 家 庭 ， 因 为 这 个 家 餐 馆 。
+if you do n't have anything nice to say , do n't say anything at all .	如果你没好话说，那就什么都别说。	如果你不必要说什么，你都说不好。	如 果 你 没 好 话 说 ， 那 就 什 么 都 别 说 。	如 果 你 不 必 要 说 什 么 ， 你 都 说 不 好 。
+`` where have you been ? '' `` i 've been to the barber 's . ''	你去哪儿了？我去了理发店。	“你去哪儿了？”“我去了那个理发店。”	你 去 哪 儿 了 ？ 我 去 了 理 发 店 。	“ 你 去 哪 儿 了 ？ ” “ 我 去 了 那 个 理 发 店 。 ”
+`` he 'd like to have a coffee after work . '' `` i would too . ''	``他想在下班后喝杯咖啡。````我也想。``	``他要一杯咖啡，而不想做咖啡。``	`` 他 想 在 下 班 后 喝 杯 咖 啡 。 `` `` 我 也 想 。 ``	`` 他 要 一 杯 咖 啡 ， 而 不 想 做 咖 啡 。 ``
+this is a secret just between you and me , so do n't let it slip out .	这只是你和我之间的秘密，所以不要让它流出去。	这是我们之间的秘密，不让你让我们来。	这 只 是 你 和 我 之 间 的 秘 密 ， 所 以 不 要 让 它 流 出 去 。	这 是 我 们 之 间 的 秘 密 ， 不 让 你 让 我 们 来 。
+i want a UNK phone , but i do n't have enough money to pay for one .	我想要一支手机,但是我没有足够的钱买一支。	我想吃点甜的便，但是没有钱付钱。	我 想 要 一 支 手 机 , 但 是 我 没 有 足 够 的 钱 买 一 支 。	我 想 吃 点 甜 的 便 ， 但 是 没 有 钱 付 钱 。
+after asking for my key at the front desk , i took the elevator to my floor .	我到柜台拿了钥匙，然后就乘电梯去了我房间的楼层。	在我的名字面包前把我的钥匙。	我 到 柜 台 拿 了 钥 匙 ， 然 后 就 乘 电 梯 去 了 我 房 间 的 楼 层 。	在 我 的 名 字 面 包 前 把 我 的 钥 匙 。
+`` why are you going to japan ? '' `` to attend a conference in tokyo . ''	“你去日本干嘛？”“去东京参加一个会议。”	“为什么你会去东京？”“日本人去东京。”	“ 你 去 日 本 干 嘛 ？ ” “ 去 东 京 参 加 一 个 会 议 。 ”	“ 为 什 么 你 会 去 东 京 ？ ” “ 日 本 人 去 东 京 。 ”
+i hope i will have a chance to see you next time i 'm in new york .	希望下次我在纽约还可以有机会见到你。	我希望我会去纽约四次。	希 望 下 次 我 在 纽 约 还 可 以 有 机 会 见 到 你 。	我 希 望 我 会 去 纽 约 四 次 。
+it would take me too much time to explain to you why it 's not going to work .	给你解释这为什么行不通要花很多时间。	如果我太少，以为你为什么让我为它做不了。	给 你 解 释 这 为 什 么 行 不 通 要 花 很 多 时 间 。	如 果 我 太 少 ， 以 为 你 为 什 么 让 我 为 它 做 不 了 。
+i 've had a UNK throat since this morning . i wonder if i 've caught a cold .	早上起来，嗓子变得很沙UNK，我想是不是感冒了。	我从不得不到，所以我想出门游业。	早 上 起 来 ， 嗓 子 变 得 很 沙 UNK ， 我 想 是 不 是 感 冒 了 。	我 从 不 得 不 到 ， 所 以 我 想 出 门 游 业 。
+my parents usually speak to each other in french , even though my mother is a native english speaker .	我父母通常用法语对话，即使我母亲的母语是英语。	我父母经常跟他妈妈妈交流的年龄，但是我的母语者学母语。	我 父 母 通 常 用 法 语 对 话 ， 即 使 我 母 亲 的 母 语 是 英 语 。	我 父 母 经 常 跟 他 妈 妈 妈 交 流 的 年 龄 ， 但 是 我 的 母 语 者 学 母 语 。
+`` will you have some more coffee ? '' `` no , thanks . i 've had enough . ''	“你想再来点咖啡吗？”“不，谢谢。我够了。”	“你还有点咖啡，我还是一点咖啡吗？”“不吃点咖啡吗？”	“ 你 想 再 来 点 咖 啡 吗 ？ ” “ 不 ， 谢 谢 。 我 够 了 。 ”	“ 你 还 有 点 咖 啡 ， 我 还 是 一 点 咖 啡 吗 ？ ” “ 不 吃 点 咖 啡 吗 ？ ”
+i do n't have a lot of work , but it 's enough to keep me in the office this week .	其实我工作并不多，但足以让我这周在办公室里忙着了。	我今天没有很多办公室一个办公室工作，但是我还是让。	其 实 我 工 作 并 不 多 ， 但 足 以 让 我 这 周 在 办 公 室 里 忙 着 了 。	我 今 天 没 有 很 多 办 公 室 一 个 办 公 室 工 作 ， 但 是 我 还 是 让 。

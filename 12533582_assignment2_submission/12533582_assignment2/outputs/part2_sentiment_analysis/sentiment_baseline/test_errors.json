@@ -1,0 +1,212 @@
+[
+  {
+    "text": " I forgot about it and I already ate lunch  so I guess I`m not going.",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": " does it work on the iPhone as my MacBook is flat",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": " i would but i have nowhere to go and no one to go with",
+    "gold_label": "negative",
+    "gold_id": 0,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": " I don`t even remember what`s on there!!!",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "My wife lost her sprint blackberry 8330 on a bike ride in AM.  Anyone have an extra BB laying around? retweet",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": " hahaa your awesomee !",
+    "gold_label": "positive",
+    "gold_id": 2,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": "Off to class .... Longggg day",
+    "gold_label": "negative",
+    "gold_id": 0,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": "@ it hurts me that my sister has so much potential and she isnt using any of it  what a waste of God-given talent.",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "at the redi med. getting checked for strep throat.",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": " My stay was great! BUT my mother gave me the cold/flu before I left and I still have a cough...",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 2,
+    "pred_label": "positive"
+  },
+  {
+    "text": "bout to watch notorious cause that`s how i`m feelin now. wish i could eat something, but i can`t.  surgery tomorrow. no food til saturday",
+    "gold_label": "negative",
+    "gold_id": 0,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": " thanks, i feel a lot better now.. but it hurt like hell!!!  good luck with the lousy student writing.",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 2,
+    "pred_label": "positive"
+  },
+  {
+    "text": "Just chillin` in pjs after a short, but long week - why is someone continually knocking at my door?",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "Omfg.lmao.lassetti was right... those bangs did look bad.  lmao",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "  yep! jimmy buffett FTW!!!... jimmy needs to tweet his words of wisdom every morning",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 2,
+    "pred_label": "positive"
+  },
+  {
+    "text": " Haha I should. But I won`t. lol Then I might miss something.",
+    "gold_label": "positive",
+    "gold_id": 2,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "Today is going to be a normal day for I hope. We had a group of pilots from a large airline come in last night so it was too much drink",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 2,
+    "pred_label": "positive"
+  },
+  {
+    "text": " but it all went too quick and there wasn`t a chance lol",
+    "gold_label": "negative",
+    "gold_id": 0,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": " We people? I`m just an amateur Ark builder, no political affiliation. All are welcome",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 2,
+    "pred_label": "positive"
+  },
+  {
+    "text": " no probs(: and yeah im still sick. no school today  lol. feel really **** but thats because im dancing lol . thanks",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "  sowwy. Lover you",
+    "gold_label": "positive",
+    "gold_id": 2,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": "Star Warz day? Really..that is a hot topic? Man..oh man.. I`m just waiting for Star Trek!",
+    "gold_label": "negative",
+    "gold_id": 0,
+    "pred_id": 2,
+    "pred_label": "positive"
+  },
+  {
+    "text": "At work again, when the weather is beautifullll",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": " It means 'luv ya' in Zulu/Xhosa. Probably spelt it wrong lol. Can`t b creative 2day ...tired  so translated",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "Working 930a-730p today. 1.5 hour lunch..8.5 hours work. Overtime = good. The fact that I`m already dead tired = very bad.",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "Taking Horse Pills, hoping I can get some sleep tonight",
+    "gold_label": "positive",
+    "gold_id": 2,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": "On the plane to yosemite. Forgot my laptop at home",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "250 miles down, only 1750 to go. Thats ok, u2 on the radio alwas helps.",
+    "gold_label": "positive",
+    "gold_id": 2,
+    "pred_id": 1,
+    "pred_label": "neutral"
+  },
+  {
+    "text": "Thinking about Con Law, fighting a headache, & Paying bills...",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 0,
+    "pred_label": "negative"
+  },
+  {
+    "text": "Ocean sounds cd",
+    "gold_label": "neutral",
+    "gold_id": 1,
+    "pred_id": 2,
+    "pred_label": "positive"
+  }
+]

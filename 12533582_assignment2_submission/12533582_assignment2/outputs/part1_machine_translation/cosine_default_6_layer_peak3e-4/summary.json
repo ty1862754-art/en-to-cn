@@ -1,0 +1,49 @@
+{
+  "name": "cosine_default_6_layer_peak3e-4",
+  "warmup_epochs": 5,
+  "peak_lr": 0.0003,
+  "min_lr": 1e-06,
+  "best_epoch": 20,
+  "best_dev_bleu": 0.2171057313335953,
+  "test_bleu": 0.19985662700394355,
+  "final_train_loss": 0.8725307042340718,
+  "training_seconds": 3146.6467051506042,
+  "num_test_examples": 1817,
+  "sample_translations": [
+    {
+      "source": "UNK !",
+      "reference": "干杯!",
+      "prediction": "转动！",
+      "reference_tokens": "干 杯 !",
+      "prediction_tokens": "转 动 ！"
+    },
+    {
+      "source": "listen .",
+      "reference": "听着。",
+      "prediction": "听听听。",
+      "reference_tokens": "听 着 。",
+      "prediction_tokens": "听 听 听 。"
+    },
+    {
+      "source": "try it .",
+      "reference": "试试吧。",
+      "prediction": "试试试。",
+      "reference_tokens": "试 试 吧 。",
+      "prediction_tokens": "试 试 试 。"
+    },
+    {
+      "source": "no way !",
+      "reference": "不可能！",
+      "prediction": "不要路！",
+      "reference_tokens": "不 可 能 ！",
+      "prediction_tokens": "不 要 路 ！"
+    },
+    {
+      "source": "drive safely .",
+      "reference": "安全地驾驶。",
+      "prediction": "安静。",
+      "reference_tokens": "安 全 地 驾 驶 。",
+      "prediction_tokens": "安 静 。"
+    }
+  ]
+}
