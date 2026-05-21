@@ -1,0 +1,7 @@
+python==3.12
+
+torch newset version (CUDA 12.1, Stable2.5.1)
+
+numpy, matplotlib, tqdm
+
+pip install nltk

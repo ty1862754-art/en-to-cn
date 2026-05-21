@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch models / saved weights
+*.pt
+save/models/
+
+# Compressed archives
+*.zip
+*.tar
+*.gz
+*.rar
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
