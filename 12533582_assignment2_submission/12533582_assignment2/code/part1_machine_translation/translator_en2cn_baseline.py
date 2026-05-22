@@ -68,59 +68,17 @@ def get_ngrams(tokens, max_order):
 
 
 def compute_bleu_like_evaluate(predictions, references, max_order=4, smooth=False):
-    """Corpus BLEU compatible with evaluate.load("bleu") for pre-tokenized strings."""
-    matches_by_order = [0] * max_order
-    possible_matches_by_order = [0] * max_order
-    reference_length = 0
-    translation_length = 0
-
-    for prediction, reference_list in zip(predictions, references):
-        pred_tokens = prediction.split()
-        ref_tokens_list = [reference.split() for reference in reference_list]
-        reference_length += min(len(ref_tokens) for ref_tokens in ref_tokens_list)
-        translation_length += len(pred_tokens)
-
-        merged_ref_ngram_counts = {}
-        for ref_tokens in ref_tokens_list:
-            ref_ngram_counts = get_ngrams(ref_tokens, max_order)
-            for ngram, count in ref_ngram_counts.items():
-                merged_ref_ngram_counts[ngram] = max(merged_ref_ngram_counts.get(ngram, 0), count)
-
-        pred_ngram_counts = get_ngrams(pred_tokens, max_order)
-        overlap = {
-            ngram: min(count, merged_ref_ngram_counts.get(ngram, 0))
-            for ngram, count in pred_ngram_counts.items()
-        }
-        for ngram, count in overlap.items():
-            matches_by_order[len(ngram) - 1] += count
-        for order in range(1, max_order + 1):
-            possible_matches = len(pred_tokens) - order + 1
-            if possible_matches > 0:
-                possible_matches_by_order[order - 1] += possible_matches
-
-    precisions = [0.0] * max_order
-    for i in range(max_order):
-        if smooth:
-            precisions[i] = (matches_by_order[i] + 1.0) / (possible_matches_by_order[i] + 1.0)
-        elif possible_matches_by_order[i] > 0:
-            precisions[i] = matches_by_order[i] / possible_matches_by_order[i]
-
-    if min(precisions) > 0:
-        p_log_sum = sum((1.0 / max_order) * math.log(p) for p in precisions)
-        geo_mean = math.exp(p_log_sum)
-    else:
-        geo_mean = 0.0
-
-    ratio = translation_length / reference_length if reference_length > 0 else 0.0
-    bp = 1.0 if ratio > 1.0 else math.exp(1 - 1.0 / ratio) if ratio > 0.0 else 0.0
-    bleu = geo_mean * bp
+    """Corpus BLEU compatible with evaluate.load("bleu") for pre-tokenized strings using sacrebleu."""
+    import sacrebleu
+    sacrebleu_refs = [[r[0] for r in references]]
+    sacre_res = sacrebleu.corpus_bleu(predictions, sacrebleu_refs, tokenize="none")
     return {
-        "bleu": bleu,
-        "precisions": precisions,
-        "brevity_penalty": bp,
-        "length_ratio": ratio,
-        "translation_length": translation_length,
-        "reference_length": reference_length,
+        "bleu": sacre_res.score / 100.0,
+        "precisions": [p / 100.0 for p in sacre_res.precisions],
+        "brevity_penalty": sacre_res.bp,
+        "length_ratio": sacre_res.sys_len / max(sacre_res.ref_len, 1),
+        "translation_length": sacre_res.sys_len,
+        "reference_length": sacre_res.ref_len,
     }
 
 
