@@ -13,6 +13,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import jieba
+import evaluate
 from tqdm import tqdm
 
 from model.transformer import build_transformer
@@ -71,18 +72,10 @@ def get_ngrams(tokens, max_order):
 
 
 def compute_bleu_like_evaluate(predictions, references, max_order=4, smooth=False):
-    """Corpus BLEU compatible with evaluate.load("bleu") for pre-tokenized strings using sacrebleu."""
-    import sacrebleu
-    sacrebleu_refs = [[r[0] for r in references]]
-    sacre_res = sacrebleu.corpus_bleu(predictions, sacrebleu_refs, tokenize="none")
-    return {
-        "bleu": sacre_res.score / 100.0,
-        "precisions": [p / 100.0 for p in sacre_res.precisions],
-        "brevity_penalty": sacre_res.bp,
-        "length_ratio": sacre_res.sys_len / max(sacre_res.ref_len, 1),
-        "translation_length": sacre_res.sys_len,
-        "reference_length": sacre_res.ref_len,
-    }
+    """Corpus BLEU compatible with evaluate.load("bleu") for pre-tokenized strings using evaluate."""
+    bleu_metric = evaluate.load("bleu")
+    return bleu_metric.compute(predictions=predictions, references=references)
+
 
 
 def greedy_decode(model, source, source_mask, tgt_word_dict, max_len, device):
