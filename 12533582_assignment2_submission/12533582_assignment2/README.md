@@ -62,6 +62,7 @@ Main code:
 - `code/part1_machine_translation/translator_en2cn_baseline.py`
 - `code/part1_machine_translation/translator_en2cn_cosine.py`
 - `code/part1_machine_translation/translator_en2cn_ablation.py`
+- `code/part1_machine_translation/part1_machine_translation.ipynb`
 - `code/part1_machine_translation/chinese_bleu.ipynb`
 
 Local dataset:
@@ -140,6 +141,14 @@ BLEU evaluation:
 ```text
 Open code/part1_machine_translation/chinese_bleu.ipynb and run all cells.
 The notebook reads the saved prediction files, applies Chinese tokenization, and records the BLEU results used in the report.
+```
+
+Integrated Part 1 notebook:
+
+```text
+Open code/part1_machine_translation/part1_machine_translation.ipynb.
+It loads the dataset once, then runs the baseline, cosine warm-up, ablation, and learnable positional embedding experiments with separate output folders and checkpoint resume support.
+Use USE_MINI_DATA=True for a quick check, or set USE_MINI_DATA=False for the full training files.
 ```
 
 Best reported translation checkpoint for downstream use:
